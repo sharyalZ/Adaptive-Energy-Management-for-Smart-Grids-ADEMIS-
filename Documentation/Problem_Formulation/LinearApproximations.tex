@@ -1,0 +1,144 @@
+The problem stated above is a nonconvex quadratic constrained programming(QCP) problem. Equations (2) and (7) are quadratic polynomials while (2) contributes towards non-convexity of the optimisation problem. These formulations can be simplified through linearization, making the formulation simpler but compromising the optimality of the solution. If higher optimality is desired than constraints relaxation is a better approach, which is discussed in the next section. \\
+
+Equation (2) when expanded can be written in the following form:
+
+\[
+        s_{ab}(t) = v_a(t)i_{ab}^\ast(t) 
+\]
+
+\[
+        s_{ab}(t) = v_a(t) \left ( y_{ab}^\ast v_{b}^\ast(t) \right ) 
+\]
+
+
+The voltage can be represented in polar coordinates as the product of magnitude and complex exponential i.e. $|v|$ $e^{j(\omega t+\theta)}$, where $\omega$ represents the angular frequency of voltage signal. Also $y_{kj} = g_{kj}+jb_{kj}$
+
+\[
+        s_{ab}(t) = \left (|v_a|e^{j(\omega t+\theta_a)}\right ) \sum_{b=1}^N \left ( \left ( g_{ab} + jb_{ab} \right ) ^\ast \left (|v_b|e^{j(\omega t+\theta_b)}\right ) ^\ast \right ) 
+\]
+
+\[
+        s_{ab}(t) = \sum_{b=1}^N \left (|v_a| |v_b| e^{j(\omega t+\theta_a)} e^{-j(\omega t+\theta_b)} \right ) \left(  g_{ab}- jb_{ab} \right )
+\]
+
+\[
+        s_{ab}(t) = \sum_{b=1}^N \left (|v_a| |v_b| e^{j(\theta_a-\theta_b)} \right )  \left(  g_{ab}- jb_{ab} \right )
+\]
+
+\[
+        s_{ab}(t) = \sum_{b=1}^N \left (|v_a| |v_b| \left ( cos(\theta_a-\theta_b) + jsin(\theta_a-\theta_b)\right ) \right ) \left(  g_{ab}- jb_{ab} \right )
+\]
+
+Last equation can be subdivided to give active and reactive power flows. 
+
+    \begin{equation}
+        p_{ab}(t) = g_{ab}|v_a|^2 - |v_a| |v_b|\left (g_{ab} \; cos(\theta_a-\theta_b) - b_{ab} \; sin(\theta_a-\theta_b)\right )
+    \end{equation}
+    
+    \begin{equation}
+        q_{ab}(t) = b_{ab}|v_a|^2 - |v_a| |v_b|\left (g_{ab} \; sin(\theta_a-\theta_b) + b_{ab} \; cos(\theta_a-\theta_b)\right )
+    \end{equation}
+ 
+Linearization is applied on equation (18) and (19). Formulations in this section are linearized, hence can be solved using mixed integer linear programming approach.
+
+\subsubsection{Linearized Power Flow:}\footnote{It will be necessary to confirm/infirm these assumptions a posteriori, for instance by using PowerFactory with the obtained solution.}
+
+For linearized power flow, following assumptions are made:
+\begin{itemize}
+    \item Voltage magnitudes are close to one per unit, i.e. $|v_a|=1$
+    \item Conductance values are negligible, i.e. $g_{ab}=0$
+    \item Voltage difference values are small enough to occupy linear region of the sine function, i.e. $(\theta_a - \theta_b)=sin(\theta_a - \theta_b)$
+    \item Reactive power flows are negligible, i.e. $q_{ab}=0$
+\end{itemize}
+
+With these assumptions and utilizing equation (18) and (19), following feasible set is formed for linearized optimal power flow for optimisation problem under study. 
+
+\begin{tcolorbox}[colback=gray!5!white,colframe=gray!25!black,title=Feasible Set 1 (Linearized Power Flow)]
+\[
+Objective Function\hspace{0.1cm}(1)
+\]
+
+\[
+  p_{ab}(t)=b_{ab}(\theta_a - \theta_b)
+\]
+
+\[
+\sum_b p_{ab}(t)=p_a(t)
+\]
+
+\[
+p_{a,min}\leq p_{a}(t)\leq p_{a,max}
+\]
+
+\[
+|p_{ab}(t)|\leq s_{ab}(t)
+\]
+
+\[
+Eq.(9) - Eq.(17) \hspace{0.5cm} [Electric \hspace{0.1cm} Vehicles \hspace{0.1cm}  Constraints] 
+\]
+
+\end{tcolorbox}
+
+\subsubsection{Decoupled Power Flow:}
+
+The decoupled power flow consists of the linearized power flow plus a linear approximations of the constraints on the reactive powers. First three assumptions of the previous section also hold true for this case. In addition, only one of the $|v_a|$ variable in the first term of equation (19) is set to one per unit voltage value. Applying these assumptions, decoupled power flow is given as: 
+
+\begin{tcolorbox}[colback=gray!5!white,colframe=gray!25!black,title=Feasible Set 2 (Decoupled Power Flow):]
+\[
+Objective Function\hspace{0.1cm}(1)
+\]
+
+\[
+Feasible \hspace{0.1cm} Set \hspace{0.1cm} 1 \hspace{0.5cm} [Linearized \hspace{0.1cm} Power \hspace{0.1cm}  Flow] 
+\]
+
+\[
+  q_{ab}(t)=b_{ab}(|v_a| - |v_b|)
+\]
+
+\[
+\sum_b q_{ab}(t)=q_a(t)
+\]
+
+\[
+q_{a,min}\leq q_{a}(t)\leq q_{a,max}
+\]
+
+\[
+v_{a,min}\leq \left |v_{a}(t) \right | \leq v_{a,max}
+\]
+\end{tcolorbox}
+
+\subsubsection{Network Flow:}
+
+The simplest linearization can be formed by neglecting all the electrical physics in the networks such as losses and just considering simple conservation of the power in the network. Quadratic constraint (7) can be linearized by approximating it as a polyhedral constraint. Further simplifications can be performed by neglecting reactive power flows in the study cases(not shown here). This formation set is listed below: 
+
+\begin{tcolorbox}[colback=gray!5!white,colframe=gray!25!black,title=Feasible Set 3 (Network Flow):]
+\[
+Objective Function\hspace{0.1cm}(1)
+\]
+
+\[
+  p_{ab}(t) + p_{ba}(t)= 0 
+\]
+
+\[
+  q_{ab}(t) + q_{ba}(t)= 0 
+\]
+
+\[
+Eq.(3) - Eq.(6)\hspace{0.1cm} \&\hspace{0.1cm} Eq.(9) - Eq.(17) \hspace{0.5cm} [Power \hspace{0.1cm} Flow \hspace{0.1cm}  Constraints] 
+\]
+
+\[
+ \left.\begin{aligned}
+        |p_{ab}(t)| + |q_{ab}(t)|\leq \sqrt{2}s_{ab}(t)\\
+        |p_{ab}(t)|\leq s_{ab}(t)\\
+        |q_{ab}(t)|\leq s_{ab}(t)
+       \end{aligned}
+ \right\}
+ \qquad \text{Polyhedral Constraints}
+\]
+
+\end{tcolorbox}

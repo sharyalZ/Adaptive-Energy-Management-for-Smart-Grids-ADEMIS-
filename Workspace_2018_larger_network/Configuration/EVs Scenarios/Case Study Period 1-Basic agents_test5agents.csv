@@ -1,0 +1,32 @@
+% EV id; departure time; arrival time; SoE0
+
+% Zone A
+EV1;18:00:00;08:00:00;0.6
+
+
+% Zone B
+EV2(1);14:10:00;08:00:00;0.67
+
+
+% Zone C
+EV3(2);14:20:00;08:00:00;0.65
+
+
+% Zone D
+EV4(3);14:40:00;08:00:00;0.6
+
+
+% Zone E
+EV5(4);14:50:00;08:00:00;0.6
+
+
+% Zone F
+
+
+% Zone G
+
+
+% Zone H
+
+
+% Zone I

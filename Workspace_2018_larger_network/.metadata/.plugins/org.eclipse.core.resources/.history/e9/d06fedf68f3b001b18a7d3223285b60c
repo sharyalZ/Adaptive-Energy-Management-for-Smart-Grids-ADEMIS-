@@ -1,0 +1,238 @@
+package ui;
+
+import java.awt.GridLayout;
+import java.util.Arrays;
+import java.io.FileNotFoundException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.GregorianCalendar;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import javax.swing.JCheckBox;
+import javax.swing.JFormattedTextField;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+
+public class EVsScenarioPanel extends ScenarioPanel {
+	private static final long serialVersionUID = 1L;
+	private Map<String, JFormattedTextField> evDepartureTimeField;
+	private Map<String, JFormattedTextField> evArrivalTimeField;
+	private Map<String, GregorianCalendar> evDepartureTime;
+	private Map<String, GregorianCalendar> evArrivalTime;
+	private Map<String, JPanel> evDepartureTimePanel;
+	private Map<String, JCheckBox> evActivated;
+
+	private Map<String, JFormattedTextField> evSoE0Field;
+
+	private List<String> evList;
+
+	private List<String> selectedEVs;
+
+	private List<String> otherParameters;
+
+	private int nbEVs;
+
+	private int nbParameters;
+
+	public EVsScenarioPanel() {
+		super("\\EVs Scenarios");
+	}
+
+	@Override
+	protected void parametersInitialisation() {
+		String ConfigFilePath = defaulConfigPath + "\\Default.csv";
+		Map<String, List<String>> config = null;
+		try {
+			config = Reader.readFile(ConfigFilePath);
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		nbEVs = Integer.parseInt(config.get("nbEVs").get(0));
+		evList = new ArrayList<>();// Available EVs in the power grid
+		/*
+		 * evList.add("EV1"); evList.add("EV2"); if(nbEVs==3) { evList.add("EV3"); }else
+		 * if(nbEVs==55) { for(int i=3;i<=55;i++) { evList.add("EV"+i); } }else {
+		 * JOptionPane.showMessageDialog(null, "Not a known number of EVs", "Error",
+		 * JOptionPane.ERROR_MESSAGE); }
+		 */
+		for (int i = 1; i <= nbEVs; i++) {
+			evList.add("EV" + i);
+		}
+
+		nbParameters = 3;
+		evDepartureTimeField = new HashMap<>();
+		evDepartureTime = new HashMap<>();
+		evArrivalTime = new HashMap<>();
+		evArrivalTimeField = new HashMap<>();
+		evSoE0Field = new HashMap<>();
+		evActivated = new HashMap<>();
+		evDepartureTimePanel = new HashMap<>();
+		selectedEVs = new ArrayList<>();
+		otherParameters = new ArrayList<>();
+		otherParameters.add("nbEVs");
+
+		parametersMapsInitialization();
+		frameCreation();
+
+		this.setLayout(new GridLayout(100, 1));
+		defineNewConfig(config);
+
+	}
+
+	private void frameCreation() {
+		for (String evName : evList) {
+			if (!evDepartureTimePanel.containsKey(evName)) {
+				evDepartureTimeField.get(evName).setValue(evDepartureTime.get(evName).getTime());
+				evArrivalTimeField.get(evName).setValue(evArrivalTime.get(evName).getTime());
+
+				evDepartureTimePanel.put(evName, new JPanel());
+				evDepartureTimePanel.get(evName).add(new JLabel(evName + " : departure time = "));
+				evDepartureTimePanel.get(evName).add(evDepartureTimeField.get(evName));
+				evDepartureTimePanel.get(evName).add(new JLabel(", arrival time = "));
+				evDepartureTimePanel.get(evName).add(evArrivalTimeField.get(evName));
+				evDepartureTimePanel.get(evName).add(new JLabel(", SoE0 = "));
+				evDepartureTimePanel.get(evName).add(evSoE0Field.get(evName));
+				evDepartureTimePanel.get(evName).add(evActivated.get(evName));
+				this.add(evDepartureTimePanel.get(evName));
+			}
+		}
+
+		this.setLayout(new GridLayout(evDepartureTimePanel.size() + 1, 1));
+		this.updateUI();
+	}
+
+	private void parametersMapsInitialization() {
+		for (String evName : evList) {
+			if (!evDepartureTimeField.containsKey(evName)) {
+				evDepartureTimeField.put(evName, new JFormattedTextField(new SimpleDateFormat("d/M/yyyy HH:mm:ss")));
+
+				evDepartureTime.put(evName, new GregorianCalendar(2019, 0, 1));
+				evDepartureTime.get(evName).set(Calendar.SECOND, 0);
+				evDepartureTime.get(evName).set(Calendar.MILLISECOND, 0);
+				evDepartureTime.get(evName).set(Calendar.MINUTE, 0);
+
+				evArrivalTimeField.put(evName, new JFormattedTextField(new SimpleDateFormat("d/M/yyyy HH:mm:ss")));
+
+				evArrivalTime.put(evName, new GregorianCalendar(2019, 0, 1));
+				evArrivalTime.get(evName).set(Calendar.SECOND, 0);
+				evArrivalTime.get(evName).set(Calendar.MILLISECOND, 0);
+				evArrivalTime.get(evName).set(Calendar.MINUTE, 0);
+
+				evSoE0Field.put(evName, new JFormattedTextField());
+
+				evDepartureTime.get(evName).set(Calendar.HOUR_OF_DAY, 19);
+				evArrivalTime.get(evName).set(Calendar.HOUR_OF_DAY, 15);
+				evSoE0Field.get(evName).setColumns(4);
+				evSoE0Field.get(evName).setValue(0.7);
+				evActivated.put(evName, new JCheckBox("activated", false));
+			}
+		}
+	}
+
+	@Override
+	protected void defineNewConfig(Map<String, List<String>> evsConfig) {
+		selectedEVs.clear();
+		int count=0;
+		System.out.println(evList);
+		for (String ev : evActivated.keySet()) {
+			evActivated.get(ev).setSelected(false);
+
+		}
+
+		for (String ev : evsConfig.keySet()) {
+			if (!evList.contains(ev) && !otherParameters.contains(ev)) {
+				evList.add(ev);
+			}
+		}
+		System.out.println(evList);
+		parametersMapsInitialization();
+		frameCreation();
+
+		boolean bugDetection = true;
+		for (String ev : evsConfig.keySet()) {
+			selectedEVs.add(ev);
+			System.out.println("################ EV = "+ev);
+			if (evActivated.containsKey(ev)) {
+				
+				evActivated.get(ev).setSelected(true);
+				System.out.println("################ EVs config size = "+evsConfig.get(ev).size());
+				System.out.println("################ nbParameters = "+nbParameters);
+				if (evsConfig.get(ev).size() == nbParameters) {
+					//System.out.println("################ EVs config size = "+evsConfig.get(ev).size());
+					//System.out.println("################ nbParameters = "+nbParameters);
+					String[] departureTime = evsConfig.get(ev).get(0).split(":");
+					
+					evDepartureTime.get(ev).set(Calendar.SECOND, Integer.parseInt(departureTime[2]));
+					evDepartureTime.get(ev).set(Calendar.MILLISECOND, 0);
+					evDepartureTime.get(ev).set(Calendar.MINUTE, Integer.parseInt(departureTime[1]));
+					evDepartureTime.get(ev).set(Calendar.HOUR_OF_DAY, Integer.parseInt(departureTime[0]));
+					evDepartureTimeField.get(ev).setValue(evDepartureTime.get(ev).getTime());
+
+					String[] arrivalTime = evsConfig.get(ev).get(1).split(":");
+					evArrivalTime.get(ev).set(Calendar.SECOND, Integer.parseInt(arrivalTime[2]));
+					evArrivalTime.get(ev).set(Calendar.MILLISECOND, 0);
+					evArrivalTime.get(ev).set(Calendar.MINUTE, Integer.parseInt(arrivalTime[1]));
+					evArrivalTime.get(ev).set(Calendar.HOUR_OF_DAY, Integer.parseInt(arrivalTime[0]));
+					evArrivalTimeField.get(ev).setValue(evArrivalTime.get(ev).getTime());
+
+					evSoE0Field.get(ev).setValue(Double.parseDouble(evsConfig.get(ev).get(2)));
+					//System.out.println("################ EV = "+ev);
+					//System.out.println("################ Departure Time = "+Arrays.toString(departureTime));
+					//System.out.println("################ SOE = "+Double.parseDouble(evsConfig.get(ev).get(2)));
+					count=count+1;
+					
+				} else if (bugDetection) {
+					
+					JOptionPane.showMessageDialog(null, "Uncorrect number of parameters", "Error : EVScenarioPanel",
+							JOptionPane.ERROR_MESSAGE);
+					
+					bugDetection = false;
+				}
+			} else if (bugDetection && !otherParameters.contains(ev)) {
+				JOptionPane.showMessageDialog(null, "Unknown EV : " + ev, "Error : EVScenarioPanel",
+						JOptionPane.ERROR_MESSAGE);
+				bugDetection = false;
+			}
+
+		}
+		System.out.println("################ COUNT = "+count);
+	}
+
+	public Map<String, GregorianCalendar> getEvDepartureTime() {
+
+		for (String evName : evList) {
+			evDepartureTime.get(evName).setTime((Date) evDepartureTimeField.get(evName).getValue());
+		}
+		return evDepartureTime;
+	}
+
+	public Map<String, GregorianCalendar> getEvArrivalTime() {
+		for (String evName : evList) {
+			evArrivalTime.get(evName).setTime((Date) evArrivalTimeField.get(evName).getValue());
+		}
+		return evArrivalTime;
+	}
+
+	public Map<String, Boolean> getEvActivated() {
+		Map<String, Boolean> activatedEVs = new HashMap<>();
+		for (String evName : evList) {
+			activatedEVs.put(evName, evActivated.get(evName).isSelected());
+		}
+		return activatedEVs;
+	}
+
+	public Map<String, Double> getEvSoE0() {
+		Map<String, Double> evSoE0 = new HashMap<>();
+		for (String evName : evList) {
+			evSoE0.put(evName, (double) evSoE0Field.get(evName).getValue());
+		}
+		return evSoE0;
+	}
+
+}

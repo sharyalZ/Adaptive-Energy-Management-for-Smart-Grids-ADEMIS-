@@ -1,0 +1,5 @@
+% Parameter id; value
+Imin rate;0.9
+Default ratedCurrent;3
+Line(17);NAME;3
+zone A;TYPE;0.05

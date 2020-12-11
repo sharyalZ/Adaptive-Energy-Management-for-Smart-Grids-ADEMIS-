@@ -1,0 +1,4 @@
+% EV id; departure time; arrival time; SoE0
+
+% Zone A
+EV1;18:00:00;08:00:00;0.5

@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\.metadata\.plugins\org.eclipse.jdt.core
+3440532406.index
+2334254828.index
+3271193799.index
+1590886388.index
+4000183278.index
+1729758074.index
+1065147671.index
+1085540616.index
+2058518832.index
+844942584.index
+3582096516.index
+3888643813.index
+3364411884.index
+1784818685.index
+1980023018.index

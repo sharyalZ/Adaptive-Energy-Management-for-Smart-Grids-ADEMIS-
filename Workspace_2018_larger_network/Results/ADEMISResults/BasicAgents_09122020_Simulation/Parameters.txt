@@ -1,0 +1,3173 @@
+Grid : Larger_network_AB
+startTime : 14:00:00
+endTime : 14:15:00
+PFTimeStep : 0.01 s
+SMAPeriod : 1.0 s
+criticalityRate : 0.0
+evDeparture : EV20(5) : 18:00:00
+evDeparture : EV42(8) : 00:00:00
+evDeparture : EV21(2) : 18:00:00
+evDeparture : EV44(2) : 00:00:00
+evDeparture : EV43(5) : 00:00:00
+evDeparture : EV19(5) : 18:00:00
+evDeparture : EV31(6) : 17:28:00
+evDeparture : EV32(3) : 00:00:00
+evDeparture : EV54(6) : 00:00:00
+evDeparture : EV18(8) : 18:00:00
+evDeparture : EV55(3) : 00:00:00
+evDeparture : EV10(1) : 15:06:00
+evDeparture : EV43(6) : 00:00:00
+evDeparture : EV20(4) : 00:00:00
+evDeparture : EV1(2) : 14:45:00
+evDeparture : EV44(3) : 00:00:00
+evDeparture : EV1(1) : 14:45:00
+evDeparture : EV21(1) : 18:00:00
+evDeparture : EV30(8) : 18:00:00
+evDeparture : EV31(5) : 17:28:00
+evDeparture : EV19(6) : 18:00:00
+evDeparture : EV32(2) : 18:00:00
+evDeparture : EV54(7) : 00:00:00
+evDeparture : EV55(4) : 00:00:00
+evDeparture : EV22(1) : 18:00:00
+evDeparture : EV21(4) : 00:00:00
+evDeparture : EV43(3) : 00:00:00
+evDeparture : EV42(6) : 00:00:00
+evDeparture : EV20(7) : 18:00:00
+evDeparture : EV1(3) : 14:45:00
+evDeparture : EV10(2) : 15:06:00
+evDeparture : EV32(5) : 18:00:00
+evDeparture : EV19(7) : 18:00:00
+evDeparture : EV53(7) : 00:00:00
+evDeparture : EV33(2) : 18:00:00
+evDeparture : EV54(4) : 00:00:00
+evDeparture : EV55(1) : 00:00:00
+evDeparture : EV31(8) : 17:28:00
+evDeparture : EV21(3) : 00:00:00
+evDeparture : EV20(6) : 18:00:00
+evDeparture : EV42(7) : 00:00:00
+evDeparture : EV44(1) : 00:00:00
+evDeparture : EV1(4) : 14:45:00
+evDeparture : EV2(1) : 14:44:00
+evDeparture : EV43(4) : 00:00:00
+evDeparture : EV10(3) : 15:06:00
+evDeparture : EV32(4) : 00:00:00
+evDeparture : EV33(1) : 18:00:00
+evDeparture : EV19(8) : 18:00:00
+evDeparture : EV53(8) : 00:00:00
+evDeparture : EV55(2) : 00:00:00
+evDeparture : EV54(5) : 00:00:00
+evDeparture : EV31(7) : 17:28:00
+evDeparture : EV9(5) : 15:00:00
+evDeparture : EV31(2) : 17:28:00
+evDeparture : EV8(8) : 14:31:00
+evDeparture : EV29(6) : 18:00:00
+evDeparture : EV42(4) : 00:00:00
+evDeparture : EV41(7) : 00:00:00
+evDeparture : EV43(1) : 00:00:00
+evDeparture : EV20(1) : 18:00:00
+evDeparture : EV17(7) : 18:00:00
+evDeparture : EV52(8) : 00:00:00
+evDeparture : EV19(1) : 18:00:00
+evDeparture : EV53(5) : 00:00:00
+evDeparture : EV30(5) : 18:00:00
+evDeparture : EV54(2) : 00:00:00
+evDeparture : EV18(4) : 00:00:00
+evDeparture : EV31(1) : 17:28:00
+evDeparture : EV9(6) : 15:00:00
+evDeparture : EV41(8) : 00:00:00
+evDeparture : EV28(8) : 17:28:00
+evDeparture : EV43(2) : 00:00:00
+evDeparture : EV29(5) : 18:00:00
+evDeparture : EV42(5) : 00:00:00
+evDeparture : EV17(8) : 18:00:00
+evDeparture : EV30(4) : 00:00:00
+evDeparture : EV19(2) : 18:00:00
+evDeparture : EV53(6) : 00:00:00
+evDeparture : EV54(3) : 00:00:00
+evDeparture : EV18(5) : 18:00:00
+evDeparture : EV32(1) : 18:00:00
+evDeparture : EV9(7) : 15:00:00
+evDeparture : EV29(8) : 18:00:00
+evDeparture : EV20(3) : 00:00:00
+evDeparture : EV41(5) : 00:00:00
+evDeparture : EV40(8) : 18:00:00
+evDeparture : EV42(2) : 00:00:00
+evDeparture : EV18(6) : 18:00:00
+evDeparture : EV31(4) : 00:00:00
+evDeparture : EV52(6) : 00:00:00
+evDeparture : EV19(3) : 00:00:00
+evDeparture : EV53(3) : 00:00:00
+evDeparture : EV30(7) : 18:00:00
+evDeparture : EV54(1) : 00:00:00
+evDeparture : EV9(8) : 15:00:00
+evDeparture : EV29(7) : 18:00:00
+evDeparture : EV42(3) : 00:00:00
+evDeparture : EV41(6) : 00:00:00
+evDeparture : EV20(2) : 18:00:00
+evDeparture : EV18(7) : 18:00:00
+evDeparture : EV31(3) : 00:00:00
+evDeparture : EV52(7) : 00:00:00
+evDeparture : EV30(6) : 18:00:00
+evDeparture : EV19(4) : 00:00:00
+evDeparture : EV53(4) : 00:00:00
+evDeparture : EV53(1) : 00:00:00
+evDeparture : EV30(1) : 18:00:00
+evDeparture : EV2(6) : 14:44:00
+evDeparture : EV27(8) : 18:00:00
+evDeparture : EV28(5) : 17:28:00
+evDeparture : EV29(2) : 18:00:00
+evDeparture : EV3(3) : 14:50:00
+evDeparture : EV40(6) : 18:00:00
+evDeparture : EV41(3) : 00:00:00
+evDeparture : EV39(6) : 18:00:00
+evDeparture : EV17(3) : 00:00:00
+evDeparture : EV51(7) : 00:00:00
+evDeparture : EV52(4) : 00:00:00
+evDeparture : EV16(6) : 17:26:00
+evDeparture : EV29(1) : 18:00:00
+evDeparture : EV53(2) : 00:00:00
+evDeparture : EV2(7) : 14:44:00
+evDeparture : EV3(4) : 14:50:00
+evDeparture : EV27(7) : 18:00:00
+evDeparture : EV40(7) : 18:00:00
+evDeparture : EV41(4) : 00:00:00
+evDeparture : EV4(1) : 14:15:00
+evDeparture : EV28(4) : 00:00:00
+evDeparture : EV39(5) : 18:00:00
+evDeparture : EV18(1) : 18:00:00
+evDeparture : EV42(1) : 00:00:00
+evDeparture : EV38(8) : 18:00:00
+evDeparture : EV17(4) : 00:00:00
+evDeparture : EV51(8) : 00:00:00
+evDeparture : EV52(5) : 00:00:00
+evDeparture : EV16(7) : 17:26:00
+evDeparture : EV52(2) : 00:00:00
+evDeparture : EV30(3) : 00:00:00
+evDeparture : EV3(5) : 14:50:00
+evDeparture : EV2(8) : 14:44:00
+evDeparture : EV28(7) : 17:28:00
+evDeparture : EV29(4) : 00:00:00
+evDeparture : EV4(2) : 14:15:00
+evDeparture : EV41(1) : 00:00:00
+evDeparture : EV40(4) : 00:00:00
+evDeparture : EV39(8) : 18:00:00
+evDeparture : EV16(8) : 17:26:00
+evDeparture : EV18(2) : 18:00:00
+evDeparture : EV50(8) : 00:00:00
+evDeparture : EV17(5) : 18:00:00
+evDeparture : EV51(5) : 00:00:00
+evDeparture : EV52(3) : 00:00:00
+evDeparture : EV30(2) : 18:00:00
+evDeparture : EV4(3) : 14:15:00
+evDeparture : EV3(6) : 14:50:00
+evDeparture : EV28(6) : 17:28:00
+evDeparture : EV40(5) : 18:00:00
+evDeparture : EV29(3) : 00:00:00
+evDeparture : EV41(2) : 00:00:00
+evDeparture : EV39(7) : 18:00:00
+evDeparture : EV18(3) : 00:00:00
+evDeparture : EV17(6) : 18:00:00
+evDeparture : EV51(6) : 00:00:00
+evDeparture : EV28(1) : 17:28:00
+evDeparture : EV51(3) : 00:00:00
+evDeparture : EV49(7) : 00:00:00
+evDeparture : EV1(5) : 14:45:00
+evDeparture : EV26(7) : 18:00:00
+evDeparture : EV2(2) : 14:44:00
+evDeparture : EV27(4) : 00:00:00
+evDeparture : EV38(5) : 18:00:00
+evDeparture : EV16(2) : 17:26:00
+evDeparture : EV40(2) : 18:00:00
+evDeparture : EV37(8) : 18:00:00
+evDeparture : EV14(8) : 18:00:00
+evDeparture : EV15(5) : 18:00:00
+evDeparture : EV39(2) : 18:00:00
+evDeparture : EV50(6) : 00:00:00
+evDeparture : EV2 : 14:44:00
+evDeparture : EV27(3) : 00:00:00
+evDeparture : EV51(4) : 00:00:00
+evDeparture : EV1 : 14:45:00
+evDeparture : EV4 : 14:15:00
+evDeparture : EV52(1) : 00:00:00
+evDeparture : EV3 : 14:50:00
+evDeparture : EV6 : 14:30:00
+evDeparture : EV5 : 14:30:00
+evDeparture : EV49(8) : 00:00:00
+evDeparture : EV8 : 14:31:00
+evDeparture : EV7 : 14:31:00
+evDeparture : EV9 : 15:00:00
+evDeparture : EV1(6) : 14:45:00
+evDeparture : EV2(3) : 14:44:00
+evDeparture : EV26(6) : 18:00:00
+evDeparture : EV40(3) : 00:00:00
+evDeparture : EV38(4) : 00:00:00
+evDeparture : EV16(3) : 00:00:00
+evDeparture : EV37(7) : 18:00:00
+evDeparture : EV39(1) : 18:00:00
+evDeparture : EV50(7) : 00:00:00
+evDeparture : EV15(6) : 18:00:00
+evDeparture : EV49(5) : 00:00:00
+evDeparture : EV50(4) : 00:00:00
+evDeparture : EV48(8) : 00:00:00
+evDeparture : EV51(1) : 00:00:00
+evDeparture : EV1(7) : 14:45:00
+evDeparture : EV3(1) : 14:50:00
+evDeparture : EV2(4) : 14:44:00
+evDeparture : EV27(6) : 18:00:00
+evDeparture : EV28(3) : 00:00:00
+evDeparture : EV39(4) : 00:00:00
+evDeparture : EV17(1) : 18:00:00
+evDeparture : EV38(7) : 18:00:00
+evDeparture : EV15(7) : 18:00:00
+evDeparture : EV16(4) : 00:00:00
+evDeparture : EV50(5) : 00:00:00
+evDeparture : EV28(2) : 17:28:00
+evDeparture : EV51(2) : 00:00:00
+evDeparture : EV49(6) : 00:00:00
+evDeparture : EV1(8) : 14:45:00
+evDeparture : EV2(5) : 14:44:00
+evDeparture : EV26(8) : 18:00:00
+evDeparture : EV27(5) : 18:00:00
+evDeparture : EV3(2) : 14:50:00
+evDeparture : EV39(3) : 00:00:00
+evDeparture : EV40(1) : 18:00:00
+evDeparture : EV17(2) : 18:00:00
+evDeparture : EV38(6) : 18:00:00
+evDeparture : EV16(5) : 17:26:00
+evDeparture : EV15(8) : 18:00:00
+evDeparture : EV26(3) : 00:00:00
+evDeparture : EV50(2) : 00:00:00
+evDeparture : EV48(6) : 00:00:00
+evDeparture : EV4(8) : 14:15:00
+evDeparture : EV6(2) : 14:30:00
+evDeparture : EV5(5) : 14:30:00
+evDeparture : EV49(3) : 00:00:00
+evDeparture : EV25(6) : 18:00:00
+evDeparture : EV14(4) : 00:00:00
+evDeparture : EV36(7) : 18:00:00
+evDeparture : EV15(1) : 18:00:00
+evDeparture : EV38(1) : 18:00:00
+evDeparture : EV13(7) : 15:24:00
+evDeparture : EV37(4) : 00:00:00
+evDeparture : EV25(5) : 18:00:00
+evDeparture : EV48(7) : 00:00:00
+evDeparture : EV49(4) : 00:00:00
+evDeparture : EV24(8) : 18:00:00
+evDeparture : EV26(2) : 18:00:00
+evDeparture : EV50(3) : 00:00:00
+evDeparture : EV5(6) : 14:30:00
+evDeparture : EV6(3) : 14:30:00
+evDeparture : EV14(5) : 18:00:00
+evDeparture : EV36(6) : 18:00:00
+evDeparture : EV15(2) : 18:00:00
+evDeparture : EV37(3) : 00:00:00
+evDeparture : EV13(8) : 15:24:00
+evDeparture : EV27(2) : 18:00:00
+evDeparture : EV47(7) : 00:00:00
+evDeparture : EV5(7) : 14:30:00
+evDeparture : EV7(1) : 14:31:00
+evDeparture : EV6(4) : 14:30:00
+evDeparture : EV49(1) : 00:00:00
+evDeparture : EV48(4) : 00:00:00
+evDeparture : EV25(8) : 18:00:00
+evDeparture : EV26(5) : 18:00:00
+evDeparture : EV15(3) : 00:00:00
+evDeparture : EV37(6) : 18:00:00
+evDeparture : EV14(6) : 18:00:00
+evDeparture : EV38(3) : 00:00:00
+evDeparture : EV26(4) : 00:00:00
+evDeparture : EV47(8) : 00:00:00
+evDeparture : EV27(1) : 18:00:00
+evDeparture : EV48(5) : 00:00:00
+evDeparture : EV50(1) : 00:00:00
+evDeparture : EV6(5) : 14:30:00
+evDeparture : EV5(8) : 14:30:00
+evDeparture : EV7(2) : 14:31:00
+evDeparture : EV25(7) : 18:00:00
+evDeparture : EV49(2) : 00:00:00
+evDeparture : EV16(1) : 17:26:00
+evDeparture : EV37(5) : 18:00:00
+evDeparture : EV15(4) : 00:00:00
+evDeparture : EV36(8) : 18:00:00
+evDeparture : EV38(2) : 18:00:00
+evDeparture : EV14(7) : 18:00:00
+evDeparture : EV23(8) : 18:00:00
+evDeparture : EV46(8) : 00:00:00
+evDeparture : EV25(2) : 18:00:00
+evDeparture : EV4(4) : 14:15:00
+evDeparture : EV3(7) : 14:50:00
+evDeparture : EV47(5) : 00:00:00
+evDeparture : EV5(1) : 14:30:00
+evDeparture : EV24(5) : 18:00:00
+evDeparture : EV20 : 18:00:00
+evDeparture : EV48(2) : 00:00:00
+evDeparture : EV21 : 18:00:00
+evDeparture : EV22 : 18:00:00
+evDeparture : EV12(6) : 15:18:00
+evDeparture : EV23 : 18:00:00
+evDeparture : EV13(3) : 00:00:00
+evDeparture : EV24 : 18:00:00
+evDeparture : EV25 : 18:00:00
+evDeparture : EV26 : 18:00:00
+evDeparture : EV27 : 18:00:00
+evDeparture : EV28 : 17:28:00
+evDeparture : EV29 : 18:00:00
+evDeparture : EV36(3) : 00:00:00
+evDeparture : EV35(6) : 18:00:00
+evDeparture : EV47(6) : 00:00:00
+evDeparture : EV25(1) : 18:00:00
+evDeparture : EV3(8) : 14:50:00
+evDeparture : EV5(2) : 14:30:00
+evDeparture : EV4(5) : 14:15:00
+evDeparture : EV48(3) : 00:00:00
+evDeparture : EV24(4) : 00:00:00
+evDeparture : EV23(7) : 18:00:00
+evDeparture : EV10 : 15:06:00
+evDeparture : EV12(7) : 15:18:00
+evDeparture : EV11 : 15:12:00
+evDeparture : EV12 : 15:18:00
+evDeparture : EV34(8) : 18:00:00
+evDeparture : EV13 : 15:24:00
+evDeparture : EV13(4) : 00:00:00
+evDeparture : EV14 : 18:00:00
+evDeparture : EV15 : 18:00:00
+evDeparture : EV14(1) : 18:00:00
+evDeparture : EV16 : 17:26:00
+evDeparture : EV17 : 18:00:00
+evDeparture : EV18 : 18:00:00
+evDeparture : EV19 : 18:00:00
+evDeparture : EV36(2) : 18:00:00
+evDeparture : EV35(5) : 18:00:00
+evDeparture : EV24(7) : 18:00:00
+evDeparture : EV25(4) : 00:00:00
+evDeparture : EV26(1) : 18:00:00
+evDeparture : EV5(3) : 14:30:00
+evDeparture : EV4(6) : 14:15:00
+evDeparture : EV46(6) : 00:00:00
+evDeparture : EV40 : 18:00:00
+evDeparture : EV41 : 18:00:00
+evDeparture : EV42 : 18:00:00
+evDeparture : EV47(3) : 00:00:00
+evDeparture : EV43 : 18:00:00
+evDeparture : EV13(5) : 15:24:00
+evDeparture : EV35(8) : 18:00:00
+evDeparture : EV44 : 17:42:00
+evDeparture : EV45 : 17:04:00
+evDeparture : EV14(2) : 18:00:00
+evDeparture : EV46 : 18:00:00
+evDeparture : EV47 : 18:00:00
+evDeparture : EV48 : 18:00:00
+evDeparture : EV49 : 18:00:00
+evDeparture : EV37(2) : 18:00:00
+evDeparture : EV36(5) : 18:00:00
+evDeparture : EV12(8) : 15:18:00
+evDeparture : EV25(3) : 00:00:00
+evDeparture : EV46(7) : 00:00:00
+evDeparture : EV4(7) : 14:15:00
+evDeparture : EV6(1) : 14:30:00
+evDeparture : EV5(4) : 14:30:00
+evDeparture : EV47(4) : 00:00:00
+evDeparture : EV30 : 18:00:00
+evDeparture : EV48(1) : 00:00:00
+evDeparture : EV31 : 17:28:00
+evDeparture : EV24(6) : 18:00:00
+evDeparture : EV32 : 18:00:00
+evDeparture : EV33 : 18:00:00
+evDeparture : EV13(6) : 15:24:00
+evDeparture : EV35(7) : 18:00:00
+evDeparture : EV34 : 18:00:00
+evDeparture : EV35 : 18:00:00
+evDeparture : EV14(3) : 00:00:00
+evDeparture : EV36 : 18:00:00
+evDeparture : EV37 : 18:00:00
+evDeparture : EV38 : 18:00:00
+evDeparture : EV39 : 18:00:00
+evDeparture : EV37(1) : 18:00:00
+evDeparture : EV36(4) : 00:00:00
+evDeparture : EV8(4) : 14:31:00
+evDeparture : EV7(7) : 14:31:00
+evDeparture : EV47(1) : 00:00:00
+evDeparture : EV24(1) : 18:00:00
+evDeparture : EV9(1) : 15:00:00
+evDeparture : EV23(4) : 00:00:00
+evDeparture : EV45(7) : 00:00:00
+evDeparture : EV46(4) : 00:00:00
+evDeparture : EV22(7) : 18:00:00
+evDeparture : EV11(5) : 15:12:00
+evDeparture : EV12(2) : 15:18:00
+evDeparture : EV35(2) : 18:00:00
+evDeparture : EV33(8) : 18:00:00
+evDeparture : EV10(8) : 15:06:00
+evDeparture : EV34(5) : 18:00:00
+evDeparture : EV7(8) : 14:31:00
+evDeparture : EV8(5) : 14:31:00
+evDeparture : EV9(2) : 15:00:00
+evDeparture : EV45(8) : 00:00:00
+evDeparture : EV23(3) : 00:00:00
+evDeparture : EV50 : 18:00:00
+evDeparture : EV22(6) : 18:00:00
+evDeparture : EV51 : 18:00:00
+evDeparture : EV46(5) : 00:00:00
+evDeparture : EV52 : 17:46:00
+evDeparture : EV47(2) : 00:00:00
+evDeparture : EV53 : 18:00:00
+evDeparture : EV54 : 18:00:00
+evDeparture : EV55 : 18:00:00
+evDeparture : EV11(6) : 15:12:00
+evDeparture : EV12(3) : 00:00:00
+evDeparture : EV35(1) : 18:00:00
+evDeparture : EV33(7) : 18:00:00
+evDeparture : EV34(4) : 00:00:00
+evDeparture : EV8(6) : 14:31:00
+evDeparture : EV9(3) : 15:00:00
+evDeparture : EV46(2) : 00:00:00
+evDeparture : EV44(8) : 00:00:00
+evDeparture : EV24(3) : 00:00:00
+evDeparture : EV45(5) : 00:00:00
+evDeparture : EV23(6) : 18:00:00
+evDeparture : EV11(7) : 15:12:00
+evDeparture : EV12(4) : 00:00:00
+evDeparture : EV13(1) : 15:24:00
+evDeparture : EV36(1) : 18:00:00
+evDeparture : EV35(4) : 00:00:00
+evDeparture : EV34(7) : 18:00:00
+evDeparture : EV9(4) : 15:00:00
+evDeparture : EV8(7) : 14:31:00
+evDeparture : EV24(2) : 18:00:00
+evDeparture : EV23(5) : 18:00:00
+evDeparture : EV45(6) : 00:00:00
+evDeparture : EV22(8) : 18:00:00
+evDeparture : EV46(3) : 00:00:00
+evDeparture : EV11(8) : 15:12:00
+evDeparture : EV12(5) : 15:18:00
+evDeparture : EV13(2) : 15:24:00
+evDeparture : EV34(6) : 18:00:00
+evDeparture : EV35(3) : 00:00:00
+evDeparture : EV6(6) : 14:30:00
+evDeparture : EV45(3) : 00:00:00
+evDeparture : EV44(6) : 00:00:00
+evDeparture : EV22(3) : 00:00:00
+evDeparture : EV7(3) : 14:31:00
+evDeparture : EV21(6) : 18:00:00
+evDeparture : EV11(1) : 15:12:00
+evDeparture : EV33(4) : 00:00:00
+evDeparture : EV10(4) : 15:06:00
+evDeparture : EV34(1) : 18:00:00
+evDeparture : EV55(7) : 00:00:00
+evDeparture : EV32(7) : 18:00:00
+evDeparture : EV7(4) : 14:31:00
+evDeparture : EV6(7) : 14:30:00
+evDeparture : EV22(2) : 18:00:00
+evDeparture : EV46(1) : 00:00:00
+evDeparture : EV21(5) : 18:00:00
+evDeparture : EV44(7) : 00:00:00
+evDeparture : EV8(1) : 14:31:00
+evDeparture : EV45(4) : 00:00:00
+evDeparture : EV20(8) : 18:00:00
+evDeparture : EV11(2) : 15:12:00
+evDeparture : EV33(3) : 00:00:00
+evDeparture : EV55(8) : 00:00:00
+evDeparture : EV10(5) : 15:06:00
+evDeparture : EV32(6) : 18:00:00
+evDeparture : EV7(5) : 14:31:00
+evDeparture : EV6(8) : 14:30:00
+evDeparture : EV43(7) : 00:00:00
+evDeparture : EV45(1) : 00:00:00
+evDeparture : EV23(2) : 18:00:00
+evDeparture : EV8(2) : 14:31:00
+evDeparture : EV22(5) : 18:00:00
+evDeparture : EV44(4) : 00:00:00
+evDeparture : EV21(8) : 18:00:00
+evDeparture : EV11(3) : 00:00:00
+evDeparture : EV54(8) : 00:00:00
+evDeparture : EV34(3) : 00:00:00
+evDeparture : EV55(5) : 00:00:00
+evDeparture : EV10(6) : 15:06:00
+evDeparture : EV33(6) : 18:00:00
+evDeparture : EV8(3) : 14:31:00
+evDeparture : EV7(6) : 14:31:00
+evDeparture : EV44(5) : 00:00:00
+evDeparture : EV23(1) : 18:00:00
+evDeparture : EV45(2) : 00:00:00
+evDeparture : EV22(4) : 00:00:00
+evDeparture : EV43(8) : 00:00:00
+evDeparture : EV21(7) : 18:00:00
+evDeparture : EV11(4) : 00:00:00
+evDeparture : EV12(1) : 15:18:00
+evDeparture : EV34(2) : 18:00:00
+evDeparture : EV55(6) : 00:00:00
+evDeparture : EV10(7) : 15:06:00
+evDeparture : EV32(8) : 18:00:00
+evDeparture : EV33(5) : 18:00:00
+evArrival : EV20(5) : 09:11:00
+evArrival : EV42(8) : 00:00:00
+evArrival : EV21(2) : 08:04:00
+evArrival : EV44(2) : 00:00:00
+evArrival : EV43(5) : 00:00:00
+evArrival : EV19(5) : 08:45:00
+evArrival : EV31(6) : 10:31:00
+evArrival : EV32(3) : 00:00:00
+evArrival : EV54(6) : 00:00:00
+evArrival : EV18(8) : 08:00:00
+evArrival : EV55(3) : 00:00:00
+evArrival : EV10(1) : 14:45:00
+evArrival : EV43(6) : 00:00:00
+evArrival : EV20(4) : 00:00:00
+evArrival : EV1(2) : 14:30:00
+evArrival : EV44(3) : 00:00:00
+evArrival : EV1(1) : 14:30:00
+evArrival : EV21(1) : 08:04:00
+evArrival : EV30(8) : 09:45:00
+evArrival : EV31(5) : 10:31:00
+evArrival : EV19(6) : 08:45:00
+evArrival : EV32(2) : 09:16:00
+evArrival : EV54(7) : 00:00:00
+evArrival : EV55(4) : 00:00:00
+evArrival : EV22(1) : 08:00:00
+evArrival : EV21(4) : 00:00:00
+evArrival : EV43(3) : 00:00:00
+evArrival : EV42(6) : 00:00:00
+evArrival : EV20(7) : 09:11:00
+evArrival : EV1(3) : 14:30:00
+evArrival : EV10(2) : 14:45:00
+evArrival : EV32(5) : 09:16:00
+evArrival : EV19(7) : 08:45:00
+evArrival : EV53(7) : 00:00:00
+evArrival : EV33(2) : 08:03:00
+evArrival : EV54(4) : 00:00:00
+evArrival : EV55(1) : 00:00:00
+evArrival : EV31(8) : 10:31:00
+evArrival : EV21(3) : 00:00:00
+evArrival : EV20(6) : 09:11:00
+evArrival : EV42(7) : 00:00:00
+evArrival : EV44(1) : 00:00:00
+evArrival : EV1(4) : 14:30:00
+evArrival : EV2(1) : 14:28:00
+evArrival : EV43(4) : 00:00:00
+evArrival : EV10(3) : 14:45:00
+evArrival : EV32(4) : 00:00:00
+evArrival : EV33(1) : 08:03:00
+evArrival : EV19(8) : 08:45:00
+evArrival : EV53(8) : 00:00:00
+evArrival : EV55(2) : 00:00:00
+evArrival : EV54(5) : 00:00:00
+evArrival : EV31(7) : 10:31:00
+evArrival : EV9(5) : 14:45:00
+evArrival : EV31(2) : 10:31:00
+evArrival : EV8(8) : 14:15:00
+evArrival : EV29(6) : 09:27:00
+evArrival : EV42(4) : 00:00:00
+evArrival : EV41(7) : 00:00:00
+evArrival : EV43(1) : 00:00:00
+evArrival : EV20(1) : 09:11:00
+evArrival : EV17(7) : 09:21:00
+evArrival : EV52(8) : 00:00:00
+evArrival : EV19(1) : 08:45:00
+evArrival : EV53(5) : 00:00:00
+evArrival : EV30(5) : 09:45:00
+evArrival : EV54(2) : 00:00:00
+evArrival : EV18(4) : 00:00:00
+evArrival : EV31(1) : 10:31:00
+evArrival : EV9(6) : 14:45:00
+evArrival : EV41(8) : 00:00:00
+evArrival : EV28(8) : 10:32:00
+evArrival : EV43(2) : 00:00:00
+evArrival : EV29(5) : 09:27:00
+evArrival : EV42(5) : 00:00:00
+evArrival : EV17(8) : 09:21:00
+evArrival : EV30(4) : 00:00:00
+evArrival : EV19(2) : 08:45:00
+evArrival : EV53(6) : 00:00:00
+evArrival : EV54(3) : 00:00:00
+evArrival : EV18(5) : 08:00:00
+evArrival : EV32(1) : 09:16:00
+evArrival : EV9(7) : 14:45:00
+evArrival : EV29(8) : 09:27:00
+evArrival : EV20(3) : 00:00:00
+evArrival : EV41(5) : 00:00:00
+evArrival : EV40(8) : 08:22:00
+evArrival : EV42(2) : 00:00:00
+evArrival : EV18(6) : 08:00:00
+evArrival : EV31(4) : 00:00:00
+evArrival : EV52(6) : 00:00:00
+evArrival : EV19(3) : 00:00:00
+evArrival : EV53(3) : 00:00:00
+evArrival : EV30(7) : 09:45:00
+evArrival : EV54(1) : 00:00:00
+evArrival : EV9(8) : 14:45:00
+evArrival : EV29(7) : 09:27:00
+evArrival : EV42(3) : 00:00:00
+evArrival : EV41(6) : 00:00:00
+evArrival : EV20(2) : 09:11:00
+evArrival : EV18(7) : 08:00:00
+evArrival : EV31(3) : 00:00:00
+evArrival : EV52(7) : 00:00:00
+evArrival : EV30(6) : 09:45:00
+evArrival : EV19(4) : 00:00:00
+evArrival : EV53(4) : 00:00:00
+evArrival : EV53(1) : 00:00:00
+evArrival : EV30(1) : 09:45:00
+evArrival : EV2(6) : 14:28:00
+evArrival : EV27(8) : 08:00:00
+evArrival : EV28(5) : 10:32:00
+evArrival : EV29(2) : 09:27:00
+evArrival : EV3(3) : 13:30:00
+evArrival : EV40(6) : 08:22:00
+evArrival : EV41(3) : 00:00:00
+evArrival : EV39(6) : 09:07:00
+evArrival : EV17(3) : 00:00:00
+evArrival : EV51(7) : 00:00:00
+evArrival : EV52(4) : 00:00:00
+evArrival : EV16(6) : 10:33:00
+evArrival : EV29(1) : 09:27:00
+evArrival : EV53(2) : 00:00:00
+evArrival : EV2(7) : 14:28:00
+evArrival : EV3(4) : 13:30:00
+evArrival : EV27(7) : 08:00:00
+evArrival : EV40(7) : 08:22:00
+evArrival : EV41(4) : 00:00:00
+evArrival : EV4(1) : 14:00:00
+evArrival : EV28(4) : 00:00:00
+evArrival : EV39(5) : 09:07:00
+evArrival : EV18(1) : 08:00:00
+evArrival : EV42(1) : 00:00:00
+evArrival : EV38(8) : 08:09:00
+evArrival : EV17(4) : 00:00:00
+evArrival : EV51(8) : 00:00:00
+evArrival : EV52(5) : 00:00:00
+evArrival : EV16(7) : 10:33:00
+evArrival : EV52(2) : 00:00:00
+evArrival : EV30(3) : 00:00:00
+evArrival : EV3(5) : 13:30:00
+evArrival : EV2(8) : 14:28:00
+evArrival : EV28(7) : 10:32:00
+evArrival : EV29(4) : 00:00:00
+evArrival : EV4(2) : 14:00:00
+evArrival : EV41(1) : 00:00:00
+evArrival : EV40(4) : 00:00:00
+evArrival : EV39(8) : 09:07:00
+evArrival : EV16(8) : 10:33:00
+evArrival : EV18(2) : 08:00:00
+evArrival : EV50(8) : 00:00:00
+evArrival : EV17(5) : 09:21:00
+evArrival : EV51(5) : 00:00:00
+evArrival : EV52(3) : 00:00:00
+evArrival : EV30(2) : 09:45:00
+evArrival : EV4(3) : 14:00:00
+evArrival : EV3(6) : 13:30:00
+evArrival : EV28(6) : 10:32:00
+evArrival : EV40(5) : 08:22:00
+evArrival : EV29(3) : 00:00:00
+evArrival : EV41(2) : 00:00:00
+evArrival : EV39(7) : 09:07:00
+evArrival : EV18(3) : 00:00:00
+evArrival : EV17(6) : 09:21:00
+evArrival : EV51(6) : 00:00:00
+evArrival : EV28(1) : 10:32:00
+evArrival : EV51(3) : 00:00:00
+evArrival : EV49(7) : 00:00:00
+evArrival : EV1(5) : 14:30:00
+evArrival : EV26(7) : 08:58:00
+evArrival : EV2(2) : 14:28:00
+evArrival : EV27(4) : 00:00:00
+evArrival : EV38(5) : 08:09:00
+evArrival : EV16(2) : 10:33:00
+evArrival : EV40(2) : 08:22:00
+evArrival : EV37(8) : 08:39:00
+evArrival : EV14(8) : 08:50:00
+evArrival : EV15(5) : 08:00:00
+evArrival : EV39(2) : 09:07:00
+evArrival : EV50(6) : 00:00:00
+evArrival : EV2 : 14:28:00
+evArrival : EV27(3) : 00:00:00
+evArrival : EV51(4) : 00:00:00
+evArrival : EV1 : 14:30:00
+evArrival : EV4 : 14:00:00
+evArrival : EV52(1) : 00:00:00
+evArrival : EV3 : 13:30:00
+evArrival : EV6 : 14:15:00
+evArrival : EV5 : 14:15:00
+evArrival : EV49(8) : 00:00:00
+evArrival : EV8 : 14:15:00
+evArrival : EV7 : 14:15:00
+evArrival : EV9 : 14:45:00
+evArrival : EV1(6) : 14:30:00
+evArrival : EV2(3) : 14:28:00
+evArrival : EV26(6) : 08:58:00
+evArrival : EV40(3) : 00:00:00
+evArrival : EV38(4) : 00:00:00
+evArrival : EV16(3) : 00:00:00
+evArrival : EV37(7) : 08:39:00
+evArrival : EV39(1) : 09:07:00
+evArrival : EV50(7) : 00:00:00
+evArrival : EV15(6) : 08:00:00
+evArrival : EV49(5) : 00:00:00
+evArrival : EV50(4) : 00:00:00
+evArrival : EV48(8) : 00:00:00
+evArrival : EV51(1) : 00:00:00
+evArrival : EV1(7) : 14:30:00
+evArrival : EV3(1) : 13:30:00
+evArrival : EV2(4) : 14:28:00
+evArrival : EV27(6) : 08:00:00
+evArrival : EV28(3) : 00:00:00
+evArrival : EV39(4) : 00:00:00
+evArrival : EV17(1) : 09:21:00
+evArrival : EV38(7) : 08:09:00
+evArrival : EV15(7) : 08:00:00
+evArrival : EV16(4) : 00:00:00
+evArrival : EV50(5) : 00:00:00
+evArrival : EV28(2) : 10:32:00
+evArrival : EV51(2) : 00:00:00
+evArrival : EV49(6) : 00:00:00
+evArrival : EV1(8) : 14:30:00
+evArrival : EV2(5) : 14:28:00
+evArrival : EV26(8) : 08:58:00
+evArrival : EV27(5) : 08:00:00
+evArrival : EV3(2) : 13:30:00
+evArrival : EV39(3) : 00:00:00
+evArrival : EV40(1) : 08:22:00
+evArrival : EV17(2) : 09:21:00
+evArrival : EV38(6) : 08:09:00
+evArrival : EV16(5) : 10:33:00
+evArrival : EV15(8) : 08:00:00
+evArrival : EV26(3) : 00:00:00
+evArrival : EV50(2) : 00:00:00
+evArrival : EV48(6) : 00:00:00
+evArrival : EV4(8) : 14:00:00
+evArrival : EV6(2) : 14:15:00
+evArrival : EV5(5) : 14:15:00
+evArrival : EV49(3) : 00:00:00
+evArrival : EV25(6) : 08:28:00
+evArrival : EV14(4) : 00:00:00
+evArrival : EV36(7) : 09:02:00
+evArrival : EV15(1) : 08:00:00
+evArrival : EV38(1) : 08:09:00
+evArrival : EV13(7) : 14:47:00
+evArrival : EV37(4) : 00:00:00
+evArrival : EV25(5) : 08:28:00
+evArrival : EV48(7) : 00:00:00
+evArrival : EV49(4) : 00:00:00
+evArrival : EV24(8) : 09:12:00
+evArrival : EV26(2) : 08:58:00
+evArrival : EV50(3) : 00:00:00
+evArrival : EV5(6) : 14:15:00
+evArrival : EV6(3) : 14:15:00
+evArrival : EV14(5) : 08:50:00
+evArrival : EV36(6) : 09:02:00
+evArrival : EV15(2) : 08:00:00
+evArrival : EV37(3) : 00:00:00
+evArrival : EV13(8) : 14:47:00
+evArrival : EV27(2) : 08:00:00
+evArrival : EV47(7) : 00:00:00
+evArrival : EV5(7) : 14:15:00
+evArrival : EV7(1) : 14:15:00
+evArrival : EV6(4) : 14:15:00
+evArrival : EV49(1) : 00:00:00
+evArrival : EV48(4) : 00:00:00
+evArrival : EV25(8) : 08:28:00
+evArrival : EV26(5) : 08:58:00
+evArrival : EV15(3) : 00:00:00
+evArrival : EV37(6) : 08:39:00
+evArrival : EV14(6) : 08:50:00
+evArrival : EV38(3) : 00:00:00
+evArrival : EV26(4) : 00:00:00
+evArrival : EV47(8) : 00:00:00
+evArrival : EV27(1) : 08:00:00
+evArrival : EV48(5) : 00:00:00
+evArrival : EV50(1) : 00:00:00
+evArrival : EV6(5) : 14:15:00
+evArrival : EV5(8) : 14:15:00
+evArrival : EV7(2) : 14:15:00
+evArrival : EV25(7) : 08:28:00
+evArrival : EV49(2) : 00:00:00
+evArrival : EV16(1) : 10:33:00
+evArrival : EV37(5) : 08:39:00
+evArrival : EV15(4) : 00:00:00
+evArrival : EV36(8) : 09:02:00
+evArrival : EV38(2) : 08:09:00
+evArrival : EV14(7) : 08:50:00
+evArrival : EV23(8) : 08:40:00
+evArrival : EV46(8) : 00:00:00
+evArrival : EV25(2) : 08:28:00
+evArrival : EV4(4) : 14:00:00
+evArrival : EV3(7) : 13:30:00
+evArrival : EV47(5) : 00:00:00
+evArrival : EV5(1) : 14:15:00
+evArrival : EV24(5) : 09:12:00
+evArrival : EV20 : 09:11:00
+evArrival : EV48(2) : 00:00:00
+evArrival : EV21 : 08:04:00
+evArrival : EV22 : 08:00:00
+evArrival : EV12(6) : 14:46:00
+evArrival : EV23 : 08:40:00
+evArrival : EV13(3) : 00:00:00
+evArrival : EV24 : 09:12:00
+evArrival : EV25 : 08:28:00
+evArrival : EV26 : 08:58:00
+evArrival : EV27 : 08:00:00
+evArrival : EV28 : 10:32:00
+evArrival : EV29 : 09:27:00
+evArrival : EV36(3) : 00:00:00
+evArrival : EV35(6) : 08:00:00
+evArrival : EV47(6) : 00:00:00
+evArrival : EV25(1) : 08:28:00
+evArrival : EV3(8) : 13:30:00
+evArrival : EV5(2) : 14:15:00
+evArrival : EV4(5) : 14:00:00
+evArrival : EV48(3) : 00:00:00
+evArrival : EV24(4) : 00:00:00
+evArrival : EV23(7) : 08:40:00
+evArrival : EV10 : 14:45:00
+evArrival : EV12(7) : 14:46:00
+evArrival : EV11 : 14:46:00
+evArrival : EV12 : 14:46:00
+evArrival : EV34(8) : 08:00:00
+evArrival : EV13 : 14:47:00
+evArrival : EV13(4) : 00:00:00
+evArrival : EV14 : 08:50:00
+evArrival : EV15 : 08:00:00
+evArrival : EV14(1) : 08:50:00
+evArrival : EV16 : 10:33:00
+evArrival : EV17 : 09:21:00
+evArrival : EV18 : 08:00:00
+evArrival : EV19 : 08:45:00
+evArrival : EV36(2) : 09:02:00
+evArrival : EV35(5) : 08:00:00
+evArrival : EV24(7) : 09:12:00
+evArrival : EV25(4) : 00:00:00
+evArrival : EV26(1) : 08:58:00
+evArrival : EV5(3) : 14:15:00
+evArrival : EV4(6) : 14:00:00
+evArrival : EV46(6) : 00:00:00
+evArrival : EV40 : 08:22:00
+evArrival : EV41 : 08:57:00
+evArrival : EV42 : 08:47:00
+evArrival : EV47(3) : 00:00:00
+evArrival : EV43 : 09:47:00
+evArrival : EV13(5) : 14:47:00
+evArrival : EV35(8) : 08:00:00
+evArrival : EV44 : 10:17:00
+evArrival : EV45 : 10:55:00
+evArrival : EV14(2) : 08:50:00
+evArrival : EV46 : 08:28:00
+evArrival : EV47 : 09:20:00
+evArrival : EV48 : 08:00:00
+evArrival : EV49 : 08:00:00
+evArrival : EV37(2) : 08:39:00
+evArrival : EV36(5) : 09:02:00
+evArrival : EV12(8) : 14:46:00
+evArrival : EV25(3) : 00:00:00
+evArrival : EV46(7) : 00:00:00
+evArrival : EV4(7) : 14:00:00
+evArrival : EV6(1) : 14:15:00
+evArrival : EV5(4) : 14:15:00
+evArrival : EV47(4) : 00:00:00
+evArrival : EV30 : 09:45:00
+evArrival : EV48(1) : 00:00:00
+evArrival : EV31 : 10:31:00
+evArrival : EV24(6) : 09:12:00
+evArrival : EV32 : 09:16:00
+evArrival : EV33 : 08:03:00
+evArrival : EV13(6) : 14:47:00
+evArrival : EV35(7) : 08:00:00
+evArrival : EV34 : 08:00:00
+evArrival : EV35 : 08:00:00
+evArrival : EV14(3) : 00:00:00
+evArrival : EV36 : 09:02:00
+evArrival : EV37 : 08:39:00
+evArrival : EV38 : 08:09:00
+evArrival : EV39 : 09:07:00
+evArrival : EV37(1) : 08:39:00
+evArrival : EV36(4) : 00:00:00
+evArrival : EV8(4) : 14:15:00
+evArrival : EV7(7) : 14:15:00
+evArrival : EV47(1) : 00:00:00
+evArrival : EV24(1) : 09:12:00
+evArrival : EV9(1) : 14:45:00
+evArrival : EV23(4) : 00:00:00
+evArrival : EV45(7) : 00:00:00
+evArrival : EV46(4) : 00:00:00
+evArrival : EV22(7) : 08:00:00
+evArrival : EV11(5) : 14:46:00
+evArrival : EV12(2) : 14:46:00
+evArrival : EV35(2) : 08:00:00
+evArrival : EV33(8) : 08:03:00
+evArrival : EV10(8) : 14:45:00
+evArrival : EV34(5) : 08:00:00
+evArrival : EV7(8) : 14:15:00
+evArrival : EV8(5) : 14:15:00
+evArrival : EV9(2) : 14:45:00
+evArrival : EV45(8) : 00:00:00
+evArrival : EV23(3) : 00:00:00
+evArrival : EV50 : 08:30:00
+evArrival : EV22(6) : 08:00:00
+evArrival : EV51 : 08:00:00
+evArrival : EV46(5) : 00:00:00
+evArrival : EV52 : 10:13:00
+evArrival : EV47(2) : 00:00:00
+evArrival : EV53 : 09:03:00
+evArrival : EV54 : 08:00:00
+evArrival : EV55 : 08:00:00
+evArrival : EV11(6) : 14:46:00
+evArrival : EV12(3) : 00:00:00
+evArrival : EV35(1) : 08:00:00
+evArrival : EV33(7) : 08:03:00
+evArrival : EV34(4) : 00:00:00
+evArrival : EV8(6) : 14:15:00
+evArrival : EV9(3) : 14:45:00
+evArrival : EV46(2) : 00:00:00
+evArrival : EV44(8) : 00:00:00
+evArrival : EV24(3) : 00:00:00
+evArrival : EV45(5) : 00:00:00
+evArrival : EV23(6) : 08:40:00
+evArrival : EV11(7) : 14:46:00
+evArrival : EV12(4) : 00:00:00
+evArrival : EV13(1) : 14:47:00
+evArrival : EV36(1) : 09:02:00
+evArrival : EV35(4) : 00:00:00
+evArrival : EV34(7) : 08:00:00
+evArrival : EV9(4) : 14:45:00
+evArrival : EV8(7) : 14:15:00
+evArrival : EV24(2) : 09:12:00
+evArrival : EV23(5) : 08:40:00
+evArrival : EV45(6) : 00:00:00
+evArrival : EV22(8) : 08:00:00
+evArrival : EV46(3) : 00:00:00
+evArrival : EV11(8) : 14:46:00
+evArrival : EV12(5) : 14:46:00
+evArrival : EV13(2) : 14:47:00
+evArrival : EV34(6) : 08:00:00
+evArrival : EV35(3) : 00:00:00
+evArrival : EV6(6) : 14:15:00
+evArrival : EV45(3) : 00:00:00
+evArrival : EV44(6) : 00:00:00
+evArrival : EV22(3) : 00:00:00
+evArrival : EV7(3) : 14:15:00
+evArrival : EV21(6) : 08:04:00
+evArrival : EV11(1) : 14:46:00
+evArrival : EV33(4) : 00:00:00
+evArrival : EV10(4) : 14:45:00
+evArrival : EV34(1) : 08:00:00
+evArrival : EV55(7) : 00:00:00
+evArrival : EV32(7) : 09:16:00
+evArrival : EV7(4) : 14:15:00
+evArrival : EV6(7) : 14:15:00
+evArrival : EV22(2) : 08:00:00
+evArrival : EV46(1) : 00:00:00
+evArrival : EV21(5) : 08:04:00
+evArrival : EV44(7) : 00:00:00
+evArrival : EV8(1) : 14:15:00
+evArrival : EV45(4) : 00:00:00
+evArrival : EV20(8) : 09:11:00
+evArrival : EV11(2) : 14:46:00
+evArrival : EV33(3) : 00:00:00
+evArrival : EV55(8) : 00:00:00
+evArrival : EV10(5) : 14:45:00
+evArrival : EV32(6) : 09:16:00
+evArrival : EV7(5) : 14:15:00
+evArrival : EV6(8) : 14:15:00
+evArrival : EV43(7) : 00:00:00
+evArrival : EV45(1) : 00:00:00
+evArrival : EV23(2) : 08:40:00
+evArrival : EV8(2) : 14:15:00
+evArrival : EV22(5) : 08:00:00
+evArrival : EV44(4) : 00:00:00
+evArrival : EV21(8) : 08:04:00
+evArrival : EV11(3) : 00:00:00
+evArrival : EV54(8) : 00:00:00
+evArrival : EV34(3) : 00:00:00
+evArrival : EV55(5) : 00:00:00
+evArrival : EV10(6) : 14:45:00
+evArrival : EV33(6) : 08:03:00
+evArrival : EV8(3) : 14:15:00
+evArrival : EV7(6) : 14:15:00
+evArrival : EV44(5) : 00:00:00
+evArrival : EV23(1) : 08:40:00
+evArrival : EV45(2) : 00:00:00
+evArrival : EV22(4) : 00:00:00
+evArrival : EV43(8) : 00:00:00
+evArrival : EV21(7) : 08:04:00
+evArrival : EV11(4) : 00:00:00
+evArrival : EV12(1) : 14:46:00
+evArrival : EV34(2) : 08:00:00
+evArrival : EV55(6) : 00:00:00
+evArrival : EV10(7) : 14:45:00
+evArrival : EV32(8) : 09:16:00
+evArrival : EV33(5) : 08:03:00
+evSoE0 : EV20(5) : 0.473
+evSoE0 : EV42(8) : 1.0
+evSoE0 : EV21(2) : 0.6597
+evSoE0 : EV44(2) : 1.0
+evSoE0 : EV43(5) : 1.0
+evSoE0 : EV19(5) : 0.5112
+evSoE0 : EV31(6) : 0.6157
+evSoE0 : EV32(3) : 1.0
+evSoE0 : EV54(6) : 1.0
+evSoE0 : EV18(8) : 0.5498
+evSoE0 : EV55(3) : 1.0
+evSoE0 : EV10(1) : 0.633
+evSoE0 : EV43(6) : 1.0
+evSoE0 : EV20(4) : 1.0
+evSoE0 : EV1(2) : 0.65
+evSoE0 : EV44(3) : 1.0
+evSoE0 : EV1(1) : 0.65
+evSoE0 : EV21(1) : 0.6597
+evSoE0 : EV30(8) : 0.4864
+evSoE0 : EV31(5) : 0.6157
+evSoE0 : EV19(6) : 0.5112
+evSoE0 : EV32(2) : 0.4709
+evSoE0 : EV54(7) : 1.0
+evSoE0 : EV55(4) : 1.0
+evSoE0 : EV22(1) : 0.5977
+evSoE0 : EV21(4) : 1.0
+evSoE0 : EV43(3) : 1.0
+evSoE0 : EV42(6) : 1.0
+evSoE0 : EV20(7) : 0.473
+evSoE0 : EV1(3) : 0.65
+evSoE0 : EV10(2) : 0.633
+evSoE0 : EV32(5) : 0.4709
+evSoE0 : EV19(7) : 0.5112
+evSoE0 : EV53(7) : 1.0
+evSoE0 : EV33(2) : 0.6598
+evSoE0 : EV54(4) : 1.0
+evSoE0 : EV55(1) : 1.0
+evSoE0 : EV31(8) : 0.6157
+evSoE0 : EV21(3) : 1.0
+evSoE0 : EV20(6) : 0.473
+evSoE0 : EV42(7) : 1.0
+evSoE0 : EV44(1) : 1.0
+evSoE0 : EV1(4) : 0.65
+evSoE0 : EV2(1) : 0.65
+evSoE0 : EV43(4) : 1.0
+evSoE0 : EV10(3) : 0.633
+evSoE0 : EV32(4) : 1.0
+evSoE0 : EV33(1) : 0.6598
+evSoE0 : EV19(8) : 0.5112
+evSoE0 : EV53(8) : 1.0
+evSoE0 : EV55(2) : 1.0
+evSoE0 : EV54(5) : 1.0
+evSoE0 : EV31(7) : 0.6157
+evSoE0 : EV9(5) : 0.65
+evSoE0 : EV31(2) : 0.6157
+evSoE0 : EV8(8) : 0.65
+evSoE0 : EV29(6) : 0.6532
+evSoE0 : EV42(4) : 1.0
+evSoE0 : EV41(7) : 1.0
+evSoE0 : EV43(1) : 1.0
+evSoE0 : EV20(1) : 0.473
+evSoE0 : EV17(7) : 0.4684
+evSoE0 : EV52(8) : 1.0
+evSoE0 : EV19(1) : 0.5112
+evSoE0 : EV53(5) : 1.0
+evSoE0 : EV30(5) : 0.4864
+evSoE0 : EV54(2) : 1.0
+evSoE0 : EV18(4) : 1.0
+evSoE0 : EV31(1) : 0.6157
+evSoE0 : EV9(6) : 0.65
+evSoE0 : EV41(8) : 1.0
+evSoE0 : EV28(8) : 0.65
+evSoE0 : EV43(2) : 1.0
+evSoE0 : EV29(5) : 0.6532
+evSoE0 : EV42(5) : 1.0
+evSoE0 : EV17(8) : 0.4684
+evSoE0 : EV30(4) : 1.0
+evSoE0 : EV19(2) : 0.5112
+evSoE0 : EV53(6) : 1.0
+evSoE0 : EV54(3) : 1.0
+evSoE0 : EV18(5) : 0.5498
+evSoE0 : EV32(1) : 0.4709
+evSoE0 : EV9(7) : 0.65
+evSoE0 : EV29(8) : 0.6532
+evSoE0 : EV20(3) : 1.0
+evSoE0 : EV41(5) : 1.0
+evSoE0 : EV40(8) : 0.6482
+evSoE0 : EV42(2) : 1.0
+evSoE0 : EV18(6) : 0.5498
+evSoE0 : EV31(4) : 1.0
+evSoE0 : EV52(6) : 1.0
+evSoE0 : EV19(3) : 1.0
+evSoE0 : EV53(3) : 1.0
+evSoE0 : EV30(7) : 0.4864
+evSoE0 : EV54(1) : 1.0
+evSoE0 : EV9(8) : 0.65
+evSoE0 : EV29(7) : 0.6532
+evSoE0 : EV42(3) : 1.0
+evSoE0 : EV41(6) : 1.0
+evSoE0 : EV20(2) : 0.473
+evSoE0 : EV18(7) : 0.5498
+evSoE0 : EV31(3) : 1.0
+evSoE0 : EV52(7) : 1.0
+evSoE0 : EV30(6) : 0.4864
+evSoE0 : EV19(4) : 1.0
+evSoE0 : EV53(4) : 1.0
+evSoE0 : EV53(1) : 1.0
+evSoE0 : EV30(1) : 0.4864
+evSoE0 : EV2(6) : 0.65
+evSoE0 : EV27(8) : 0.5
+evSoE0 : EV28(5) : 0.65
+evSoE0 : EV29(2) : 0.6532
+evSoE0 : EV3(3) : 0.5375
+evSoE0 : EV40(6) : 0.6482
+evSoE0 : EV41(3) : 1.0
+evSoE0 : EV39(6) : 0.623
+evSoE0 : EV17(3) : 1.0
+evSoE0 : EV51(7) : 1.0
+evSoE0 : EV52(4) : 1.0
+evSoE0 : EV16(6) : 0.45
+evSoE0 : EV29(1) : 0.6532
+evSoE0 : EV53(2) : 1.0
+evSoE0 : EV2(7) : 0.65
+evSoE0 : EV3(4) : 0.5375
+evSoE0 : EV27(7) : 0.5
+evSoE0 : EV40(7) : 0.6482
+evSoE0 : EV41(4) : 1.0
+evSoE0 : EV4(1) : 0.65
+evSoE0 : EV28(4) : 1.0
+evSoE0 : EV39(5) : 0.623
+evSoE0 : EV18(1) : 0.5498
+evSoE0 : EV42(1) : 1.0
+evSoE0 : EV38(8) : 0.6593
+evSoE0 : EV17(4) : 1.0
+evSoE0 : EV51(8) : 1.0
+evSoE0 : EV52(5) : 1.0
+evSoE0 : EV16(7) : 0.45
+evSoE0 : EV52(2) : 1.0
+evSoE0 : EV30(3) : 1.0
+evSoE0 : EV3(5) : 0.5375
+evSoE0 : EV2(8) : 0.65
+evSoE0 : EV28(7) : 0.65
+evSoE0 : EV29(4) : 1.0
+evSoE0 : EV4(2) : 0.65
+evSoE0 : EV41(1) : 1.0
+evSoE0 : EV40(4) : 1.0
+evSoE0 : EV39(8) : 0.623
+evSoE0 : EV16(8) : 0.45
+evSoE0 : EV18(2) : 0.5498
+evSoE0 : EV50(8) : 1.0
+evSoE0 : EV17(5) : 0.4684
+evSoE0 : EV51(5) : 1.0
+evSoE0 : EV52(3) : 1.0
+evSoE0 : EV30(2) : 0.4864
+evSoE0 : EV4(3) : 0.65
+evSoE0 : EV3(6) : 0.5375
+evSoE0 : EV28(6) : 0.65
+evSoE0 : EV40(5) : 0.6482
+evSoE0 : EV29(3) : 1.0
+evSoE0 : EV41(2) : 1.0
+evSoE0 : EV39(7) : 0.623
+evSoE0 : EV18(3) : 1.0
+evSoE0 : EV17(6) : 0.4684
+evSoE0 : EV51(6) : 1.0
+evSoE0 : EV28(1) : 0.65
+evSoE0 : EV51(3) : 1.0
+evSoE0 : EV49(7) : 1.0
+evSoE0 : EV1(5) : 0.65
+evSoE0 : EV26(7) : 0.6077
+evSoE0 : EV2(2) : 0.65
+evSoE0 : EV27(4) : 1.0
+evSoE0 : EV38(5) : 0.6593
+evSoE0 : EV16(2) : 0.45
+evSoE0 : EV40(2) : 0.6482
+evSoE0 : EV37(8) : 0.4858
+evSoE0 : EV14(8) : 0.6306
+evSoE0 : EV15(5) : 0.66
+evSoE0 : EV39(2) : 0.623
+evSoE0 : EV50(6) : 1.0
+evSoE0 : EV2 : 0.65
+evSoE0 : EV27(3) : 1.0
+evSoE0 : EV51(4) : 1.0
+evSoE0 : EV1 : 0.65
+evSoE0 : EV4 : 0.65
+evSoE0 : EV52(1) : 1.0
+evSoE0 : EV3 : 0.5375
+evSoE0 : EV6 : 0.65
+evSoE0 : EV5 : 0.65
+evSoE0 : EV49(8) : 1.0
+evSoE0 : EV8 : 0.65
+evSoE0 : EV7 : 0.65
+evSoE0 : EV9 : 0.65
+evSoE0 : EV1(6) : 0.65
+evSoE0 : EV2(3) : 0.65
+evSoE0 : EV26(6) : 0.6077
+evSoE0 : EV40(3) : 1.0
+evSoE0 : EV38(4) : 1.0
+evSoE0 : EV16(3) : 1.0
+evSoE0 : EV37(7) : 0.4858
+evSoE0 : EV39(1) : 0.623
+evSoE0 : EV50(7) : 1.0
+evSoE0 : EV15(6) : 0.66
+evSoE0 : EV49(5) : 1.0
+evSoE0 : EV50(4) : 1.0
+evSoE0 : EV48(8) : 1.0
+evSoE0 : EV51(1) : 1.0
+evSoE0 : EV1(7) : 0.65
+evSoE0 : EV3(1) : 0.5375
+evSoE0 : EV2(4) : 0.65
+evSoE0 : EV27(6) : 0.5
+evSoE0 : EV28(3) : 1.0
+evSoE0 : EV39(4) : 1.0
+evSoE0 : EV17(1) : 0.4684
+evSoE0 : EV38(7) : 0.6593
+evSoE0 : EV15(7) : 0.66
+evSoE0 : EV16(4) : 1.0
+evSoE0 : EV50(5) : 1.0
+evSoE0 : EV28(2) : 0.65
+evSoE0 : EV51(2) : 1.0
+evSoE0 : EV49(6) : 1.0
+evSoE0 : EV1(8) : 0.65
+evSoE0 : EV2(5) : 0.65
+evSoE0 : EV26(8) : 0.6077
+evSoE0 : EV27(5) : 0.5
+evSoE0 : EV3(2) : 0.5375
+evSoE0 : EV39(3) : 1.0
+evSoE0 : EV40(1) : 0.6482
+evSoE0 : EV17(2) : 0.4684
+evSoE0 : EV38(6) : 0.6593
+evSoE0 : EV16(5) : 0.45
+evSoE0 : EV15(8) : 0.66
+evSoE0 : EV26(3) : 1.0
+evSoE0 : EV50(2) : 1.0
+evSoE0 : EV48(6) : 1.0
+evSoE0 : EV4(8) : 0.65
+evSoE0 : EV6(2) : 0.65
+evSoE0 : EV5(5) : 0.65
+evSoE0 : EV49(3) : 1.0
+evSoE0 : EV25(6) : 0.49
+evSoE0 : EV14(4) : 1.0
+evSoE0 : EV36(7) : 0.5301
+evSoE0 : EV15(1) : 0.66
+evSoE0 : EV38(1) : 0.6593
+evSoE0 : EV13(7) : 0.58
+evSoE0 : EV37(4) : 1.0
+evSoE0 : EV25(5) : 0.49
+evSoE0 : EV48(7) : 1.0
+evSoE0 : EV49(4) : 1.0
+evSoE0 : EV24(8) : 0.4865
+evSoE0 : EV26(2) : 0.6077
+evSoE0 : EV50(3) : 1.0
+evSoE0 : EV5(6) : 0.65
+evSoE0 : EV6(3) : 0.65
+evSoE0 : EV14(5) : 0.6306
+evSoE0 : EV36(6) : 0.5301
+evSoE0 : EV15(2) : 0.66
+evSoE0 : EV37(3) : 1.0
+evSoE0 : EV13(8) : 0.58
+evSoE0 : EV27(2) : 0.5
+evSoE0 : EV47(7) : 1.0
+evSoE0 : EV5(7) : 0.65
+evSoE0 : EV7(1) : 0.65
+evSoE0 : EV6(4) : 0.65
+evSoE0 : EV49(1) : 1.0
+evSoE0 : EV48(4) : 1.0
+evSoE0 : EV25(8) : 0.49
+evSoE0 : EV26(5) : 0.6077
+evSoE0 : EV15(3) : 1.0
+evSoE0 : EV37(6) : 0.4858
+evSoE0 : EV14(6) : 0.6306
+evSoE0 : EV38(3) : 1.0
+evSoE0 : EV26(4) : 1.0
+evSoE0 : EV47(8) : 1.0
+evSoE0 : EV27(1) : 0.5
+evSoE0 : EV48(5) : 1.0
+evSoE0 : EV50(1) : 1.0
+evSoE0 : EV6(5) : 0.65
+evSoE0 : EV5(8) : 0.65
+evSoE0 : EV7(2) : 0.65
+evSoE0 : EV25(7) : 0.49
+evSoE0 : EV49(2) : 1.0
+evSoE0 : EV16(1) : 0.45
+evSoE0 : EV37(5) : 0.4858
+evSoE0 : EV15(4) : 1.0
+evSoE0 : EV36(8) : 0.5301
+evSoE0 : EV38(2) : 0.6593
+evSoE0 : EV14(7) : 0.6306
+evSoE0 : EV23(8) : 0.6571
+evSoE0 : EV46(8) : 1.0
+evSoE0 : EV25(2) : 0.49
+evSoE0 : EV4(4) : 0.65
+evSoE0 : EV3(7) : 0.5375
+evSoE0 : EV47(5) : 1.0
+evSoE0 : EV5(1) : 0.65
+evSoE0 : EV24(5) : 0.4865
+evSoE0 : EV20 : 0.473
+evSoE0 : EV48(2) : 1.0
+evSoE0 : EV21 : 0.6597
+evSoE0 : EV22 : 0.5977
+evSoE0 : EV12(6) : 0.595
+evSoE0 : EV23 : 0.6571
+evSoE0 : EV13(3) : 1.0
+evSoE0 : EV24 : 0.4865
+evSoE0 : EV25 : 0.49
+evSoE0 : EV26 : 0.6077
+evSoE0 : EV27 : 0.5
+evSoE0 : EV28 : 0.65
+evSoE0 : EV29 : 0.6532
+evSoE0 : EV36(3) : 1.0
+evSoE0 : EV35(6) : 0.5939
+evSoE0 : EV47(6) : 1.0
+evSoE0 : EV25(1) : 0.49
+evSoE0 : EV3(8) : 0.5375
+evSoE0 : EV5(2) : 0.65
+evSoE0 : EV4(5) : 0.65
+evSoE0 : EV48(3) : 1.0
+evSoE0 : EV24(4) : 1.0
+evSoE0 : EV23(7) : 0.6571
+evSoE0 : EV10 : 0.633
+evSoE0 : EV12(7) : 0.595
+evSoE0 : EV11 : 0.615
+evSoE0 : EV12 : 0.595
+evSoE0 : EV34(8) : 0.66
+evSoE0 : EV13 : 0.58
+evSoE0 : EV13(4) : 1.0
+evSoE0 : EV14 : 0.6306
+evSoE0 : EV15 : 0.66
+evSoE0 : EV14(1) : 0.6306
+evSoE0 : EV16 : 0.45
+evSoE0 : EV17 : 0.4684
+evSoE0 : EV18 : 0.5498
+evSoE0 : EV19 : 0.5112
+evSoE0 : EV36(2) : 0.5301
+evSoE0 : EV35(5) : 0.5939
+evSoE0 : EV24(7) : 0.4865
+evSoE0 : EV25(4) : 1.0
+evSoE0 : EV26(1) : 0.6077
+evSoE0 : EV5(3) : 0.65
+evSoE0 : EV4(6) : 0.65
+evSoE0 : EV46(6) : 1.0
+evSoE0 : EV40 : 0.6482
+evSoE0 : EV41 : 0.6558
+evSoE0 : EV42 : 0.4827
+evSoE0 : EV47(3) : 1.0
+evSoE0 : EV43 : 0.6513
+evSoE0 : EV13(5) : 0.58
+evSoE0 : EV35(8) : 0.5939
+evSoE0 : EV44 : 0.45
+evSoE0 : EV45 : 0.6133
+evSoE0 : EV14(2) : 0.6306
+evSoE0 : EV46 : 0.5817
+evSoE0 : EV47 : 0.531
+evSoE0 : EV48 : 0.5
+evSoE0 : EV49 : 0.66
+evSoE0 : EV37(2) : 0.4858
+evSoE0 : EV36(5) : 0.5301
+evSoE0 : EV12(8) : 0.595
+evSoE0 : EV25(3) : 1.0
+evSoE0 : EV46(7) : 1.0
+evSoE0 : EV4(7) : 0.65
+evSoE0 : EV6(1) : 0.65
+evSoE0 : EV5(4) : 0.65
+evSoE0 : EV47(4) : 1.0
+evSoE0 : EV30 : 0.4864
+evSoE0 : EV48(1) : 1.0
+evSoE0 : EV31 : 0.6157
+evSoE0 : EV24(6) : 0.4865
+evSoE0 : EV32 : 0.4709
+evSoE0 : EV33 : 0.6598
+evSoE0 : EV13(6) : 0.58
+evSoE0 : EV35(7) : 0.5939
+evSoE0 : EV34 : 0.66
+evSoE0 : EV35 : 0.5939
+evSoE0 : EV14(3) : 1.0
+evSoE0 : EV36 : 0.5301
+evSoE0 : EV37 : 0.4858
+evSoE0 : EV38 : 0.6593
+evSoE0 : EV39 : 0.623
+evSoE0 : EV37(1) : 0.4858
+evSoE0 : EV36(4) : 1.0
+evSoE0 : EV8(4) : 0.65
+evSoE0 : EV7(7) : 0.65
+evSoE0 : EV47(1) : 1.0
+evSoE0 : EV24(1) : 0.4865
+evSoE0 : EV9(1) : 0.65
+evSoE0 : EV23(4) : 1.0
+evSoE0 : EV45(7) : 1.0
+evSoE0 : EV46(4) : 1.0
+evSoE0 : EV22(7) : 0.5977
+evSoE0 : EV11(5) : 0.615
+evSoE0 : EV12(2) : 0.595
+evSoE0 : EV35(2) : 0.5939
+evSoE0 : EV33(8) : 0.6598
+evSoE0 : EV10(8) : 0.633
+evSoE0 : EV34(5) : 0.66
+evSoE0 : EV7(8) : 0.65
+evSoE0 : EV8(5) : 0.65
+evSoE0 : EV9(2) : 0.65
+evSoE0 : EV45(8) : 1.0
+evSoE0 : EV23(3) : 1.0
+evSoE0 : EV50 : 0.5961
+evSoE0 : EV22(6) : 0.5977
+evSoE0 : EV51 : 0.5
+evSoE0 : EV46(5) : 1.0
+evSoE0 : EV52 : 0.6389
+evSoE0 : EV47(2) : 1.0
+evSoE0 : EV53 : 0.6553
+evSoE0 : EV54 : 0.66
+evSoE0 : EV55 : 0.5
+evSoE0 : EV11(6) : 0.615
+evSoE0 : EV12(3) : 1.0
+evSoE0 : EV35(1) : 0.5939
+evSoE0 : EV33(7) : 0.6598
+evSoE0 : EV34(4) : 1.0
+evSoE0 : EV8(6) : 0.65
+evSoE0 : EV9(3) : 0.65
+evSoE0 : EV46(2) : 1.0
+evSoE0 : EV44(8) : 1.0
+evSoE0 : EV24(3) : 1.0
+evSoE0 : EV45(5) : 1.0
+evSoE0 : EV23(6) : 0.6571
+evSoE0 : EV11(7) : 0.615
+evSoE0 : EV12(4) : 1.0
+evSoE0 : EV13(1) : 0.58
+evSoE0 : EV36(1) : 0.5301
+evSoE0 : EV35(4) : 1.0
+evSoE0 : EV34(7) : 0.66
+evSoE0 : EV9(4) : 0.65
+evSoE0 : EV8(7) : 0.65
+evSoE0 : EV24(2) : 0.4865
+evSoE0 : EV23(5) : 0.6571
+evSoE0 : EV45(6) : 1.0
+evSoE0 : EV22(8) : 0.5977
+evSoE0 : EV46(3) : 1.0
+evSoE0 : EV11(8) : 0.615
+evSoE0 : EV12(5) : 0.595
+evSoE0 : EV13(2) : 0.58
+evSoE0 : EV34(6) : 0.66
+evSoE0 : EV35(3) : 1.0
+evSoE0 : EV6(6) : 0.65
+evSoE0 : EV45(3) : 1.0
+evSoE0 : EV44(6) : 1.0
+evSoE0 : EV22(3) : 1.0
+evSoE0 : EV7(3) : 0.65
+evSoE0 : EV21(6) : 0.6597
+evSoE0 : EV11(1) : 0.615
+evSoE0 : EV33(4) : 1.0
+evSoE0 : EV10(4) : 0.633
+evSoE0 : EV34(1) : 0.66
+evSoE0 : EV55(7) : 1.0
+evSoE0 : EV32(7) : 0.4709
+evSoE0 : EV7(4) : 0.65
+evSoE0 : EV6(7) : 0.65
+evSoE0 : EV22(2) : 0.5977
+evSoE0 : EV46(1) : 1.0
+evSoE0 : EV21(5) : 0.6597
+evSoE0 : EV44(7) : 1.0
+evSoE0 : EV8(1) : 0.65
+evSoE0 : EV45(4) : 1.0
+evSoE0 : EV20(8) : 0.473
+evSoE0 : EV11(2) : 0.615
+evSoE0 : EV33(3) : 1.0
+evSoE0 : EV55(8) : 1.0
+evSoE0 : EV10(5) : 0.633
+evSoE0 : EV32(6) : 0.4709
+evSoE0 : EV7(5) : 0.65
+evSoE0 : EV6(8) : 0.65
+evSoE0 : EV43(7) : 1.0
+evSoE0 : EV45(1) : 1.0
+evSoE0 : EV23(2) : 0.6571
+evSoE0 : EV8(2) : 0.65
+evSoE0 : EV22(5) : 0.5977
+evSoE0 : EV44(4) : 1.0
+evSoE0 : EV21(8) : 0.6597
+evSoE0 : EV11(3) : 1.0
+evSoE0 : EV54(8) : 1.0
+evSoE0 : EV34(3) : 1.0
+evSoE0 : EV55(5) : 1.0
+evSoE0 : EV10(6) : 0.633
+evSoE0 : EV33(6) : 0.6598
+evSoE0 : EV8(3) : 0.65
+evSoE0 : EV7(6) : 0.65
+evSoE0 : EV44(5) : 1.0
+evSoE0 : EV23(1) : 0.6571
+evSoE0 : EV45(2) : 1.0
+evSoE0 : EV22(4) : 1.0
+evSoE0 : EV43(8) : 1.0
+evSoE0 : EV21(7) : 0.6597
+evSoE0 : EV11(4) : 1.0
+evSoE0 : EV12(1) : 0.595
+evSoE0 : EV34(2) : 0.66
+evSoE0 : EV55(6) : 1.0
+evSoE0 : EV10(7) : 0.633
+evSoE0 : EV32(8) : 0.4709
+evSoE0 : EV33(5) : 0.6598
+activated EV : EV20(5) : true
+activated EV : EV42(8) : true
+activated EV : EV21(2) : true
+activated EV : EV44(2) : true
+activated EV : EV43(5) : true
+activated EV : EV19(5) : true
+activated EV : EV31(6) : true
+activated EV : EV32(3) : true
+activated EV : EV54(6) : true
+activated EV : EV18(8) : true
+activated EV : EV55(3) : true
+activated EV : EV10(1) : true
+activated EV : EV43(6) : true
+activated EV : EV20(4) : true
+activated EV : EV1(2) : true
+activated EV : EV44(3) : true
+activated EV : EV1(1) : true
+activated EV : EV21(1) : true
+activated EV : EV30(8) : true
+activated EV : EV31(5) : true
+activated EV : EV19(6) : true
+activated EV : EV32(2) : true
+activated EV : EV54(7) : true
+activated EV : EV55(4) : true
+activated EV : EV22(1) : true
+activated EV : EV21(4) : true
+activated EV : EV43(3) : true
+activated EV : EV42(6) : true
+activated EV : EV20(7) : true
+activated EV : EV1(3) : true
+activated EV : EV10(2) : true
+activated EV : EV32(5) : true
+activated EV : EV19(7) : true
+activated EV : EV53(7) : true
+activated EV : EV33(2) : true
+activated EV : EV54(4) : true
+activated EV : EV55(1) : true
+activated EV : EV31(8) : true
+activated EV : EV21(3) : true
+activated EV : EV20(6) : true
+activated EV : EV42(7) : true
+activated EV : EV44(1) : true
+activated EV : EV1(4) : true
+activated EV : EV2(1) : true
+activated EV : EV43(4) : true
+activated EV : EV10(3) : true
+activated EV : EV32(4) : true
+activated EV : EV33(1) : true
+activated EV : EV19(8) : true
+activated EV : EV53(8) : true
+activated EV : EV55(2) : true
+activated EV : EV54(5) : true
+activated EV : EV31(7) : true
+activated EV : EV9(5) : true
+activated EV : EV31(2) : true
+activated EV : EV8(8) : true
+activated EV : EV29(6) : true
+activated EV : EV42(4) : true
+activated EV : EV41(7) : true
+activated EV : EV43(1) : true
+activated EV : EV20(1) : true
+activated EV : EV17(7) : true
+activated EV : EV52(8) : true
+activated EV : EV19(1) : true
+activated EV : EV53(5) : true
+activated EV : EV30(5) : true
+activated EV : EV54(2) : true
+activated EV : EV18(4) : true
+activated EV : EV31(1) : true
+activated EV : EV9(6) : true
+activated EV : EV41(8) : true
+activated EV : EV28(8) : true
+activated EV : EV43(2) : true
+activated EV : EV29(5) : true
+activated EV : EV42(5) : true
+activated EV : EV17(8) : true
+activated EV : EV30(4) : true
+activated EV : EV19(2) : true
+activated EV : EV53(6) : true
+activated EV : EV54(3) : true
+activated EV : EV18(5) : true
+activated EV : EV32(1) : true
+activated EV : EV9(7) : true
+activated EV : EV29(8) : true
+activated EV : EV20(3) : true
+activated EV : EV41(5) : true
+activated EV : EV40(8) : true
+activated EV : EV42(2) : true
+activated EV : EV18(6) : true
+activated EV : EV31(4) : true
+activated EV : EV52(6) : true
+activated EV : EV19(3) : true
+activated EV : EV53(3) : true
+activated EV : EV30(7) : true
+activated EV : EV54(1) : true
+activated EV : EV9(8) : true
+activated EV : EV29(7) : true
+activated EV : EV42(3) : true
+activated EV : EV41(6) : true
+activated EV : EV20(2) : true
+activated EV : EV18(7) : true
+activated EV : EV31(3) : true
+activated EV : EV52(7) : true
+activated EV : EV30(6) : true
+activated EV : EV19(4) : true
+activated EV : EV53(4) : true
+activated EV : EV53(1) : true
+activated EV : EV30(1) : true
+activated EV : EV2(6) : true
+activated EV : EV27(8) : true
+activated EV : EV28(5) : true
+activated EV : EV29(2) : true
+activated EV : EV3(3) : true
+activated EV : EV40(6) : true
+activated EV : EV41(3) : true
+activated EV : EV39(6) : true
+activated EV : EV17(3) : true
+activated EV : EV51(7) : true
+activated EV : EV52(4) : true
+activated EV : EV16(6) : true
+activated EV : EV29(1) : true
+activated EV : EV53(2) : true
+activated EV : EV2(7) : true
+activated EV : EV3(4) : true
+activated EV : EV27(7) : true
+activated EV : EV40(7) : true
+activated EV : EV41(4) : true
+activated EV : EV4(1) : true
+activated EV : EV28(4) : true
+activated EV : EV39(5) : true
+activated EV : EV18(1) : true
+activated EV : EV42(1) : true
+activated EV : EV38(8) : true
+activated EV : EV17(4) : true
+activated EV : EV51(8) : true
+activated EV : EV52(5) : true
+activated EV : EV16(7) : true
+activated EV : EV52(2) : true
+activated EV : EV30(3) : true
+activated EV : EV3(5) : true
+activated EV : EV2(8) : true
+activated EV : EV28(7) : true
+activated EV : EV29(4) : true
+activated EV : EV4(2) : true
+activated EV : EV41(1) : true
+activated EV : EV40(4) : true
+activated EV : EV39(8) : true
+activated EV : EV16(8) : true
+activated EV : EV18(2) : true
+activated EV : EV50(8) : true
+activated EV : EV17(5) : true
+activated EV : EV51(5) : true
+activated EV : EV52(3) : true
+activated EV : EV30(2) : true
+activated EV : EV4(3) : true
+activated EV : EV3(6) : true
+activated EV : EV28(6) : true
+activated EV : EV40(5) : true
+activated EV : EV29(3) : true
+activated EV : EV41(2) : true
+activated EV : EV39(7) : true
+activated EV : EV18(3) : true
+activated EV : EV17(6) : true
+activated EV : EV51(6) : true
+activated EV : EV28(1) : true
+activated EV : EV51(3) : true
+activated EV : EV49(7) : true
+activated EV : EV1(5) : true
+activated EV : EV26(7) : true
+activated EV : EV2(2) : true
+activated EV : EV27(4) : true
+activated EV : EV38(5) : true
+activated EV : EV16(2) : true
+activated EV : EV40(2) : true
+activated EV : EV37(8) : true
+activated EV : EV14(8) : true
+activated EV : EV15(5) : true
+activated EV : EV39(2) : true
+activated EV : EV50(6) : true
+activated EV : EV2 : true
+activated EV : EV27(3) : true
+activated EV : EV51(4) : true
+activated EV : EV1 : true
+activated EV : EV4 : true
+activated EV : EV52(1) : true
+activated EV : EV3 : true
+activated EV : EV6 : true
+activated EV : EV5 : true
+activated EV : EV49(8) : true
+activated EV : EV8 : true
+activated EV : EV7 : true
+activated EV : EV9 : true
+activated EV : EV1(6) : true
+activated EV : EV2(3) : true
+activated EV : EV26(6) : true
+activated EV : EV40(3) : true
+activated EV : EV38(4) : true
+activated EV : EV16(3) : true
+activated EV : EV37(7) : true
+activated EV : EV39(1) : true
+activated EV : EV50(7) : true
+activated EV : EV15(6) : true
+activated EV : EV49(5) : true
+activated EV : EV50(4) : true
+activated EV : EV48(8) : true
+activated EV : EV51(1) : true
+activated EV : EV1(7) : true
+activated EV : EV3(1) : true
+activated EV : EV2(4) : true
+activated EV : EV27(6) : true
+activated EV : EV28(3) : true
+activated EV : EV39(4) : true
+activated EV : EV17(1) : true
+activated EV : EV38(7) : true
+activated EV : EV15(7) : true
+activated EV : EV16(4) : true
+activated EV : EV50(5) : true
+activated EV : EV28(2) : true
+activated EV : EV51(2) : true
+activated EV : EV49(6) : true
+activated EV : EV1(8) : true
+activated EV : EV2(5) : true
+activated EV : EV26(8) : true
+activated EV : EV27(5) : true
+activated EV : EV3(2) : true
+activated EV : EV39(3) : true
+activated EV : EV40(1) : true
+activated EV : EV17(2) : true
+activated EV : EV38(6) : true
+activated EV : EV16(5) : true
+activated EV : EV15(8) : true
+activated EV : EV26(3) : true
+activated EV : EV50(2) : true
+activated EV : EV48(6) : true
+activated EV : EV4(8) : true
+activated EV : EV6(2) : true
+activated EV : EV5(5) : true
+activated EV : EV49(3) : true
+activated EV : EV25(6) : true
+activated EV : EV14(4) : true
+activated EV : EV36(7) : true
+activated EV : EV15(1) : true
+activated EV : EV38(1) : true
+activated EV : EV13(7) : true
+activated EV : EV37(4) : true
+activated EV : EV25(5) : true
+activated EV : EV48(7) : true
+activated EV : EV49(4) : true
+activated EV : EV24(8) : true
+activated EV : EV26(2) : true
+activated EV : EV50(3) : true
+activated EV : EV5(6) : true
+activated EV : EV6(3) : true
+activated EV : EV14(5) : true
+activated EV : EV36(6) : true
+activated EV : EV15(2) : true
+activated EV : EV37(3) : true
+activated EV : EV13(8) : true
+activated EV : EV27(2) : true
+activated EV : EV47(7) : true
+activated EV : EV5(7) : true
+activated EV : EV7(1) : true
+activated EV : EV6(4) : true
+activated EV : EV49(1) : true
+activated EV : EV48(4) : true
+activated EV : EV25(8) : true
+activated EV : EV26(5) : true
+activated EV : EV15(3) : true
+activated EV : EV37(6) : true
+activated EV : EV14(6) : true
+activated EV : EV38(3) : true
+activated EV : EV26(4) : true
+activated EV : EV47(8) : true
+activated EV : EV27(1) : true
+activated EV : EV48(5) : true
+activated EV : EV50(1) : true
+activated EV : EV6(5) : true
+activated EV : EV5(8) : true
+activated EV : EV7(2) : true
+activated EV : EV25(7) : true
+activated EV : EV49(2) : true
+activated EV : EV16(1) : true
+activated EV : EV37(5) : true
+activated EV : EV15(4) : true
+activated EV : EV36(8) : true
+activated EV : EV38(2) : true
+activated EV : EV14(7) : true
+activated EV : EV23(8) : true
+activated EV : EV46(8) : true
+activated EV : EV25(2) : true
+activated EV : EV4(4) : true
+activated EV : EV3(7) : true
+activated EV : EV47(5) : true
+activated EV : EV5(1) : true
+activated EV : EV24(5) : true
+activated EV : EV20 : true
+activated EV : EV48(2) : true
+activated EV : EV21 : true
+activated EV : EV22 : true
+activated EV : EV12(6) : true
+activated EV : EV23 : true
+activated EV : EV13(3) : true
+activated EV : EV24 : true
+activated EV : EV25 : true
+activated EV : EV26 : true
+activated EV : EV27 : true
+activated EV : EV28 : true
+activated EV : EV29 : true
+activated EV : EV36(3) : true
+activated EV : EV35(6) : true
+activated EV : EV47(6) : true
+activated EV : EV25(1) : true
+activated EV : EV3(8) : true
+activated EV : EV5(2) : true
+activated EV : EV4(5) : true
+activated EV : EV48(3) : true
+activated EV : EV24(4) : true
+activated EV : EV23(7) : true
+activated EV : EV10 : true
+activated EV : EV12(7) : true
+activated EV : EV11 : true
+activated EV : EV12 : true
+activated EV : EV34(8) : true
+activated EV : EV13 : true
+activated EV : EV13(4) : true
+activated EV : EV14 : true
+activated EV : EV15 : true
+activated EV : EV14(1) : true
+activated EV : EV16 : true
+activated EV : EV17 : true
+activated EV : EV18 : true
+activated EV : EV19 : true
+activated EV : EV36(2) : true
+activated EV : EV35(5) : true
+activated EV : EV24(7) : true
+activated EV : EV25(4) : true
+activated EV : EV26(1) : true
+activated EV : EV5(3) : true
+activated EV : EV4(6) : true
+activated EV : EV46(6) : true
+activated EV : EV40 : true
+activated EV : EV41 : true
+activated EV : EV42 : true
+activated EV : EV47(3) : true
+activated EV : EV43 : true
+activated EV : EV13(5) : true
+activated EV : EV35(8) : true
+activated EV : EV44 : true
+activated EV : EV45 : true
+activated EV : EV14(2) : true
+activated EV : EV46 : true
+activated EV : EV47 : true
+activated EV : EV48 : true
+activated EV : EV49 : true
+activated EV : EV37(2) : true
+activated EV : EV36(5) : true
+activated EV : EV12(8) : true
+activated EV : EV25(3) : true
+activated EV : EV46(7) : true
+activated EV : EV4(7) : true
+activated EV : EV6(1) : true
+activated EV : EV5(4) : true
+activated EV : EV47(4) : true
+activated EV : EV30 : true
+activated EV : EV48(1) : true
+activated EV : EV31 : true
+activated EV : EV24(6) : true
+activated EV : EV32 : true
+activated EV : EV33 : true
+activated EV : EV13(6) : true
+activated EV : EV35(7) : true
+activated EV : EV34 : true
+activated EV : EV35 : true
+activated EV : EV14(3) : true
+activated EV : EV36 : true
+activated EV : EV37 : true
+activated EV : EV38 : true
+activated EV : EV39 : true
+activated EV : EV37(1) : true
+activated EV : EV36(4) : true
+activated EV : EV8(4) : true
+activated EV : EV7(7) : true
+activated EV : EV47(1) : true
+activated EV : EV24(1) : true
+activated EV : EV9(1) : true
+activated EV : EV23(4) : true
+activated EV : EV45(7) : true
+activated EV : EV46(4) : true
+activated EV : EV22(7) : true
+activated EV : EV11(5) : true
+activated EV : EV12(2) : true
+activated EV : EV35(2) : true
+activated EV : EV33(8) : true
+activated EV : EV10(8) : true
+activated EV : EV34(5) : true
+activated EV : EV7(8) : true
+activated EV : EV8(5) : true
+activated EV : EV9(2) : true
+activated EV : EV45(8) : true
+activated EV : EV23(3) : true
+activated EV : EV50 : true
+activated EV : EV22(6) : true
+activated EV : EV51 : true
+activated EV : EV46(5) : true
+activated EV : EV52 : true
+activated EV : EV47(2) : true
+activated EV : EV53 : true
+activated EV : EV54 : true
+activated EV : EV55 : true
+activated EV : EV11(6) : true
+activated EV : EV12(3) : true
+activated EV : EV35(1) : true
+activated EV : EV33(7) : true
+activated EV : EV34(4) : true
+activated EV : EV8(6) : true
+activated EV : EV9(3) : true
+activated EV : EV46(2) : true
+activated EV : EV44(8) : true
+activated EV : EV24(3) : true
+activated EV : EV45(5) : true
+activated EV : EV23(6) : true
+activated EV : EV11(7) : true
+activated EV : EV12(4) : true
+activated EV : EV13(1) : true
+activated EV : EV36(1) : true
+activated EV : EV35(4) : true
+activated EV : EV34(7) : true
+activated EV : EV9(4) : true
+activated EV : EV8(7) : true
+activated EV : EV24(2) : true
+activated EV : EV23(5) : true
+activated EV : EV45(6) : true
+activated EV : EV22(8) : true
+activated EV : EV46(3) : true
+activated EV : EV11(8) : true
+activated EV : EV12(5) : true
+activated EV : EV13(2) : true
+activated EV : EV34(6) : true
+activated EV : EV35(3) : true
+activated EV : EV6(6) : true
+activated EV : EV45(3) : true
+activated EV : EV44(6) : true
+activated EV : EV22(3) : true
+activated EV : EV7(3) : true
+activated EV : EV21(6) : true
+activated EV : EV11(1) : true
+activated EV : EV33(4) : true
+activated EV : EV10(4) : true
+activated EV : EV34(1) : true
+activated EV : EV55(7) : true
+activated EV : EV32(7) : true
+activated EV : EV7(4) : true
+activated EV : EV6(7) : true
+activated EV : EV22(2) : true
+activated EV : EV46(1) : true
+activated EV : EV21(5) : true
+activated EV : EV44(7) : true
+activated EV : EV8(1) : true
+activated EV : EV45(4) : true
+activated EV : EV20(8) : true
+activated EV : EV11(2) : true
+activated EV : EV33(3) : true
+activated EV : EV55(8) : true
+activated EV : EV10(5) : true
+activated EV : EV32(6) : true
+activated EV : EV7(5) : true
+activated EV : EV6(8) : true
+activated EV : EV43(7) : true
+activated EV : EV45(1) : true
+activated EV : EV23(2) : true
+activated EV : EV8(2) : true
+activated EV : EV22(5) : true
+activated EV : EV44(4) : true
+activated EV : EV21(8) : true
+activated EV : EV11(3) : true
+activated EV : EV54(8) : true
+activated EV : EV34(3) : true
+activated EV : EV55(5) : true
+activated EV : EV10(6) : true
+activated EV : EV33(6) : true
+activated EV : EV8(3) : true
+activated EV : EV7(6) : true
+activated EV : EV44(5) : true
+activated EV : EV23(1) : true
+activated EV : EV45(2) : true
+activated EV : EV22(4) : true
+activated EV : EV43(8) : true
+activated EV : EV21(7) : true
+activated EV : EV11(4) : true
+activated EV : EV12(1) : true
+activated EV : EV34(2) : true
+activated EV : EV55(6) : true
+activated EV : EV10(7) : true
+activated EV : EV32(8) : true
+activated EV : EV33(5) : true
+activated PV : PV38(2) : true
+activated PV : PV50(3) : true
+activated PV : PV37(5) : true
+activated PV : PV15(2) : true
+activated PV : PV36(8) : true
+activated PV : PV13(8) : true
+activated PV : PV14(5) : true
+activated PV : PV27(1) : true
+activated PV : PV49(4) : true
+activated PV : PV9(8) : true
+activated PV : PV25(7) : true
+activated PV : PV26(4) : true
+activated PV : PV1(1) : true
+activated PV : PV15(1) : true
+activated PV : PV14(4) : true
+activated PV : PV37(6) : true
+activated PV : PV38(3) : true
+activated PV : PV13(7) : true
+activated PV : PV27(2) : true
+activated PV : PV49(3) : true
+activated PV : PV25(8) : true
+activated PV : PV26(5) : true
+activated PV : PV39(1) : true
+activated PV : PV14(3) : true
+activated PV : PV37(7) : true
+activated PV : PV38(4) : true
+activated PV : PV13(6) : true
+activated PV : PV9(6) : true
+activated PV : PV40(1) : true
+activated PV : PV26(6) : true
+activated PV : PV27(3) : true
+activated PV : PV14(2) : true
+activated PV : PV50(4) : true
+activated PV : PV13(5) : true
+activated PV : PV38(5) : true
+activated PV : PV39(2) : true
+activated PV : PV12(8) : true
+activated PV : PV37(8) : true
+activated PV : PV28(1) : true
+activated PV : PV9(7) : true
+activated PV : PV26(7) : true
+activated PV : PV27(4) : true
+activated PV : PV2(1) : true
+activated PV : PV1(4) : true
+activated PV : PV35(7) : true
+activated PV : PV37(1) : true
+activated PV : PV16(3) : true
+activated PV : PV36(4) : true
+activated PV : PV15(6) : true
+activated PV : PV25(3) : true
+activated PV : PV48(3) : true
+activated PV : PV24(6) : true
+activated PV : PV2(2) : true
+activated PV : PV1(5) : true
+activated PV : PV36(5) : true
+activated PV : PV16(2) : true
+activated PV : PV35(8) : true
+activated PV : PV15(5) : true
+activated PV : PV37(2) : true
+activated PV : PV14(8) : true
+activated PV : PV25(4) : true
+activated PV : PV26(1) : true
+activated PV : PV24(7) : true
+activated PV : PV1(2) : true
+activated PV : PV36(6) : true
+activated PV : PV16(1) : true
+activated PV : PV15(4) : true
+activated PV : PV37(3) : true
+activated PV : PV14(7) : true
+activated PV : PV26(2) : true
+activated PV : PV24(8) : true
+activated PV : PV25(5) : true
+activated PV : PV1(3) : true
+activated PV : PV37(4) : true
+activated PV : PV38(1) : true
+activated PV : PV15(3) : true
+activated PV : PV36(7) : true
+activated PV : PV14(6) : true
+activated PV : PV26(3) : true
+activated PV : PV48(4) : true
+activated PV : PV25(6) : true
+activated PV : PV11(6) : true
+activated PV : PV12(3) : true
+activated PV : PV35(3) : true
+activated PV : PV34(6) : true
+activated PV : PV7(6) : true
+activated PV : PV8(3) : true
+activated PV : PV22(8) : true
+activated PV : PV24(2) : true
+activated PV : PV23(5) : true
+activated PV : PV12(2) : true
+activated PV : PV10(8) : true
+activated PV : PV34(7) : true
+activated PV : PV11(5) : true
+activated PV : PV36(1) : true
+activated PV : PV35(4) : true
+activated PV : PV7(7) : true
+activated PV : PV8(4) : true
+activated PV : PV9(1) : true
+activated PV : PV24(3) : true
+activated PV : PV46(4) : true
+activated PV : PV23(6) : true
+activated PV : PV12(1) : true
+activated PV : PV34(8) : true
+activated PV : PV10(7) : true
+activated PV : PV11(4) : true
+activated PV : PV36(2) : true
+activated PV : PV35(5) : true
+activated PV : PV6(7) : true
+activated PV : PV7(4) : true
+activated PV : PV8(1) : true
+activated PV : PV23(7) : true
+activated PV : PV24(4) : true
+activated PV : PV25(1) : true
+activated PV : PV47(4) : true
+activated PV : PV11(3) : true
+activated PV : PV35(6) : true
+activated PV : PV10(6) : true
+activated PV : PV36(3) : true
+activated PV : PV6(8) : true
+activated PV : PV7(5) : true
+activated PV : PV8(2) : true
+activated PV : PV24(5) : true
+activated PV : PV23(8) : true
+activated PV : PV25(2) : true
+activated PV : PV47(3) : true
+activated PV : PV34(2) : true
+activated PV : PV13(4) : true
+activated PV : PV14(1) : true
+activated PV : PV32(8) : true
+activated PV : PV12(7) : true
+activated PV : PV33(5) : true
+activated PV : PV9(4) : true
+activated PV : PV8(7) : true
+activated PV : PV23(1) : true
+activated PV : PV22(4) : true
+activated PV : PV45(4) : true
+activated PV : PV21(7) : true
+activated PV : PV12(6) : true
+activated PV : PV13(3) : true
+activated PV : PV33(6) : true
+activated PV : PV34(3) : true
+activated PV : PV23(2) : true
+activated PV : PV9(5) : true
+activated PV : PV22(5) : true
+activated PV : PV8(8) : true
+activated PV : PV21(8) : true
+activated PV : PV45(3) : true
+activated PV : PV35(1) : true
+activated PV : PV12(5) : true
+activated PV : PV13(2) : true
+activated PV : PV34(4) : true
+activated PV : PV33(7) : true
+activated PV : PV11(8) : true
+activated PV : PV7(8) : true
+activated PV : PV8(5) : true
+activated PV : PV9(2) : true
+activated PV : PV23(3) : true
+activated PV : PV22(6) : true
+activated PV : PV46(3) : true
+activated PV : PV13(1) : true
+activated PV : PV11(7) : true
+activated PV : PV33(8) : true
+activated PV : PV12(4) : true
+activated PV : PV35(2) : true
+activated PV : PV34(5) : true
+activated PV : PV8(6) : true
+activated PV : PV9(3) : true
+activated PV : PV24(1) : true
+activated PV : PV23(4) : true
+activated PV : PV22(7) : true
+activated PV : PV32(4) : true
+activated PV : PV55(4) : true
+activated PV : PV33(1) : true
+activated PV : PV10(1) : true
+activated PV : PV6(1) : true
+activated PV : PV19(7) : true
+activated PV : PV31(7) : true
+activated PV : PV44(3) : true
+activated PV : PV21(3) : true
+activated PV : PV5(4) : true
+activated PV : PV4(7) : true
+activated PV : PV20(6) : true
+activated PV : PV33(2) : true
+activated PV : PV19(8) : true
+activated PV : PV31(8) : true
+activated PV : PV55(3) : true
+activated PV : PV32(5) : true
+activated PV : PV22(1) : true
+activated PV : PV21(4) : true
+activated PV : PV18(8) : true
+activated PV : PV5(5) : true
+activated PV : PV6(2) : true
+activated PV : PV20(7) : true
+activated PV : PV4(8) : true
+activated PV : PV33(3) : true
+activated PV : PV5(2) : true
+activated PV : PV32(6) : true
+activated PV : PV22(2) : true
+activated PV : PV18(7) : true
+activated PV : PV4(5) : true
+activated PV : PV3(8) : true
+activated PV : PV21(5) : true
+activated PV : PV20(8) : true
+activated PV : PV34(1) : true
+activated PV : PV32(7) : true
+activated PV : PV33(4) : true
+activated PV : PV18(6) : true
+activated PV : PV22(3) : true
+activated PV : PV5(3) : true
+activated PV : PV4(6) : true
+activated PV : PV21(6) : true
+activated PV : PV44(4) : true
+activated PV : PV10 : true
+activated PV : PV30(6) : true
+activated PV : PV12 : false
+activated PV : PV31(3) : true
+activated PV : PV11 : false
+activated PV : PV29(7) : true
+activated PV : PV11(2) : true
+activated PV : PV18 : false
+activated PV : PV19 : false
+activated PV : PV10(5) : true
+activated PV : PV14 : false
+activated PV : PV16 : false
+activated PV : PV15 : false
+activated PV : PV54(3) : true
+activated PV : PV19(3) : true
+activated PV : PV20(2) : true
+activated PV : PV5(8) : true
+activated PV : PV6(5) : true
+activated PV : PV7(2) : true
+activated PV : PV31(4) : true
+activated PV : PV32(1) : true
+activated PV : PV29(8) : true
+activated PV : PV10(4) : true
+activated PV : PV11(1) : true
+activated PV : PV19(4) : true
+activated PV : PV30(7) : true
+activated PV : PV20(3) : true
+activated PV : PV6(6) : true
+activated PV : PV7(3) : true
+activated PV : PV42(4) : true
+activated PV : PV32 : false
+activated PV : PV31(5) : true
+activated PV : PV31 : false
+activated PV : PV33 : false
+activated PV : PV32(2) : true
+activated PV : PV10(3) : true
+activated PV : PV30 : false
+activated PV : PV39 : false
+activated PV : PV36 : false
+activated PV : PV35 : false
+activated PV : PV38 : false
+activated PV : PV19(5) : true
+activated PV : PV30(8) : true
+activated PV : PV21(1) : true
+activated PV : PV20(4) : true
+activated PV : PV5(6) : true
+activated PV : PV6(3) : true
+activated PV : PV43(4) : true
+activated PV : PV21 : false
+activated PV : PV32(3) : true
+activated PV : PV22 : false
+activated PV : PV10(2) : true
+activated PV : PV29 : false
+activated PV : PV28 : false
+activated PV : PV1 : true
+activated PV : PV25 : false
+activated PV : PV3 : true
+activated PV : PV2 : true
+activated PV : PV24 : false
+activated PV : PV19(6) : true
+activated PV : PV5 : true
+activated PV : PV54(4) : true
+activated PV : PV26 : false
+activated PV : PV4 : true
+activated PV : PV31(6) : true
+activated PV : PV7 : true
+activated PV : PV21(2) : true
+activated PV : PV6 : true
+activated PV : PV9 : true
+activated PV : PV20(5) : true
+activated PV : PV8 : true
+activated PV : PV5(7) : true
+activated PV : PV6(4) : true
+activated PV : PV7(1) : true
+activated PV : PV43(3) : true
+activated PV : PV54 : false
+activated PV : PV28(6) : true
+activated PV : PV55 : false
+activated PV : PV30(2) : true
+activated PV : PV3(2) : true
+activated PV : PV52 : false
+activated PV : PV2(5) : true
+activated PV : PV51 : false
+activated PV : PV18(1) : true
+activated PV : PV17(4) : true
+activated PV : PV16(7) : true
+activated PV : PV39(7) : true
+activated PV : PV1(8) : true
+activated PV : PV41(4) : true
+activated PV : PV40(7) : true
+activated PV : PV29(3) : true
+activated PV : PV43 : false
+activated PV : PV44 : false
+activated PV : PV30(3) : true
+activated PV : PV28(7) : true
+activated PV : PV41 : false
+activated PV : PV3(3) : true
+activated PV : PV40 : false
+activated PV : PV46 : false
+activated PV : PV17(3) : true
+activated PV : PV49 : false
+activated PV : PV16(6) : true
+activated PV : PV48 : false
+activated PV : PV52(4) : true
+activated PV : PV39(8) : true
+activated PV : PV2(6) : true
+activated PV : PV41(3) : true
+activated PV : PV29(4) : true
+activated PV : PV40(6) : true
+activated PV : PV28(8) : true
+activated PV : PV29(5) : true
+activated PV : PV30(4) : true
+activated PV : PV31(1) : true
+activated PV : PV2(3) : true
+activated PV : PV1(6) : true
+activated PV : PV17(2) : true
+activated PV : PV53(4) : true
+activated PV : PV16(5) : true
+activated PV : PV15(8) : true
+activated PV : PV19(1) : true
+activated PV : PV42(3) : true
+activated PV : PV29(6) : true
+activated PV : PV30(5) : true
+activated PV : PV31(2) : true
+activated PV : PV3(1) : true
+activated PV : PV2(4) : true
+activated PV : PV17(1) : true
+activated PV : PV16(4) : true
+activated PV : PV15(7) : true
+activated PV : PV53(3) : true
+activated PV : PV19(2) : true
+activated PV : PV40(8) : true
+activated PV : PV20(1) : true
+activated PV : PV1(7) : true
+activated PV : PV26(8) : true
+activated PV : PV4(3) : true
+activated PV : PV38(6) : true
+activated PV : PV39(3) : true
+activated PV : PV51(4) : true
+activated PV : PV18(5) : true
+activated PV : PV17(8) : true
+activated PV : PV3(6) : true
+activated PV : PV40(3) : true
+activated PV : PV27(5) : true
+activated PV : PV28(2) : true
+activated PV : PV5(1) : true
+activated PV : PV51(3) : true
+activated PV : PV39(4) : true
+activated PV : PV18(4) : true
+activated PV : PV17(7) : true
+activated PV : PV38(7) : true
+activated PV : PV4(4) : true
+activated PV : PV3(7) : true
+activated PV : PV40(2) : true
+activated PV : PV27(6) : true
+activated PV : PV28(3) : true
+activated PV : PV27(7) : true
+activated PV : PV4(1) : true
+activated PV : PV3(4) : true
+activated PV : PV39(5) : true
+activated PV : PV18(3) : true
+activated PV : PV52(3) : true
+activated PV : PV17(6) : true
+activated PV : PV38(8) : true
+activated PV : PV2(7) : true
+activated PV : PV28(4) : true
+activated PV : PV40(5) : true
+activated PV : PV29(1) : true
+activated PV : PV27(8) : true
+activated PV : PV30(1) : true
+activated PV : PV4(2) : true
+activated PV : PV18(2) : true
+activated PV : PV17(5) : true
+activated PV : PV16(8) : true
+activated PV : PV39(6) : true
+activated PV : PV3(5) : true
+activated PV : PV2(8) : true
+activated PV : PV29(2) : true
+activated PV : PV40(4) : true
+activated PV : PV28(5) : true
+pvRate : PV38(2) : 0.15
+pvRate : PV50(3) : 0.15
+pvRate : PV37(5) : 0.15
+pvRate : PV15(2) : 0.15
+pvRate : PV36(8) : 0.15
+pvRate : PV13(8) : 0.15
+pvRate : PV14(5) : 0.15
+pvRate : PV27(1) : 0.15
+pvRate : PV49(4) : 0.15
+pvRate : PV9(8) : 0.15
+pvRate : PV25(7) : 0.15
+pvRate : PV26(4) : 0.15
+pvRate : PV1(1) : 0.15
+pvRate : PV15(1) : 0.15
+pvRate : PV14(4) : 0.15
+pvRate : PV37(6) : 0.15
+pvRate : PV38(3) : 0.15
+pvRate : PV13(7) : 0.15
+pvRate : PV27(2) : 0.15
+pvRate : PV49(3) : 0.15
+pvRate : PV25(8) : 0.15
+pvRate : PV26(5) : 0.15
+pvRate : PV39(1) : 0.15
+pvRate : PV14(3) : 0.15
+pvRate : PV37(7) : 0.15
+pvRate : PV38(4) : 0.15
+pvRate : PV13(6) : 0.15
+pvRate : PV9(6) : 0.15
+pvRate : PV40(1) : 0.15
+pvRate : PV26(6) : 0.15
+pvRate : PV27(3) : 0.15
+pvRate : PV14(2) : 0.15
+pvRate : PV50(4) : 0.15
+pvRate : PV13(5) : 0.15
+pvRate : PV38(5) : 0.15
+pvRate : PV39(2) : 0.15
+pvRate : PV12(8) : 0.15
+pvRate : PV37(8) : 0.15
+pvRate : PV28(1) : 0.15
+pvRate : PV9(7) : 0.15
+pvRate : PV26(7) : 0.15
+pvRate : PV27(4) : 0.15
+pvRate : PV2(1) : 0.15
+pvRate : PV1(4) : 0.15
+pvRate : PV35(7) : 0.15
+pvRate : PV37(1) : 0.15
+pvRate : PV16(3) : 0.15
+pvRate : PV36(4) : 0.15
+pvRate : PV15(6) : 0.15
+pvRate : PV25(3) : 0.15
+pvRate : PV48(3) : 0.15
+pvRate : PV24(6) : 0.15
+pvRate : PV2(2) : 0.15
+pvRate : PV1(5) : 0.15
+pvRate : PV36(5) : 0.15
+pvRate : PV16(2) : 0.15
+pvRate : PV35(8) : 0.15
+pvRate : PV15(5) : 0.15
+pvRate : PV37(2) : 0.15
+pvRate : PV14(8) : 0.15
+pvRate : PV25(4) : 0.15
+pvRate : PV26(1) : 0.15
+pvRate : PV24(7) : 0.15
+pvRate : PV1(2) : 0.15
+pvRate : PV36(6) : 0.15
+pvRate : PV16(1) : 0.15
+pvRate : PV15(4) : 0.15
+pvRate : PV37(3) : 0.15
+pvRate : PV14(7) : 0.15
+pvRate : PV26(2) : 0.15
+pvRate : PV24(8) : 0.15
+pvRate : PV25(5) : 0.15
+pvRate : PV1(3) : 0.15
+pvRate : PV37(4) : 0.15
+pvRate : PV38(1) : 0.15
+pvRate : PV15(3) : 0.15
+pvRate : PV36(7) : 0.15
+pvRate : PV14(6) : 0.15
+pvRate : PV26(3) : 0.15
+pvRate : PV48(4) : 0.15
+pvRate : PV25(6) : 0.15
+pvRate : PV11(6) : 0.15
+pvRate : PV12(3) : 0.15
+pvRate : PV35(3) : 0.15
+pvRate : PV34(6) : 0.15
+pvRate : PV7(6) : 0.15
+pvRate : PV8(3) : 0.15
+pvRate : PV22(8) : 0.15
+pvRate : PV24(2) : 0.15
+pvRate : PV23(5) : 0.15
+pvRate : PV12(2) : 0.15
+pvRate : PV10(8) : 0.15
+pvRate : PV34(7) : 0.15
+pvRate : PV11(5) : 0.15
+pvRate : PV36(1) : 0.15
+pvRate : PV35(4) : 0.15
+pvRate : PV7(7) : 0.15
+pvRate : PV8(4) : 0.15
+pvRate : PV9(1) : 0.15
+pvRate : PV24(3) : 0.15
+pvRate : PV46(4) : 0.15
+pvRate : PV23(6) : 0.15
+pvRate : PV12(1) : 0.15
+pvRate : PV34(8) : 0.15
+pvRate : PV10(7) : 0.15
+pvRate : PV11(4) : 0.15
+pvRate : PV36(2) : 0.15
+pvRate : PV35(5) : 0.15
+pvRate : PV6(7) : 0.15
+pvRate : PV7(4) : 0.15
+pvRate : PV8(1) : 0.15
+pvRate : PV23(7) : 0.15
+pvRate : PV24(4) : 0.15
+pvRate : PV25(1) : 0.15
+pvRate : PV47(4) : 0.15
+pvRate : PV11(3) : 0.15
+pvRate : PV35(6) : 0.15
+pvRate : PV10(6) : 0.15
+pvRate : PV36(3) : 0.15
+pvRate : PV6(8) : 0.15
+pvRate : PV7(5) : 0.15
+pvRate : PV8(2) : 0.15
+pvRate : PV24(5) : 0.15
+pvRate : PV23(8) : 0.15
+pvRate : PV25(2) : 0.15
+pvRate : PV47(3) : 0.15
+pvRate : PV34(2) : 0.15
+pvRate : PV13(4) : 0.15
+pvRate : PV14(1) : 0.15
+pvRate : PV32(8) : 0.15
+pvRate : PV12(7) : 0.15
+pvRate : PV33(5) : 0.15
+pvRate : PV9(4) : 0.15
+pvRate : PV8(7) : 0.15
+pvRate : PV23(1) : 0.15
+pvRate : PV22(4) : 0.15
+pvRate : PV45(4) : 0.15
+pvRate : PV21(7) : 0.15
+pvRate : PV12(6) : 0.15
+pvRate : PV13(3) : 0.15
+pvRate : PV33(6) : 0.15
+pvRate : PV34(3) : 0.15
+pvRate : PV23(2) : 0.15
+pvRate : PV9(5) : 0.15
+pvRate : PV22(5) : 0.15
+pvRate : PV8(8) : 0.15
+pvRate : PV21(8) : 0.15
+pvRate : PV45(3) : 0.15
+pvRate : PV35(1) : 0.15
+pvRate : PV12(5) : 0.15
+pvRate : PV13(2) : 0.15
+pvRate : PV34(4) : 0.15
+pvRate : PV33(7) : 0.15
+pvRate : PV11(8) : 0.15
+pvRate : PV7(8) : 0.15
+pvRate : PV8(5) : 0.15
+pvRate : PV9(2) : 0.15
+pvRate : PV23(3) : 0.15
+pvRate : PV22(6) : 0.15
+pvRate : PV46(3) : 0.15
+pvRate : PV13(1) : 0.15
+pvRate : PV11(7) : 0.15
+pvRate : PV33(8) : 0.15
+pvRate : PV12(4) : 0.15
+pvRate : PV35(2) : 0.15
+pvRate : PV34(5) : 0.15
+pvRate : PV8(6) : 0.15
+pvRate : PV9(3) : 0.15
+pvRate : PV24(1) : 0.15
+pvRate : PV23(4) : 0.15
+pvRate : PV22(7) : 0.15
+pvRate : PV32(4) : 0.15
+pvRate : PV55(4) : 0.15
+pvRate : PV33(1) : 0.15
+pvRate : PV10(1) : 0.15
+pvRate : PV6(1) : 0.15
+pvRate : PV19(7) : 0.15
+pvRate : PV31(7) : 0.15
+pvRate : PV44(3) : 0.15
+pvRate : PV21(3) : 0.15
+pvRate : PV5(4) : 0.15
+pvRate : PV4(7) : 0.15
+pvRate : PV20(6) : 0.15
+pvRate : PV33(2) : 0.15
+pvRate : PV19(8) : 0.15
+pvRate : PV31(8) : 0.15
+pvRate : PV55(3) : 0.15
+pvRate : PV32(5) : 0.15
+pvRate : PV22(1) : 0.15
+pvRate : PV21(4) : 0.15
+pvRate : PV18(8) : 0.15
+pvRate : PV5(5) : 0.15
+pvRate : PV6(2) : 0.15
+pvRate : PV20(7) : 0.15
+pvRate : PV4(8) : 0.15
+pvRate : PV33(3) : 0.15
+pvRate : PV5(2) : 0.15
+pvRate : PV32(6) : 0.15
+pvRate : PV22(2) : 0.15
+pvRate : PV18(7) : 0.15
+pvRate : PV4(5) : 0.15
+pvRate : PV3(8) : 0.15
+pvRate : PV21(5) : 0.15
+pvRate : PV20(8) : 0.15
+pvRate : PV34(1) : 0.15
+pvRate : PV32(7) : 0.15
+pvRate : PV33(4) : 0.15
+pvRate : PV18(6) : 0.15
+pvRate : PV22(3) : 0.15
+pvRate : PV5(3) : 0.15
+pvRate : PV4(6) : 0.15
+pvRate : PV21(6) : 0.15
+pvRate : PV44(4) : 0.15
+pvRate : PV10 : 0.15
+pvRate : PV30(6) : 0.15
+pvRate : PV12 : 0.15
+pvRate : PV31(3) : 0.15
+pvRate : PV11 : 0.15
+pvRate : PV29(7) : 0.15
+pvRate : PV11(2) : 0.15
+pvRate : PV18 : 0.15
+pvRate : PV19 : 0.15
+pvRate : PV10(5) : 0.15
+pvRate : PV14 : 0.15
+pvRate : PV16 : 0.15
+pvRate : PV15 : 0.15
+pvRate : PV54(3) : 0.15
+pvRate : PV19(3) : 0.15
+pvRate : PV20(2) : 0.15
+pvRate : PV5(8) : 0.15
+pvRate : PV6(5) : 0.15
+pvRate : PV7(2) : 0.15
+pvRate : PV31(4) : 0.15
+pvRate : PV32(1) : 0.15
+pvRate : PV29(8) : 0.15
+pvRate : PV10(4) : 0.15
+pvRate : PV11(1) : 0.15
+pvRate : PV19(4) : 0.15
+pvRate : PV30(7) : 0.15
+pvRate : PV20(3) : 0.15
+pvRate : PV6(6) : 0.15
+pvRate : PV7(3) : 0.15
+pvRate : PV42(4) : 0.15
+pvRate : PV32 : 0.15
+pvRate : PV31(5) : 0.15
+pvRate : PV31 : 0.15
+pvRate : PV33 : 0.15
+pvRate : PV32(2) : 0.15
+pvRate : PV10(3) : 0.15
+pvRate : PV30 : 0.15
+pvRate : PV39 : 0.15
+pvRate : PV36 : 0.15
+pvRate : PV35 : 0.15
+pvRate : PV38 : 0.15
+pvRate : PV19(5) : 0.15
+pvRate : PV30(8) : 0.15
+pvRate : PV21(1) : 0.15
+pvRate : PV20(4) : 0.15
+pvRate : PV5(6) : 0.15
+pvRate : PV6(3) : 0.15
+pvRate : PV43(4) : 0.15
+pvRate : PV21 : 0.15
+pvRate : PV32(3) : 0.15
+pvRate : PV22 : 0.15
+pvRate : PV10(2) : 0.15
+pvRate : PV29 : 0.15
+pvRate : PV28 : 0.15
+pvRate : PV1 : 0.15
+pvRate : PV25 : 0.15
+pvRate : PV3 : 0.15
+pvRate : PV2 : 0.15
+pvRate : PV24 : 0.15
+pvRate : PV19(6) : 0.15
+pvRate : PV5 : 0.15
+pvRate : PV54(4) : 0.15
+pvRate : PV26 : 0.15
+pvRate : PV4 : 0.15
+pvRate : PV31(6) : 0.15
+pvRate : PV7 : 0.15
+pvRate : PV21(2) : 0.15
+pvRate : PV6 : 0.15
+pvRate : PV9 : 0.15
+pvRate : PV20(5) : 0.15
+pvRate : PV8 : 0.15
+pvRate : PV5(7) : 0.15
+pvRate : PV6(4) : 0.15
+pvRate : PV7(1) : 0.15
+pvRate : PV43(3) : 0.15
+pvRate : PV54 : 0.15
+pvRate : PV28(6) : 0.15
+pvRate : PV55 : 0.15
+pvRate : PV30(2) : 0.15
+pvRate : PV3(2) : 0.15
+pvRate : PV52 : 0.15
+pvRate : PV2(5) : 0.15
+pvRate : PV51 : 0.15
+pvRate : PV18(1) : 0.15
+pvRate : PV17(4) : 0.15
+pvRate : PV16(7) : 0.15
+pvRate : PV39(7) : 0.15
+pvRate : PV1(8) : 0.15
+pvRate : PV41(4) : 0.15
+pvRate : PV40(7) : 0.15
+pvRate : PV29(3) : 0.15
+pvRate : PV43 : 0.15
+pvRate : PV44 : 0.15
+pvRate : PV30(3) : 0.15
+pvRate : PV28(7) : 0.15
+pvRate : PV41 : 0.15
+pvRate : PV3(3) : 0.15
+pvRate : PV40 : 0.15
+pvRate : PV46 : 0.15
+pvRate : PV17(3) : 0.15
+pvRate : PV49 : 0.15
+pvRate : PV16(6) : 0.15
+pvRate : PV48 : 0.15
+pvRate : PV52(4) : 0.15
+pvRate : PV39(8) : 0.15
+pvRate : PV2(6) : 0.15
+pvRate : PV41(3) : 0.15
+pvRate : PV29(4) : 0.15
+pvRate : PV40(6) : 0.15
+pvRate : PV28(8) : 0.15
+pvRate : PV29(5) : 0.15
+pvRate : PV30(4) : 0.15
+pvRate : PV31(1) : 0.15
+pvRate : PV2(3) : 0.15
+pvRate : PV1(6) : 0.15
+pvRate : PV17(2) : 0.15
+pvRate : PV53(4) : 0.15
+pvRate : PV16(5) : 0.15
+pvRate : PV15(8) : 0.15
+pvRate : PV19(1) : 0.15
+pvRate : PV42(3) : 0.15
+pvRate : PV29(6) : 0.15
+pvRate : PV30(5) : 0.15
+pvRate : PV31(2) : 0.15
+pvRate : PV3(1) : 0.15
+pvRate : PV2(4) : 0.15
+pvRate : PV17(1) : 0.15
+pvRate : PV16(4) : 0.15
+pvRate : PV15(7) : 0.15
+pvRate : PV53(3) : 0.15
+pvRate : PV19(2) : 0.15
+pvRate : PV40(8) : 0.15
+pvRate : PV20(1) : 0.15
+pvRate : PV1(7) : 0.15
+pvRate : PV26(8) : 0.15
+pvRate : PV4(3) : 0.15
+pvRate : PV38(6) : 0.15
+pvRate : PV39(3) : 0.15
+pvRate : PV51(4) : 0.15
+pvRate : PV18(5) : 0.15
+pvRate : PV17(8) : 0.15
+pvRate : PV3(6) : 0.15
+pvRate : PV40(3) : 0.15
+pvRate : PV27(5) : 0.15
+pvRate : PV28(2) : 0.15
+pvRate : PV5(1) : 0.15
+pvRate : PV51(3) : 0.15
+pvRate : PV39(4) : 0.15
+pvRate : PV18(4) : 0.15
+pvRate : PV17(7) : 0.15
+pvRate : PV38(7) : 0.15
+pvRate : PV4(4) : 0.15
+pvRate : PV3(7) : 0.15
+pvRate : PV40(2) : 0.15
+pvRate : PV27(6) : 0.15
+pvRate : PV28(3) : 0.15
+pvRate : PV27(7) : 0.15
+pvRate : PV4(1) : 0.15
+pvRate : PV3(4) : 0.15
+pvRate : PV39(5) : 0.15
+pvRate : PV18(3) : 0.15
+pvRate : PV52(3) : 0.15
+pvRate : PV17(6) : 0.15
+pvRate : PV38(8) : 0.15
+pvRate : PV2(7) : 0.15
+pvRate : PV28(4) : 0.15
+pvRate : PV40(5) : 0.15
+pvRate : PV29(1) : 0.15
+pvRate : PV27(8) : 0.15
+pvRate : PV30(1) : 0.15
+pvRate : PV4(2) : 0.15
+pvRate : PV18(2) : 0.15
+pvRate : PV17(5) : 0.15
+pvRate : PV16(8) : 0.15
+pvRate : PV39(6) : 0.15
+pvRate : PV3(5) : 0.15
+pvRate : PV2(8) : 0.15
+pvRate : PV29(2) : 0.15
+pvRate : PV40(4) : 0.15
+pvRate : PV28(5) : 0.15
+pvSurface : PV38(2) : 10.0
+pvSurface : PV50(3) : 10.0
+pvSurface : PV37(5) : 10.0
+pvSurface : PV15(2) : 10.0
+pvSurface : PV36(8) : 10.0
+pvSurface : PV13(8) : 10.0
+pvSurface : PV14(5) : 10.0
+pvSurface : PV27(1) : 10.0
+pvSurface : PV49(4) : 10.0
+pvSurface : PV9(8) : 10.0
+pvSurface : PV25(7) : 10.0
+pvSurface : PV26(4) : 10.0
+pvSurface : PV1(1) : 10.0
+pvSurface : PV15(1) : 10.0
+pvSurface : PV14(4) : 10.0
+pvSurface : PV37(6) : 10.0
+pvSurface : PV38(3) : 10.0
+pvSurface : PV13(7) : 10.0
+pvSurface : PV27(2) : 10.0
+pvSurface : PV49(3) : 10.0
+pvSurface : PV25(8) : 10.0
+pvSurface : PV26(5) : 10.0
+pvSurface : PV39(1) : 10.0
+pvSurface : PV14(3) : 10.0
+pvSurface : PV37(7) : 10.0
+pvSurface : PV38(4) : 10.0
+pvSurface : PV13(6) : 10.0
+pvSurface : PV9(6) : 10.0
+pvSurface : PV40(1) : 10.0
+pvSurface : PV26(6) : 10.0
+pvSurface : PV27(3) : 10.0
+pvSurface : PV14(2) : 10.0
+pvSurface : PV50(4) : 10.0
+pvSurface : PV13(5) : 10.0
+pvSurface : PV38(5) : 10.0
+pvSurface : PV39(2) : 10.0
+pvSurface : PV12(8) : 10.0
+pvSurface : PV37(8) : 10.0
+pvSurface : PV28(1) : 10.0
+pvSurface : PV9(7) : 10.0
+pvSurface : PV26(7) : 10.0
+pvSurface : PV27(4) : 10.0
+pvSurface : PV2(1) : 10.0
+pvSurface : PV1(4) : 10.0
+pvSurface : PV35(7) : 10.0
+pvSurface : PV37(1) : 10.0
+pvSurface : PV16(3) : 10.0
+pvSurface : PV36(4) : 10.0
+pvSurface : PV15(6) : 10.0
+pvSurface : PV25(3) : 10.0
+pvSurface : PV48(3) : 10.0
+pvSurface : PV24(6) : 10.0
+pvSurface : PV2(2) : 10.0
+pvSurface : PV1(5) : 10.0
+pvSurface : PV36(5) : 10.0
+pvSurface : PV16(2) : 10.0
+pvSurface : PV35(8) : 10.0
+pvSurface : PV15(5) : 10.0
+pvSurface : PV37(2) : 10.0
+pvSurface : PV14(8) : 10.0
+pvSurface : PV25(4) : 10.0
+pvSurface : PV26(1) : 10.0
+pvSurface : PV24(7) : 10.0
+pvSurface : PV1(2) : 10.0
+pvSurface : PV36(6) : 10.0
+pvSurface : PV16(1) : 10.0
+pvSurface : PV15(4) : 10.0
+pvSurface : PV37(3) : 10.0
+pvSurface : PV14(7) : 10.0
+pvSurface : PV26(2) : 10.0
+pvSurface : PV24(8) : 10.0
+pvSurface : PV25(5) : 10.0
+pvSurface : PV1(3) : 10.0
+pvSurface : PV37(4) : 10.0
+pvSurface : PV38(1) : 10.0
+pvSurface : PV15(3) : 10.0
+pvSurface : PV36(7) : 10.0
+pvSurface : PV14(6) : 10.0
+pvSurface : PV26(3) : 10.0
+pvSurface : PV48(4) : 10.0
+pvSurface : PV25(6) : 10.0
+pvSurface : PV11(6) : 10.0
+pvSurface : PV12(3) : 10.0
+pvSurface : PV35(3) : 10.0
+pvSurface : PV34(6) : 10.0
+pvSurface : PV7(6) : 10.0
+pvSurface : PV8(3) : 10.0
+pvSurface : PV22(8) : 10.0
+pvSurface : PV24(2) : 10.0
+pvSurface : PV23(5) : 10.0
+pvSurface : PV12(2) : 10.0
+pvSurface : PV10(8) : 10.0
+pvSurface : PV34(7) : 10.0
+pvSurface : PV11(5) : 10.0
+pvSurface : PV36(1) : 10.0
+pvSurface : PV35(4) : 10.0
+pvSurface : PV7(7) : 10.0
+pvSurface : PV8(4) : 10.0
+pvSurface : PV9(1) : 10.0
+pvSurface : PV24(3) : 10.0
+pvSurface : PV46(4) : 10.0
+pvSurface : PV23(6) : 10.0
+pvSurface : PV12(1) : 10.0
+pvSurface : PV34(8) : 10.0
+pvSurface : PV10(7) : 10.0
+pvSurface : PV11(4) : 10.0
+pvSurface : PV36(2) : 10.0
+pvSurface : PV35(5) : 10.0
+pvSurface : PV6(7) : 10.0
+pvSurface : PV7(4) : 10.0
+pvSurface : PV8(1) : 10.0
+pvSurface : PV23(7) : 10.0
+pvSurface : PV24(4) : 10.0
+pvSurface : PV25(1) : 10.0
+pvSurface : PV47(4) : 10.0
+pvSurface : PV11(3) : 10.0
+pvSurface : PV35(6) : 10.0
+pvSurface : PV10(6) : 10.0
+pvSurface : PV36(3) : 10.0
+pvSurface : PV6(8) : 10.0
+pvSurface : PV7(5) : 10.0
+pvSurface : PV8(2) : 10.0
+pvSurface : PV24(5) : 10.0
+pvSurface : PV23(8) : 10.0
+pvSurface : PV25(2) : 10.0
+pvSurface : PV47(3) : 10.0
+pvSurface : PV34(2) : 10.0
+pvSurface : PV13(4) : 10.0
+pvSurface : PV14(1) : 10.0
+pvSurface : PV32(8) : 10.0
+pvSurface : PV12(7) : 10.0
+pvSurface : PV33(5) : 10.0
+pvSurface : PV9(4) : 10.0
+pvSurface : PV8(7) : 10.0
+pvSurface : PV23(1) : 10.0
+pvSurface : PV22(4) : 10.0
+pvSurface : PV45(4) : 10.0
+pvSurface : PV21(7) : 10.0
+pvSurface : PV12(6) : 10.0
+pvSurface : PV13(3) : 10.0
+pvSurface : PV33(6) : 10.0
+pvSurface : PV34(3) : 10.0
+pvSurface : PV23(2) : 10.0
+pvSurface : PV9(5) : 10.0
+pvSurface : PV22(5) : 10.0
+pvSurface : PV8(8) : 10.0
+pvSurface : PV21(8) : 10.0
+pvSurface : PV45(3) : 10.0
+pvSurface : PV35(1) : 10.0
+pvSurface : PV12(5) : 10.0
+pvSurface : PV13(2) : 10.0
+pvSurface : PV34(4) : 10.0
+pvSurface : PV33(7) : 10.0
+pvSurface : PV11(8) : 10.0
+pvSurface : PV7(8) : 10.0
+pvSurface : PV8(5) : 10.0
+pvSurface : PV9(2) : 10.0
+pvSurface : PV23(3) : 10.0
+pvSurface : PV22(6) : 10.0
+pvSurface : PV46(3) : 10.0
+pvSurface : PV13(1) : 10.0
+pvSurface : PV11(7) : 10.0
+pvSurface : PV33(8) : 10.0
+pvSurface : PV12(4) : 10.0
+pvSurface : PV35(2) : 10.0
+pvSurface : PV34(5) : 10.0
+pvSurface : PV8(6) : 10.0
+pvSurface : PV9(3) : 10.0
+pvSurface : PV24(1) : 10.0
+pvSurface : PV23(4) : 10.0
+pvSurface : PV22(7) : 10.0
+pvSurface : PV32(4) : 10.0
+pvSurface : PV55(4) : 10.0
+pvSurface : PV33(1) : 10.0
+pvSurface : PV10(1) : 10.0
+pvSurface : PV6(1) : 10.0
+pvSurface : PV19(7) : 10.0
+pvSurface : PV31(7) : 10.0
+pvSurface : PV44(3) : 10.0
+pvSurface : PV21(3) : 10.0
+pvSurface : PV5(4) : 10.0
+pvSurface : PV4(7) : 10.0
+pvSurface : PV20(6) : 10.0
+pvSurface : PV33(2) : 10.0
+pvSurface : PV19(8) : 10.0
+pvSurface : PV31(8) : 10.0
+pvSurface : PV55(3) : 10.0
+pvSurface : PV32(5) : 10.0
+pvSurface : PV22(1) : 10.0
+pvSurface : PV21(4) : 10.0
+pvSurface : PV18(8) : 10.0
+pvSurface : PV5(5) : 10.0
+pvSurface : PV6(2) : 10.0
+pvSurface : PV20(7) : 10.0
+pvSurface : PV4(8) : 10.0
+pvSurface : PV33(3) : 10.0
+pvSurface : PV5(2) : 10.0
+pvSurface : PV32(6) : 10.0
+pvSurface : PV22(2) : 10.0
+pvSurface : PV18(7) : 10.0
+pvSurface : PV4(5) : 10.0
+pvSurface : PV3(8) : 10.0
+pvSurface : PV21(5) : 10.0
+pvSurface : PV20(8) : 10.0
+pvSurface : PV34(1) : 10.0
+pvSurface : PV32(7) : 10.0
+pvSurface : PV33(4) : 10.0
+pvSurface : PV18(6) : 10.0
+pvSurface : PV22(3) : 10.0
+pvSurface : PV5(3) : 10.0
+pvSurface : PV4(6) : 10.0
+pvSurface : PV21(6) : 10.0
+pvSurface : PV44(4) : 10.0
+pvSurface : PV10 : 10.0
+pvSurface : PV30(6) : 10.0
+pvSurface : PV12 : 10.0
+pvSurface : PV31(3) : 10.0
+pvSurface : PV11 : 10.0
+pvSurface : PV29(7) : 10.0
+pvSurface : PV11(2) : 10.0
+pvSurface : PV18 : 10.0
+pvSurface : PV19 : 10.0
+pvSurface : PV10(5) : 10.0
+pvSurface : PV14 : 10.0
+pvSurface : PV16 : 10.0
+pvSurface : PV15 : 10.0
+pvSurface : PV54(3) : 10.0
+pvSurface : PV19(3) : 10.0
+pvSurface : PV20(2) : 10.0
+pvSurface : PV5(8) : 10.0
+pvSurface : PV6(5) : 10.0
+pvSurface : PV7(2) : 10.0
+pvSurface : PV31(4) : 10.0
+pvSurface : PV32(1) : 10.0
+pvSurface : PV29(8) : 10.0
+pvSurface : PV10(4) : 10.0
+pvSurface : PV11(1) : 10.0
+pvSurface : PV19(4) : 10.0
+pvSurface : PV30(7) : 10.0
+pvSurface : PV20(3) : 10.0
+pvSurface : PV6(6) : 10.0
+pvSurface : PV7(3) : 10.0
+pvSurface : PV42(4) : 10.0
+pvSurface : PV32 : 10.0
+pvSurface : PV31(5) : 10.0
+pvSurface : PV31 : 10.0
+pvSurface : PV33 : 10.0
+pvSurface : PV32(2) : 10.0
+pvSurface : PV10(3) : 10.0
+pvSurface : PV30 : 10.0
+pvSurface : PV39 : 10.0
+pvSurface : PV36 : 10.0
+pvSurface : PV35 : 10.0
+pvSurface : PV38 : 10.0
+pvSurface : PV19(5) : 10.0
+pvSurface : PV30(8) : 10.0
+pvSurface : PV21(1) : 10.0
+pvSurface : PV20(4) : 10.0
+pvSurface : PV5(6) : 10.0
+pvSurface : PV6(3) : 10.0
+pvSurface : PV43(4) : 10.0
+pvSurface : PV21 : 10.0
+pvSurface : PV32(3) : 10.0
+pvSurface : PV22 : 10.0
+pvSurface : PV10(2) : 10.0
+pvSurface : PV29 : 10.0
+pvSurface : PV28 : 10.0
+pvSurface : PV1 : 10.0
+pvSurface : PV25 : 10.0
+pvSurface : PV3 : 10.0
+pvSurface : PV2 : 10.0
+pvSurface : PV24 : 10.0
+pvSurface : PV19(6) : 10.0
+pvSurface : PV5 : 10.0
+pvSurface : PV54(4) : 10.0
+pvSurface : PV26 : 10.0
+pvSurface : PV4 : 10.0
+pvSurface : PV31(6) : 10.0
+pvSurface : PV7 : 10.0
+pvSurface : PV21(2) : 10.0
+pvSurface : PV6 : 10.0
+pvSurface : PV9 : 10.0
+pvSurface : PV20(5) : 10.0
+pvSurface : PV8 : 10.0
+pvSurface : PV5(7) : 10.0
+pvSurface : PV6(4) : 10.0
+pvSurface : PV7(1) : 10.0
+pvSurface : PV43(3) : 10.0
+pvSurface : PV54 : 10.0
+pvSurface : PV28(6) : 10.0
+pvSurface : PV55 : 10.0
+pvSurface : PV30(2) : 10.0
+pvSurface : PV3(2) : 10.0
+pvSurface : PV52 : 10.0
+pvSurface : PV2(5) : 10.0
+pvSurface : PV51 : 10.0
+pvSurface : PV18(1) : 10.0
+pvSurface : PV17(4) : 10.0
+pvSurface : PV16(7) : 10.0
+pvSurface : PV39(7) : 10.0
+pvSurface : PV1(8) : 10.0
+pvSurface : PV41(4) : 10.0
+pvSurface : PV40(7) : 10.0
+pvSurface : PV29(3) : 10.0
+pvSurface : PV43 : 10.0
+pvSurface : PV44 : 10.0
+pvSurface : PV30(3) : 10.0
+pvSurface : PV28(7) : 10.0
+pvSurface : PV41 : 10.0
+pvSurface : PV3(3) : 10.0
+pvSurface : PV40 : 10.0
+pvSurface : PV46 : 10.0
+pvSurface : PV17(3) : 10.0
+pvSurface : PV49 : 10.0
+pvSurface : PV16(6) : 10.0
+pvSurface : PV48 : 10.0
+pvSurface : PV52(4) : 10.0
+pvSurface : PV39(8) : 10.0
+pvSurface : PV2(6) : 10.0
+pvSurface : PV41(3) : 10.0
+pvSurface : PV29(4) : 10.0
+pvSurface : PV40(6) : 10.0
+pvSurface : PV28(8) : 10.0
+pvSurface : PV29(5) : 10.0
+pvSurface : PV30(4) : 10.0
+pvSurface : PV31(1) : 10.0
+pvSurface : PV2(3) : 10.0
+pvSurface : PV1(6) : 10.0
+pvSurface : PV17(2) : 10.0
+pvSurface : PV53(4) : 10.0
+pvSurface : PV16(5) : 10.0
+pvSurface : PV15(8) : 10.0
+pvSurface : PV19(1) : 10.0
+pvSurface : PV42(3) : 10.0
+pvSurface : PV29(6) : 10.0
+pvSurface : PV30(5) : 10.0
+pvSurface : PV31(2) : 10.0
+pvSurface : PV3(1) : 10.0
+pvSurface : PV2(4) : 10.0
+pvSurface : PV17(1) : 10.0
+pvSurface : PV16(4) : 10.0
+pvSurface : PV15(7) : 10.0
+pvSurface : PV53(3) : 10.0
+pvSurface : PV19(2) : 10.0
+pvSurface : PV40(8) : 10.0
+pvSurface : PV20(1) : 10.0
+pvSurface : PV1(7) : 10.0
+pvSurface : PV26(8) : 10.0
+pvSurface : PV4(3) : 10.0
+pvSurface : PV38(6) : 10.0
+pvSurface : PV39(3) : 10.0
+pvSurface : PV51(4) : 10.0
+pvSurface : PV18(5) : 10.0
+pvSurface : PV17(8) : 10.0
+pvSurface : PV3(6) : 10.0
+pvSurface : PV40(3) : 10.0
+pvSurface : PV27(5) : 10.0
+pvSurface : PV28(2) : 10.0
+pvSurface : PV5(1) : 10.0
+pvSurface : PV51(3) : 10.0
+pvSurface : PV39(4) : 10.0
+pvSurface : PV18(4) : 10.0
+pvSurface : PV17(7) : 10.0
+pvSurface : PV38(7) : 10.0
+pvSurface : PV4(4) : 10.0
+pvSurface : PV3(7) : 10.0
+pvSurface : PV40(2) : 10.0
+pvSurface : PV27(6) : 10.0
+pvSurface : PV28(3) : 10.0
+pvSurface : PV27(7) : 10.0
+pvSurface : PV4(1) : 10.0
+pvSurface : PV3(4) : 10.0
+pvSurface : PV39(5) : 10.0
+pvSurface : PV18(3) : 10.0
+pvSurface : PV52(3) : 10.0
+pvSurface : PV17(6) : 10.0
+pvSurface : PV38(8) : 10.0
+pvSurface : PV2(7) : 10.0
+pvSurface : PV28(4) : 10.0
+pvSurface : PV40(5) : 10.0
+pvSurface : PV29(1) : 10.0
+pvSurface : PV27(8) : 10.0
+pvSurface : PV30(1) : 10.0
+pvSurface : PV4(2) : 10.0
+pvSurface : PV18(2) : 10.0
+pvSurface : PV17(5) : 10.0
+pvSurface : PV16(8) : 10.0
+pvSurface : PV39(6) : 10.0
+pvSurface : PV3(5) : 10.0
+pvSurface : PV2(8) : 10.0
+pvSurface : PV29(2) : 10.0
+pvSurface : PV40(4) : 10.0
+pvSurface : PV28(5) : 10.0
+consumptionCommitment : 114.13
+consumption Commitment period : 15
+intelligentEVs : false
+PmaxAggregator : 0.0
+K line : 0.0
+criticalityMin EV : 0.0
+criticalityMin line : 0.0
+criticalityMin aggregator : 0.0

@@ -1,0 +1,138 @@
+ Optimal power flow for problem under study is listed below. Variable $t$ is used to represent the instantaneous values of the parameters, where as $\Delta t$ is used to represent unit time step. $a$ and $b$ represents two nodes in the network connected through a transmission line. $c_{mis}^+(t)$ and $c_{mis}^-(t)$ represents unit prices paid to the BRP by the TSO in case of additional injection to the network and paid by the BRP to the TSO in case of consumption. Also $E_{mis}^+(t)$ and $E_{mis}^-(t)$ represents the deviation from the equilibrium energy in form of injection and consumption respectively.
+ \\
+ 
+ $C_{aging}$ represents the cost for aging of the batteries of EVs, \textcolor{blue}{$C_{rem}$ the remuneration of the EV owners for providing grid services and $C_{EV}$ is the addition of the two}. It can be modeled in several ways, depending on the complexity of the losses considered. Battery degradation model considered for this problem is described in later section. $SOC$ and $SOH$ represents the state of charge and state of health of an EV battery respectively. The term $\xi_{lost}(t)$ in $SOH$ formula is the \textcolor{blue}{additional battery capacity} that has been lost through battery operations and losses \textcolor{blue}{during time step $\Delta t$}. $E_{tp}$ is the throughput of the battery in its lifetime. These parameters along with $C_{aging}$ model is explained in section 2.5. $\varrho(t)$ is a binary variable ensuring battery doesn't charge and discharge at the same time instant. $p_{EV,charging,i}(t)$ and $p_{EV,discharging,i}(t)$ are the main decision variables for this problem, representing instantaneous charging and discharging powers of EVs, the difference of which gives $p_{EV,i}(t)$, which has been used to model the objective function. \\ \\ \textbf{Objective function:}\footnote{\textcolor{blue}{I would suggest to consider a day, i.e. $T_0$=1 ($\rightarrow$ 12am) and $T_{end}$=24hrs*4 slots of 15 min=96 ($\rightarrow$ 11.45pm. A finer time step $\Delta t$ should be used, e.g. to indicate realistically the EVs arrival/departure time.)}} 
+    \begin{equation}
+        \hcancel{\min_{p_{EV,a}(t)}C_{BRP} = \min_{ p_{EV,a}(t)}\sum_{t=1}^{t_{end}}c_{mis}^-(t)E_{mis}^-(t) - 
+        c_{mis}^+(t)E_{mis}^+(t)+C_{aging}}
+    \end{equation}
+    
+     \begin{equation}   
+            \min_{p_{EV,a}(t)}C_{BRP} = \min_{ p_{EV,a}(t)}\sum_{\textcolor{blue}{T=1}}^{\textcolor{blue}{T_{end}}}c_{mis}^-(\textcolor{blue}{T})E_{mis}^-(\textcolor{blue}{T}) - 
+        c_{mis}^+(\textcolor{blue}{T})E_{mis}^+(\textcolor{blue}{T})+\textcolor{blue}{\sum_{t=0}^{t=t_{end}}} C_{\textcolor{blue}{EV}}\textcolor{blue}{(t)}
+    \end{equation}
+    
+Subject to, \\ 
+\textbf{Power flow constraints:}
+
+    \[p_a(t) = p^{generation}_a(t) - p^{demand}_a(t) \]
+    
+    \[p_a(t) =  p_{gen,a}(t)+p_{PV,a}(t)-p_{load,a}(t)-p_{EV,a}(t) \]
+
+    
+    \[q_a(t) = q^{generation}_a(t) - q^{demand}_a(t) \]
+    
+    \[q_a(t) =  q_{gen,a}(t)+q_{PV,a}(t)-q_{load,a}(t)-q_{EV,a}(t) \]    
+    
+     \begin{equation}
+        p_{ab}(t) + jq_{ab}(t) = v_a(t)(v_a^\ast(t) - v_b^\ast(t))y_{ab}^\ast
+    \end{equation}
+   
+      \begin{equation}
+        \sum_{b}p_{ab}(t) = p_a(t)
+    \end{equation}
+    
+    \begin{equation}
+        \sum_{b}q_{ab}(t) = q_a(t)
+    \end{equation}
+    
+    \begin{equation}
+        p_{a,min}\leq p_{a}(t)\leq p_{a,max}
+    \end{equation}
+    
+    \begin{equation}
+        q_{a,min}\leq q_{a}(t)\leq q_{a,max}
+    \end{equation}
+ 
+     \begin{equation}
+        p_{ab}^2(t) + q_{ab}^2(t) \leq s_{ab}^2(t) 
+    \end{equation}
+    
+
+    
+    
+\textbf{\textcolor{blue}{Distribution system operator (DSO) constraints:}}\footnote{\textcolor{blue}{It is proposed to distinguish physical constraints from DSO-imposed constraints.}},\footnote{\textcolor{blue}{It is the 10-min averaged voltage that must remain within the allowed range, not the voltage at every time step. Hence, this formulation is more conservative.}}    
+  
+    \begin{equation}
+        v_{a,min}\leq \left |v_{a}(t) \right | \leq v_{a,max} 
+    \end{equation}
+    
+    \begin{equation}
+        i_{ab}(t)\leq i_{ab,max} 
+    \end{equation}  
+    
+\textbf{Electric vehicles constraints:}\footnote{\textcolor{blue}{The charging and discharging efficiencies ($\eta_{charging}$ and $\eta_{discharging})}$ depend on the (dis)charging power, but can be considered as constant at a first stage. Thus may have to be checked a posteriori with more realistic simulations based on the obtained solution.},\footnote{\textcolor{blue}{At a first stage, it can be considered that the remuneration $C_{rem,a}$ for each customer (on top of a reimbursement of its battery degradation cost) is equal to zero. This is an ideal case where customers are willing to provide grid services for free. This has to be compared with a more realistic situation where grid services may provide only few tens of euros per year to the customer...}}
+
+    \begin{equation}
+        SOC_a(t) = SOC_a(t-1) + \frac{p_{EV,charging,a}(t)\Delta t}{E_{bat}} \eta_{charging} - \frac{p_{EV,discharging,a}(t)\Delta t}{E_{bat}} \frac{1}{\eta_{discharging}}
+    \end{equation}
+    
+    \begin{equation}
+        \hcancel{SOH_{EV,a}(t) = 1 - \frac{\xi_{lost}(t)}{0.2E_{tp}}}
+    \end{equation}
+    
+     \begin{equation}
+        \textcolor{blue}{SOH_{EV,a}(t) = SOH_{EV,a}(t-1) -\xi_{lost}(t)}
+    \end{equation}
+    
+    \hcancel{\[\xi_{lost}(t) = \xi_{lost}(t-1) +  \left (p_{EV,discharging,a}(t) \right) \Delta t \]}
+
+    \begin{equation}
+    \textcolor{blue}{\xi_{lost}(t) = \frac{p_{EV,discharging,a}(t)\Delta t }{0.2E_{tp}}}
+    \end{equation}
+    
+    \begin{equation}
+    \textcolor{blue}{C_{EV}(t)&=&\textcolor{blue}{C_{aging}(t)+\textcolor{blue}{C_{rem}(t)}\\
+    &=&\sum_a \xi_{lost}(t)C_{bat,a}}} +\textcolor{blue}{C_{rem,a}(t)}
+    \end{equation}
+    
+    
+    
+    \begin{equation}
+        \hcancel{SOH_{EV,a}(t) > 0} 
+    \end{equation}
+    
+    \begin{equation}
+        SOH_{EV,a}(t) \textcolor{blue}{\geq} 0 
+    \end{equation}
+    
+    \begin{equation}
+        p_{EV,a}(t) = p_{EV,charging,a}(t) - p_{EV,discharging,a}(t)
+    \end{equation}
+    
+    \begin{equation}
+        SOC_{min,a} \leq SOC_{a}(t) \leq SOC_{max,a}
+    \end{equation}
+    
+    \begin{equation}
+    \hcancel{SOC_{departure,a}(t) \geq SOC_{min-departure,a}} 
+    \end{equation}
+    
+    \begin{equation}
+        \textcolor{blue}{SOC_a(t_{departure,a}) \geq SOC_{min-departure,a}} 
+    \end{equation}
+    
+    \begin{equation}
+        (\varrho(t)) p_{min,EV,a} \leq p_{EV,charging,a}(t) \leq p_{max,EV,a} (\varrho(t))
+    \end{equation}
+    
+    \begin{equation}
+       (1-\varrho(t)) p_{min,a} \leq p_{EV,discharging,a}(t) \leq p_{max,a} (1-\varrho(t)) 
+    \end{equation}
+    
+    \[\varrho(t) \in  \{0,1\}\]
+    
+\textbf{\textcolor{blue}{BRP constraints:}}
+
+\begin{eqnarray}
+\textcolor{blue}{E_{mis}^-(T)=\max(0,\sum_{t=T\Delta T}^{t=(T+1)\Delta T-\Delta t}[P_{plan}(t)-P_{BRP}(t)]\Delta t } \\
+\textcolor{blue}{E_{mis}^+(t)=\max(0,\sum_{t=T\Delta T}^{t=(T+1)\Delta T-\Delta t} [P_{BRP}(t)-P_{plan}(t)]\Delta t}
+\end{eqnarray}
+
+\begin{eqnarray}
+\textcolor{blue}{P_{BRP}(t)=\sum_a p_a(t)}
+\end{eqnarray}
+
+\textcolor{blue}{Numerical values for terms $P_{plan}(t), p_{gen,a},p_{load,a},p_{PV,a}$, will be provided as input. Term $P_{plan}(t)$ will have to include the EV consumption. Defining the commitment strategy will have to be discussed (integrating forecasts error or not, uncertainty on EV charging, etc.).}
+
+\textcolor{blue}{It is also assumed that network losses are not included in the power consumption/production on the BRP perimeter $P_{BRP}(t)$. This can be justified by the fact that BRPs have a contract with energy suppliers (which have access to energy consumption/generation data at nodes) rather than with DSOs.}

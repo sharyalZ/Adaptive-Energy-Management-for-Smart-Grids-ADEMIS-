@@ -1,0 +1,21 @@
+In literature, variety of battery aging model can be found incorporating both cycle aging and calendar aging factors. For the time being, a simple battery aging model is chosen which provides very good approximation of the battery degradation. The very first parameter for the purpose is the throughput of the battery in its life time. It can be defined by formula:
+
+\[ 
+    E_{tp} = \eta_{discharge}\cdot N_{cycles}\cdot E_{battery}\cdot \frac{DOD}{100}
+\]
+
+This energy throughput is used to calculate the state of health of the battery after each discharge cycle. $N_{cycles}$ of the battery depends on the depth of discharge(DOD) value and varies from one battery type to the other. The cost of aging of the battery $C_{aging}$ in objective function of equation (1) can be expanded as:\footnote{Considering a constant unit battery price in euro/kWh implies a linear behaviour as a function of the battery capacity. On the contrary, considering only the battery price does not use this assumption (see equations).}
+
+\[ 
+   C_{aging} = \sum_a c_{aging,a}\left (p_{EV,discharging,a}(t) \right) \Delta t
+\]
+
+$c_{aging,a}$ is the cost of battery aging, in €/kwh. For a battery, this cost can be calculated as follow: 
+
+\[ 
+   Cost \hspace{0.1cm} of \hspace{0.1cm} one \hspace{0.1cm} battery \hspace{0.1cm} cycle = \frac{Total \hspace{0.1cm} Battery \hspace{0.1cm} Cost}{N_{cycles}}
+\]
+
+\[ 
+   c_{aging }= \frac{Cost \hspace{0.1cm} of \hspace{0.1cm} one \hspace{0.1cm} battery \hspace{0.1cm} cycle}{E_{battery}} 
+\]

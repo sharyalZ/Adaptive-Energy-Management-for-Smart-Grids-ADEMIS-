@@ -1,0 +1,23 @@
+\newpage
+
+\section{Advanced Formulations:}
+
+\subsection{Ramping Constraints:}
+
+Ramping constraints can be added into the previous stated formulation to decrease the ramping of power values of the network. This can be done by adding an additional constraint i.e. ramping constraint and adding a virtual cost variable $c_{ramp}$ in the objective function to obtain a solution with minimal ramping. The problem is modified as below: \\ \\
+\textbf{Additional Constraint:}\footnote{Ramping constraints are imposed to large-scale generators, e.g. in Ireland}
+\[ 
+    r_{min} \leq \sum_a(p_{EV,a}(t) - p_{EV,a}(t-1)) \leq r_{max}
+\]\\
+
+\textcolor{blue}{However, based on several grid codes\footnote{ESB, Grid code, version 7, 2020 and National Grid ESO, The Grid code, version 5, Revision 46, 2020}, it seems that it is encouraged to provide increased ramping capabilities, not limiting them.}
+
+\textbf{Modified Objective Function:}
+
+
+\begin{multline*}
+\min_{p_{EV,a}(t)}C_{BRP} = \min_{ p_{EV,a}(t)}\sum_{t=1}^{t_{end}}c_{mis}^-(t)E_{mis}^-(t) - 
+c_{mis}^+(t)E_{mis}^+(t)+C_{aging} +\\ c_{ramping}|p_{EV,a}(t) - p_{EV,a}(t-1)|\Delta t
+\end{multline*}
+
+This formulation can be solved also using above mentioned linear approximations and relaxations. 
