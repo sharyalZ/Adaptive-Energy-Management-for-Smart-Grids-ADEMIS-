@@ -7,7 +7,7 @@
 </p>
 
 # Adaptive-Energy-Management-in-Smart-Grids(ADEMIS)
-ADaptive Energy Management in Smart Grids(ADEMIS) is an active smart numerical platform, which can handle issues arising in the grid. The system is developed to deploy the multi-agent systems in the field of smart grids. Current version of the system handles grid issues such as line congestion and energy mismatch of the balance responsible party(BRP). It is based on AMAL platform, which is based on JAVA and has been developed in Eclipse. For the power systems calculations, PowerFactory is used. A communication link has been set-up using Pyhton. In the future, other open source power calculations tools' compatibility will be tested.
+ADaptive Energy Management in Smart Grids(ADEMIS) is an active smart numerical platform, which can handle issues arising in the grid. The system is developed to deploy the multi-agent systems in the field of smart grids. Current version of the system handles grid issues such as line congestion, voltage limits violations, and energy mismatch of the balance responsible party(BRP). It is based on AMAK platform, which is based in JAVA and has been developed in Eclipse. For the power systems calculations, PowerFactory is used. A communication link has been set-up using Pyhton. In the future, other open source power calculations tools' compatibility will be tested.
 
 ## Required Softwares and Packages
 Software Package  | Version 
