@@ -1,0 +1,92 @@
+info - Purged project Simplified_ELVT_2021.
+info - Purged project Simplified_ELVT_2021.
+info - DPL Command 'RunSimuWithResults' started
+Script RunSimulationWithResults started
+File C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\DefinePevs.csv exists
+EV powers defined
+File C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\DefineRatePVs.csv exists
+PV rates defined
+File C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\DefineSoE0.csv exists
+SoE0 powers defined
+Start simulation
+info - Element 'External Grid' is local reference in separated area of 'SourceBus'
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - Load flow iteration: 0
+info - Load flow iteration: 1
+info - Newton-Raphson converged with 1 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+info -      Report of Control Condition for Relevant Controllers
+info - -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.
+info - Element 'External Grid' is local reference in separated area of 'SourceBus'
+info - Element 'External Grid' is reference in 50.0 Hz-system
+info - (t=16:00:00 h) Initial conditions calculated.
+info - (t=16:00:01 h) Simulation successfully executed.
+end simulation
+info - 101 points in time of 56 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\SoE.csv.
+warn - The following columns were not found in the results.
+warn -   'All calculations': 'PV1', m:P:bus1
+warn -   'All calculations': 'PV2', m:P:bus1
+warn -   'All calculations': 'PV3', m:P:bus1
+warn -   'All calculations': 'PV4', m:P:bus1
+warn -   'All calculations': 'PV5', m:P:bus1
+warn -   'All calculations': 'PV6', m:P:bus1
+warn -   'All calculations': 'PV7', m:P:bus1
+warn -   'All calculations': 'PV8', m:P:bus1
+warn -   'All calculations': 'PV9', m:P:bus1
+warn -   'All calculations': 'PV10', m:P:bus1
+warn -   'All calculations': 'PV11', m:P:bus1
+warn -   'All calculations': 'PV12', m:P:bus1
+warn -   'All calculations': 'PV13', m:P:bus1
+warn -   'All calculations': 'PV14', m:P:bus1
+warn -   'All calculations': 'PV15', m:P:bus1
+warn -   'All calculations': 'PV16', m:P:bus1
+warn -   'All calculations': 'PV17', m:P:bus1
+warn -   'All calculations': 'PV18', m:P:bus1
+warn -   'All calculations': 'PV19', m:P:bus1
+warn -   'All calculations': 'PV20', m:P:bus1
+warn -   'All calculations': 'PV21', m:P:bus1
+warn -   'All calculations': 'PV22', m:P:bus1
+warn -   'All calculations': 'PV23', m:P:bus1
+warn -   'All calculations': 'PV24', m:P:bus1
+warn -   'All calculations': 'PV25', m:P:bus1
+warn -   'All calculations': 'PV26', m:P:bus1
+warn -   'All calculations': 'PV27', m:P:bus1
+warn -   'All calculations': 'PV28', m:P:bus1
+warn -   'All calculations': 'PV29', m:P:bus1
+warn -   'All calculations': 'PV30', m:P:bus1
+warn -   'All calculations': 'PV31', m:P:bus1
+warn -   'All calculations': 'PV32', m:P:bus1
+warn -   'All calculations': 'PV33', m:P:bus1
+warn -   'All calculations': 'PV34', m:P:bus1
+warn -   'All calculations': 'PV35', m:P:bus1
+warn -   'All calculations': 'PV36', m:P:bus1
+warn -   'All calculations': 'PV37', m:P:bus1
+warn -   'All calculations': 'PV38', m:P:bus1
+warn -   'All calculations': 'PV39', m:P:bus1
+warn -   'All calculations': 'PV40', m:P:bus1
+warn -   'All calculations': 'PV41', m:P:bus1
+warn -   'All calculations': 'PV42', m:P:bus1
+warn -   'All calculations': 'PV43', m:P:bus1
+warn -   'All calculations': 'PV44', m:P:bus1
+warn -   'All calculations': 'PV45', m:P:bus1
+warn -   'All calculations': 'PV46', m:P:bus1
+warn -   'All calculations': 'PV47', m:P:bus1
+warn -   'All calculations': 'PV48', m:P:bus1
+warn -   'All calculations': 'PV49', m:P:bus1
+warn -   'All calculations': 'PV50', m:P:bus1
+warn -   'All calculations': 'PV51', m:P:bus1
+warn -   'All calculations': 'PV52', m:P:bus1
+warn -   'All calculations': 'PV53', m:P:bus1
+warn -   'All calculations': 'PV54', m:P:bus1
+warn -   'All calculations': 'PV55', m:P:bus1
+info - 101 points in time of 1 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\PVPower.csv.
+info - 101 points in time of 2 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\ExternalGrid.csv.
+info - 101 points in time of 207 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\Voltage.csv.
+info - 101 points in time of 206 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\PLine.csv.
+info - 101 points in time of 56 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\LoadPower.csv.
+info - 101 points in time of 206 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\ILine.csv.
+info - DPL Command 'RunSimuWithResults' successfully executed

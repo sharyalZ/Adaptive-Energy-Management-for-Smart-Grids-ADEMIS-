@@ -1,0 +1,38 @@
+info - Purged project Simplified_ELVT_2021.
+info - Purged project Simplified_ELVT_2021.
+info - DPL Command 'RunSimuWithResults' started
+Script RunSimulationWithResults started
+File C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\DefinePevs.csv exists
+EV powers defined
+File C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\DefineRatePVs.csv exists
+PV rates defined
+File C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\DefineSoE0.csv exists
+SoE0 powers defined
+Start simulation
+info - Element 'External Grid' is local reference in separated area of 'SourceBus'
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - Load flow iteration: 0
+info - Load flow iteration: 1
+info - Newton-Raphson converged with 1 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+info -      Report of Control Condition for Relevant Controllers
+info - -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.
+info - Element 'External Grid' is local reference in separated area of 'SourceBus'
+info - Element 'External Grid' is reference in 50.0 Hz-system
+info - (t=16:00:00 h) Initial conditions calculated.
+info - (t=16:00:01 h) Simulation successfully executed.
+end simulation
+info - 101 points in time of 56 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\SoE.csv.
+info - 101 points in time of 56 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\PVPower.csv.
+info - 101 points in time of 2 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\ExternalGrid.csv.
+info - 101 points in time of 207 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\Voltage.csv.
+info - 101 points in time of 205 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\PLine.csv.
+info - 101 points in time of 56 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\LoadPower.csv.
+warn - The following columns were not found in the results.
+warn -   'All calculations': 'LINE868', m:I:bus1
+info - 101 points in time of 204 variables exported to file C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT_2021\ILine.csv.
+info - DPL Command 'RunSimuWithResults' successfully executed

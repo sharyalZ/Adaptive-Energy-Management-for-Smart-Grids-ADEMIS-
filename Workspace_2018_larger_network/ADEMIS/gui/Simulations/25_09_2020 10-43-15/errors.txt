@@ -1,0 +1,53 @@
+info - Purged project Larger_network_AB.
+info - Purged project Larger_network_AB.
+info - DPL Command 'RunSimuWithResults' started
+Script RunSimulationWithResults started
+File C:\Users\ablavett\Desktop\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv exists
+EV powers defined
+File C:\Users\ablavett\Desktop\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv exists
+PV rates defined
+File C:\Users\ablavett\Desktop\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv exists
+SoE0 powers defined
+Start simulation
+info - Element 'AC Voltage Source' is local reference in separated area of 'source bus'
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - Load flow iteration: 0
+info - Load flow iteration: 1
+info - Load flow iteration: 2
+info - Newton-Raphson converged with 2 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+info -      Report of Control Condition for Relevant Controllers
+info - -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.
+err  - -------------------------------------------------------------
+err  - 'Grid\Composite Model EV1\Battery EV1.ElmDsl':
+err  - Initial condition already defined as 'select()'.
+info - Properties of variable 'soe': 'out','Local'
+err  - Parser failure at line 'inc(soe)=SoE0'.
+err  - Model 'Battery2' contains fault.
+err  - Initialisation of 'Grid\Composite Model EV1\Battery EV1.ElmDsl' failed!
+err  - Calculation not possible!
+err  - Initial conditions not valid, see output window.
+err  - -------------------------------------------------------------
+err  - 'Grid\Composite Model EV1\Battery EV1.ElmDsl':
+err  - Initial condition already defined as 'select()'.
+info - Properties of variable 'soe': 'out','Local'
+err  - Parser failure at line 'inc(soe)=SoE0'.
+err  - Model 'Battery2' contains fault.
+err  - Initialisation of 'Grid\Composite Model EV1\Battery EV1.ElmDsl' failed!
+err  - Calculation not possible!
+err  - Initial conditions not valid, see output window.
+err  - Initial conditions invalid.
+err  - Cannot run simulation
+end simulation
+err  - ASCII result export not possible. Result object All calculations does not contain data.
+err  - ASCII result export not possible. Result object All calculations does not contain data.
+err  - ASCII result export not possible. Result object All calculations does not contain data.
+err  - ASCII result export not possible. Result object All calculations does not contain data.
+err  - ASCII result export not possible. Result object All calculations does not contain data.
+err  - ASCII result export not possible. Result object All calculations does not contain data.
+err  - ASCII result export not possible. Result object All calculations does not contain data.
+info - DPL Command 'RunSimuWithResults' successfully executed

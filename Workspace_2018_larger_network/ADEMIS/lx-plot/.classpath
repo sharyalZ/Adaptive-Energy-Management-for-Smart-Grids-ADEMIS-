@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/jfreechart/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="lx-plot-standalone.jar"/>
+	<classpathentry kind="lib" path="lx-plot.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

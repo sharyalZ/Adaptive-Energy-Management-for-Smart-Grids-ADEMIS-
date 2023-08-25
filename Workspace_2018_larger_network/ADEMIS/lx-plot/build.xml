@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<project name="lx-plot" basedir="." default="build-jar">
+	<property name="name" value="lx-plot" />
+	<property name="src.dir" value="src" />
+	<property name="build.dir" value="bin" />
+	<property name="javadoc.dir" value="javadoc" />
+	<property name="libs.dir" value="libs" />
+	
+	<target name="build" description="Compile source tree java files">
+		<mkdir dir="${build.dir}" />
+		<javac includeantruntime="false" destdir="${build.dir}" source="1.8" target="1.8">
+			<src path="${src.dir}" />
+			<classpath>
+				<fileset dir="${libs.dir}">
+			        <include name="**/*.jar"/>
+			      </fileset>
+			</classpath>
+		</javac>
+	</target>
+
+	<target name="build-javadoc">
+		<javadoc packagenames="fr.irit.smac.lxplot.*" sourcepath="${src.dir}"
+			overview="${src.dir}/overview.html" destdir="${javadoc.dir}" version="true" 
+			windowtitle="${name}">
+			<arg value="-notimestamp" />
+		</javadoc>
+	</target>
+
+	<target name="build-jar" depends="build">
+		<jar destfile="${name}-standalone.jar">
+			<fileset dir="${build.dir}" />
+			<fileset dir="${src.dir}" includes="**/*.java" />
+            <zipfileset excludes="META-INF/*.SF" src="./libs/jfreechart/jcommon-1.0.17.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./libs/jfreechart/jfreechart-1.0.14.jar"/>
+		</jar>
+		<jar destfile="${name}.jar">
+			<fileset dir="${build.dir}" />
+			<fileset dir="${src.dir}" includes="**/*.java" />
+		</jar>
+	</target>
+<!--
+	<target name="build-dist" depends="build-jar">
+		<zip destfile="${name}-full.zip">
+			
+			<zipfileset prefix="${libs.dir}" dir="${libs.dir}" />
+			<fileset file="${name}.jar" />
+		</zip>
+	</target>-->
+
+	<target name="clean" description="Clean output directories">
+		<delete dir="${build.dir}" />
+		<delete file="${name}.jar" />
+		<delete dir="${javadoc.dir}" />
+		<delete file="${name}.zip" />
+	</target>
+
+</project>

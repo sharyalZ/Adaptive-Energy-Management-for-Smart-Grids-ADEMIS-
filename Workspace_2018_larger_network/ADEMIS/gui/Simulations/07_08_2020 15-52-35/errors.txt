@@ -1,0 +1,607 @@
+info - Purged project Larger_network_AB.
+info - Purged project Larger_network_AB.
+info - DPL Command 'RunSimuWithResults' started
+Script RunSimulationWithResults started
+File C:\Users\mauryav\Desktop\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv exists
+EV powers defined
+File C:\Users\mauryav\Desktop\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv exists
+PV rates defined
+File C:\Users\mauryav\Desktop\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv exists
+SoE0 powers defined
+Start simulation
+info - Element 'AC Voltage Source' is local reference in separated area of 'source bus'
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - Load flow iteration: 0
+info - Load flow iteration: 1
+info - Load flow iteration: 2
+info - Newton-Raphson converged with 2 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+info -      Report of Control Condition for Relevant Controllers
+info - -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV1\Battery EV1.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV1\Battery EV1.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV10\Battery EV10.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV10\Battery EV10.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV11\Battery EV11.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV11\Battery EV11.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV12\Battery EV12.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV12\Battery EV12.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV13\Battery EV13.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV13\Battery EV13.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV14\Battery EV14.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV14\Battery EV14.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV15\Battery EV15.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV15\Battery EV15.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV16\Battery EV16.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV16\Battery EV16.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV17\Battery EV17.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV17\Battery EV17.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV18\Battery EV18.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV18\Battery EV18.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV19\Battery EV19.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV19\Battery EV19.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV2\Battery EV2.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV2\Battery EV2.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV20\Battery EV20.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV20\Battery EV20.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV21\Battery EV21.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV21\Battery EV21.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV22\Battery EV22.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV22\Battery EV22.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV23\Battery EV23.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV23\Battery EV23.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV24\Battery EV24.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV24\Battery EV24.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV25\Battery EV25.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV25\Battery EV25.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV26\Battery EV26.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV26\Battery EV26.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV27\Battery EV27.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV27\Battery EV27.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV28\Battery EV28.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV28\Battery EV28.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV29\Battery EV29.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV29\Battery EV29.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV3\Battery EV3.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV3\Battery EV3.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV30\Battery EV30.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV30\Battery EV30.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV31\Battery EV31.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV31\Battery EV31.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV32\Battery EV32.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV32\Battery EV32.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV33\Battery EV33.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV33\Battery EV33.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV34\Battery EV34.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV34\Battery EV34.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV35\Battery EV35.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV35\Battery EV35.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV36\Battery EV36.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV36\Battery EV36.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV37\Battery EV37.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV37\Battery EV37.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV38\Battery EV38.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV38\Battery EV38.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV39\Battery EV39.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV39\Battery EV39.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV4\Battery EV4.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV4\Battery EV4.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV40\Battery EV40.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV40\Battery EV40.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV41\Battery EV41.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV41\Battery EV41.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV42\Battery EV42.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV42\Battery EV42.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV43\Battery EV43.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV43\Battery EV43.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV44\Battery EV44.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV44\Battery EV44.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV45\Battery EV45.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV45\Battery EV45.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV46\Battery EV46.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV46\Battery EV46.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV47\Battery EV47.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV47\Battery EV47.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV48\Battery EV48.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV48\Battery EV48.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV49\Battery EV49.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV49\Battery EV49.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV5\Battery EV5.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV5\Battery EV5.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV50\Battery EV50.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV50\Battery EV50.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV51\Battery EV51.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV51\Battery EV51.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV52\Battery EV52.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV52\Battery EV52.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV53\Battery EV53.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV53\Battery EV53.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV54\Battery EV54.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV54\Battery EV54.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV55\Battery EV55.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV55\Battery EV55.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV6\Battery EV6.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV6\Battery EV6.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV7\Battery EV7.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV7\Battery EV7.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV8\Battery EV8.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV8\Battery EV8.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV9\Battery EV9.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+warn - -------------------------------------------------------------
+warn - 'Grid\Composite Model EV9\Battery EV9.ElmDsl':
+warn - Time expression (0.01) of delay or movingavg evaluates to a value (0.0100 s) which is smaller than the integration step size (0.1000 s). The integration step size will be used.
+info - Element 'AC Voltage Source' is local reference in separated area of 'source bus'
+info - Element 'AC Voltage Source' is reference in 50.0 Hz-system
+info - 'Grid\Composite Model LOAD1\P-input LOAD1.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.001345).
+info - 'Grid\Composite Model LOAD19\P-input LOAD19.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.002553).
+info - 'Grid\Composite Model LOAD2\P-input LOAD2.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.003322).
+info - Output Qext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.001092).
+info - 'Grid\Composite Model LOAD24\P-input LOAD24.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.004122).
+info - Output Qext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.001355).
+info - 'Grid\Composite Model LOAD25\P-input LOAD25.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.002743).
+info - 'Grid\Composite Model LOAD49\P-input LOAD49.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.003445).
+info - Output Qext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.001132).
+info - 'Grid\Composite Model LOAD55\P-input LOAD55.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.002476).
+info - 'Grid\Composite Model PV1\Irr-input PV1.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV1\modelPV PV1.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV10\Irr-input PV10.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV10\modelPV PV10.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV11\Irr-input PV11.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV11\modelPV PV11.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV12\Irr-input PV12.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV12\modelPV PV12.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV13\Irr-input PV13.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV13\modelPV PV13.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV14\Irr-input PV14.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV14\modelPV PV14.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV15\Irr-input PV15.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV15\modelPV PV15.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV16\Irr-input PV16.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV16\modelPV PV16.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV17\Irr-input PV17.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV17\modelPV PV17.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV18\Irr-input PV18.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV18\modelPV PV18.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV19\Irr-input PV19.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV19\modelPV PV19.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV2\Irr-input PV2.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV2\modelPV PV2.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV20\Irr-input PV20.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV20\modelPV PV20.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV21\Irr-input PV21.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV21\modelPV PV21.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV22\Irr-input PV22.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV22\modelPV PV22.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV23\Irr-input PV23.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV23\modelPV PV23.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV24\Irr-input PV24.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV24\modelPV PV24.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV25\Irr-input PV25.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV25\modelPV PV25.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV26\Irr-input PV26.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV26\modelPV PV26.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV27\Irr-input PV27.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV27\modelPV PV27.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV28\Irr-input PV28.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV28\modelPV PV28.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV29\Irr-input PV29.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV29\modelPV PV29.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV3\Irr-input PV3.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV3\modelPV PV3.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV30\Irr-input PV30.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV30\modelPV PV30.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV31\Irr-input PV31.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV31\modelPV PV31.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV32\Irr-input PV32.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV32\modelPV PV32.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV33\Irr-input PV33.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV33\modelPV PV33.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV34\Irr-input PV34.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV34\modelPV PV34.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV35\Irr-input PV35.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV35\modelPV PV35.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV36\Irr-input PV36.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV36\modelPV PV36.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV37\Irr-input PV37.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV37\modelPV PV37.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV38\Irr-input PV38.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV38\modelPV PV38.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV39\Irr-input PV39.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV39\modelPV PV39.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV4\Irr-input PV4.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV4\modelPV PV4.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV40\Irr-input PV40.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV40\modelPV PV40.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV41\Irr-input PV41.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV41\modelPV PV41.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV42\Irr-input PV42.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV42\modelPV PV42.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV43\Irr-input PV43.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV43\modelPV PV43.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV44\Irr-input PV44.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV44\modelPV PV44.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV45\Irr-input PV45.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV45\modelPV PV45.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV46\Irr-input PV46.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV46\modelPV PV46.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV47\Irr-input PV47.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV47\modelPV PV47.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV48\Irr-input PV48.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV48\modelPV PV48.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV49\Irr-input PV49.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV49\modelPV PV49.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV5\Irr-input PV5.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV5\modelPV PV5.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV50\Irr-input PV50.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV50\modelPV PV50.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV51\Irr-input PV51.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV51\modelPV PV51.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV52\Irr-input PV52.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV52\modelPV PV52.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV53\Irr-input PV53.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV53\modelPV PV53.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV54\Irr-input PV54.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV54\modelPV PV54.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV55\Irr-input PV55.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV55\modelPV PV55.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV6\Irr-input PV6.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV6\modelPV PV6.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV7\Irr-input PV7.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV7\modelPV PV7.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV8\Irr-input PV8.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV8\modelPV PV8.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite Model PV9\Irr-input PV9.ElmDsl':
+info - Output Irr is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.036798).
+info - 'Grid\Composite Model PV9\modelPV PV9.ElmDsl':
+info - Output P_ref is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.055196).
+info - 'Grid\Composite ModelLVLoadTest\P-input LVLoad1.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.001345).
+info - 'Grid\Composite ModelLoadTest\P-input Load1.ElmDsl':
+info - Output Pext is not correctly initialised (value at initialisation = 0.000000, value at first evaluation = 0.001345).
+info - (t=18:00:00 h) Initial conditions calculated.
+info - (t=18:00:01 h) Simulation successfully executed.
+end simulation
+info - 13 points in time of 56 variables exported to file C:\Users\mauryav\Desktop\workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT\SoE.csv.
+info - 13 points in time of 56 variables exported to file C:\Users\mauryav\Desktop\workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT\PVPower.csv.
+info - 13 points in time of 2 variables exported to file C:\Users\mauryav\Desktop\workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT\ExternalGrid.csv.
+info - 13 points in time of 1858 variables exported to file C:\Users\mauryav\Desktop\workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT\Voltage.csv.
+info - 13 points in time of 56 variables exported to file C:\Users\mauryav\Desktop\workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT\LoadPower.csv.
+info - 13 points in time of 205 variables exported to file C:\Users\mauryav\Desktop\workspace_2018_larger_network\PowerFactory\CommunicationFiles\Simplified_ELVT\ILine.csv.
+info - DPL Command 'RunSimuWithResults' successfully executed

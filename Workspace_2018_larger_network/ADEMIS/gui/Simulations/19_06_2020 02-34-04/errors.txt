@@ -1,0 +1,39 @@
+info - Purged project Simplified_ELVT.
+info - Purged project Simplified_ELVT.
+info - Purged project Simplified_ELVT.
+info - DPL Command 'RunSimuWithResults' started
+Script RunSimulationWithResults started
+File C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\DefinePevs.csv exists
+EV powers defined
+File C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\DefineRatePVs.csv exists
+PV rates defined
+File C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\DefineSoE0.csv exists
+SoE0 powers defined
+Start simulation
+info - Element 'External Grid' is local reference in separated area of 'SourceBus'
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - Load flow iteration: 0
+info - Load flow iteration: 1
+info - Newton-Raphson converged with 1 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+info -      Report of Control Condition for Relevant Controllers
+info - -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.
+info - Element 'External Grid' is local reference in separated area of 'SourceBus'
+info - Element 'External Grid' is reference in 50.0 Hz-system
+info - (t=18:00:00 h) Initial conditions calculated.
+info - (t=18:00:01 h) Simulation successfully executed.
+end simulation
+info - 13 points in time of 56 variables exported to file C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\SoE.csv.
+info - 13 points in time of 56 variables exported to file C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\PVPower.csv.
+info - 13 points in time of 2 variables exported to file C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\ExternalGrid.csv.
+info - 13 points in time of 207 variables exported to file C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\Voltage.csv.
+info - 13 points in time of 56 variables exported to file C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\LoadPower.csv.
+warn - The following columns were not found in the results.
+warn -   'All calculations': 'LINE121', m:I:bus1
+warn -   'All calculations': 'LINE131', m:I:bus1
+info - 13 points in time of 203 variables exported to file C:\Users\mauryav\Desktop\workspace_2018\PowerFactory\CommunicationFiles\Simplified_ELVT\ILine.csv.
+info - DPL Command 'RunSimuWithResults' successfully executed

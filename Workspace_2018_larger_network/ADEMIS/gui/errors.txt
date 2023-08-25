@@ -1,0 +1,792 @@
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61156.0  tstop= 61157.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61156.0  tstop= 61157.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.552691221237183
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.20844674110412598
+Simulation ok
+executed 4
+Python total time: 4.86286735534668
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61157.0  tstop= 61158.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61157.0  tstop= 61158.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.470773935317993
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2161562442779541
+Simulation ok
+executed 4
+Python total time: 5.784670352935791
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61158.0  tstop= 61159.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61158.0  tstop= 61159.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.630260229110718
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.22540068626403809
+Simulation ok
+executed 4
+Python total time: 6.001310348510742
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61159.0  tstop= 61160.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61159.0  tstop= 61160.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.0494911670684814
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.18801331520080566
+Simulation ok
+executed 4
+Python total time: 5.3502068519592285
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61160.0  tstop= 61161.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61160.0  tstop= 61161.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.3896191120147705
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.23963046073913574
+Simulation ok
+executed 4
+Python total time: 5.723997116088867
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61161.0  tstop= 61162.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61161.0  tstop= 61162.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 6.148515224456787
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2453458309173584
+Simulation ok
+executed 4
+Python total time: 6.536479711532593
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61162.0  tstop= 61163.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61162.0  tstop= 61163.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.730532646179199
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.21143341064453125
+Simulation ok
+executed 4
+Python total time: 6.069624900817871
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61163.0  tstop= 61164.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61163.0  tstop= 61164.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.642480850219727
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.30054283142089844
+Simulation ok
+executed 4
+Python total time: 6.0567193031311035
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61164.0  tstop= 61165.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61164.0  tstop= 61165.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 6.222871541976929
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.21444058418273926
+Simulation ok
+executed 4
+Python total time: 6.5714638233184814
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61165.0  tstop= 61166.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61165.0  tstop= 61166.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.696017503738403
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.3013744354248047
+Simulation ok
+executed 4
+Python total time: 6.119065999984741
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61166.0  tstop= 61167.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61166.0  tstop= 61167.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.683645963668823
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.18435192108154297
+Simulation ok
+executed 4
+Python total time: 6.045524597167969
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61167.0  tstop= 61168.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61167.0  tstop= 61168.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.962050676345825
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.20844507217407227
+Simulation ok
+executed 4
+Python total time: 5.2871832847595215
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61168.0  tstop= 61169.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61168.0  tstop= 61169.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.049015760421753
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.49889421463012695
+Simulation ok
+executed 4
+Python total time: 5.67855978012085
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61169.0  tstop= 61170.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61169.0  tstop= 61170.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.775714159011841
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.17752885818481445
+Simulation ok
+executed 4
+Python total time: 6.060954570770264
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61170.0  tstop= 61171.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61170.0  tstop= 61171.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.012500047683716
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.20846223831176758
+Simulation ok
+executed 4
+Python total time: 5.321695804595947
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61171.0  tstop= 61172.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61171.0  tstop= 61172.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.823196172714233
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.20545029640197754
+Simulation ok
+executed 4
+Python total time: 5.230084180831909
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61172.0  tstop= 61173.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61172.0  tstop= 61173.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.584884881973267
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.20943975448608398
+Simulation ok
+executed 4
+Python total time: 5.909017562866211
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61173.0  tstop= 61174.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61173.0  tstop= 61174.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.698697566986084
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2589445114135742
+Simulation ok
+executed 4
+Python total time: 6.082913637161255
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61174.0  tstop= 61175.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61174.0  tstop= 61175.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.644160509109497
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.24634218215942383
+Simulation ok
+executed 4
+Python total time: 6.020157337188721
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61175.0  tstop= 61176.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61175.0  tstop= 61176.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.984055280685425
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.20245885848999023
+Simulation ok
+executed 4
+Python total time: 5.312684535980225
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61176.0  tstop= 61177.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61176.0  tstop= 61177.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.928542613983154
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2308950424194336
+Simulation ok
+executed 4
+Python total time: 5.284613609313965
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61177.0  tstop= 61178.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61177.0  tstop= 61178.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.566862344741821
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2174367904663086
+Simulation ok
+executed 4
+Python total time: 5.914948463439941
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61178.0  tstop= 61179.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61178.0  tstop= 61179.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.363483190536499
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2139759063720703
+Simulation ok
+executed 4
+Python total time: 5.695144891738892
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61179.0  tstop= 61180.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61179.0  tstop= 61180.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.801417827606201
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.22838973999023438
+Simulation ok
+executed 4
+Python total time: 5.128543138504028
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61180.0  tstop= 61181.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61180.0  tstop= 61181.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.654483079910278
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.19400548934936523
+Simulation ok
+executed 4
+Python total time: 5.982642889022827
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61181.0  tstop= 61182.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61181.0  tstop= 61182.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.872082471847534
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.1874995231628418
+Simulation ok
+executed 4
+Python total time: 5.288969278335571
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61182.0  tstop= 61183.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61182.0  tstop= 61183.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.77324652671814
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.22739338874816895
+Simulation ok
+executed 4
+Python total time: 5.112340211868286
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61183.0  tstop= 61184.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61183.0  tstop= 61184.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.920477390289307
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.23540520668029785
+Simulation ok
+executed 4
+Python total time: 6.272571802139282
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61184.0  tstop= 61185.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61184.0  tstop= 61185.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.301232814788818
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2204117774963379
+Simulation ok
+executed 4
+Python total time: 5.6343419551849365
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61185.0  tstop= 61186.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61185.0  tstop= 61186.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.7916810512542725
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.25482916831970215
+Simulation ok
+executed 4
+Python total time: 5.145245552062988
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61186.0  tstop= 61187.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61186.0  tstop= 61187.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.625812292098999
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.21006369590759277
+Simulation ok
+executed 4
+Python total time: 5.998440980911255
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61187.0  tstop= 61188.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61187.0  tstop= 61188.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.288172245025635
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2440357208251953
+Simulation ok
+executed 4
+Python total time: 5.664846181869507
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61188.0  tstop= 61189.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61188.0  tstop= 61189.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.969791412353516
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.20296812057495117
+Simulation ok
+executed 4
+Python total time: 6.292438507080078
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61189.0  tstop= 61190.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61189.0  tstop= 61190.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.536960601806641
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.26329708099365234
+Simulation ok
+executed 4
+Python total time: 5.943385362625122
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61190.0  tstop= 61191.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61190.0  tstop= 61191.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 6.04906964302063
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2662501335144043
+Simulation ok
+executed 4
+Python total time: 6.406590700149536
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61191.0  tstop= 61192.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61191.0  tstop= 61192.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 6.154432773590088
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.22739720344543457
+Simulation ok
+executed 4
+Python total time: 6.518465518951416
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61192.0  tstop= 61193.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61192.0  tstop= 61193.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.891485691070557
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.1934826374053955
+Simulation ok
+executed 4
+Python total time: 5.186697006225586
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61193.0  tstop= 61194.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61193.0  tstop= 61194.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.145064353942871
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.24834322929382324
+Simulation ok
+executed 4
+Python total time: 5.523579120635986
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61194.0  tstop= 61195.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61194.0  tstop= 61195.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.627741813659668
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.4479637145996094
+Simulation ok
+executed 4
+Python total time: 6.20986270904541
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61195.0  tstop= 61196.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61195.0  tstop= 61196.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.772326469421387
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2461543083190918
+Simulation ok
+executed 4
+Python total time: 5.116219758987427
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61196.0  tstop= 61197.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61196.0  tstop= 61197.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.176342248916626
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.24775481224060059
+Simulation ok
+executed 4
+Python total time: 5.530205726623535
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61197.0  tstop= 61198.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61197.0  tstop= 61198.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.9524641036987305
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.26081418991088867
+Simulation ok
+executed 4
+Python total time: 5.327973365783691
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61198.0  tstop= 61199.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61198.0  tstop= 61199.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 4.791924238204956
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.2094402313232422
+Simulation ok
+executed 4
+Python total time: 5.215817213058472
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61199.0  tstop= 61200.0
+++++++++ scriptName= \szafar.IntUser\"Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl
+++++++++ script= <l3>\szafar.IntUser\Larger_network_AB.IntPrj\Study Cases.IntPrjfolder\Study Case.IntCase\Scripts\tests.ComDpl</l3>
+PevsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefinePevs.csv SoE0File= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineSoE0.csv  RatepvsFile= C:\Users\szafar\Desktop\ADEMIS code\workspace01\Workspace_2018_larger_network\PowerFactory\CommunicationFiles\Larger_network_AB\DefineRatePVs.csv stepSize= 0.01  tstart= 61199.0  tstop= 61200.0
+before res= PevsFile
+before res= SoE0File
+before res= RatepvsFile
+before res= stepSize
+before res= startTime
+before res= stopTime
+Simulation time: 5.621826171875
+res= 0
+ warnings= []
+ errors= []
+Print Time: 0.23488354682922363
+Simulation ok
+executed 4
+Python total time: 5.984941720962524
